@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html class="loading" lang="en" data-textdirection="ltr">
+<!-- BEGIN: Head-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LeadTimeMAM</title>
+  <!-- Google Font: Source Sans Pro -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="/static/plugins/fontawesome-free/css/all.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="/static/dist/css/adminlte.min.css">
+
+  <!-- custom style -->
+  <link rel="stylesheet" href="/static/dist/css/custom.css">
+
+  <!-- Jquery -->
+
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+  <!-- Google chart -->
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <style>
+    img{height: 30px;}
+    .navbar-cuddles{margin: 0px!important;}
+    .main-footer{margin: 0px!important;}
+    .navbar-collapse{font-size: 1rem!important;}
+    .output{font-size: 1.2rem!important;}
+    .expected-parameter{font-size: 1.2rem!important;}
+  </style>
+  <style>
+      .footer {
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          height: 50px;
+          width: 100%;                       
+      }
+  </style>
+ </head>
+<!-- END: Head-->
+
+<!-- BEGIN: Body-->
+
+<body class="horizontal-layout horizontal-menu  navbar-floating footer-static  " data-open="hover" data-menu="horizontal-menu" data-col="">
+  <nav class="main-header navbar navbar-expand-md navbar-light navbar-white navbar-cuddles">
+    <div class="container-fluid">
+        <a href="/home/" class="navbar-brand">
+            <img src="/static/dist/img/cuddles-logo1.png" alt="Cuddles Logo" class="brand-image  " style="opacity: .8">    
+        </a>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link active" href="/home/">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link" href="/diet/">Diet Plan</a>
+            <a class="nav-item nav-link" href="/sam/">SAM Patient</a>
+            <a class="nav-item nav-link" href="/mam/">MAM Patient</a>
+            <a class="nav-item nav-link" href="/chatbot/">Chatbot</a>
+          </div>
+        </div>
+        <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div>
+            <a class="btn btn-danger" href="/logout/"><i class="mr-50" data-feather="power"></i> Logout</a>
+        </div>	
+    </div>
+  </nav>
+
+</br>
+</br>
+</br>
+<div class="col" align="center" font="">
+  <font face="Garamond" color="#4863A0">
+    <h2>LEAD TIME FOR BEING WELL NOURISHED (MAM CATEGORY)</h2>
+  </font>
+</div>    
+</br>
+</br>
+<form method="POST" action=".">
+{% csrf_token %}    
+
+  <div class="container">
+      <div class="row align-items-start">
+        <div class="col" align="center">
+          <h4>Treatment Phase</h4>
+          <select class="custom-select form-control-border" name="treatment" id="treatment" data-style="btn btn-primary btn-round" data-size="5" tabindex="-98">
+              {% for i in list_treatment %}
+              <option value="{{ i }}"{% if treatment == i %} selected {% endif %}>{{ i }}</option>
+              {% endfor %}
+          </select>
+        </div>
+        <div class="col" align="center">
+          <h4>Diagnosis Stage</h4>
+          <select class="custom-select form-control-border" name="diagnosis" id="diagnosis" data-style="btn btn-primary btn-round" data-size="5" tabindex="-98">
+              {% for i in list_diagnosis %}
+              <option value="{{ i }}"{% if diagnosis == i %} selected {% endif %}>{{ i }}</option>
+              {% endfor %}
+          </select>
+        </div>
+        <div class="col" align="center">
+          <h4>Cancer Type</h4>
+          <select class="custom-select form-control-border" name="cancer" id="cancer" data-style="btn btn-primary btn-round" data-size="5" tabindex="-98">
+              {% for i in list_cancer %}
+              <option value="{{ i }}"{% if cancer == i %} selected {% endif %}>{{ i }}</option>
+              {% endfor %}
+          </select>
+        </div>          
+      </div>
+  </div>
+  </br>
+  </br>
+  <div class="container" align="center">
+    <div class="row align-items-start">
+        
+    </div>  
+  </div>
+  </br>
+  <div class="container expected-parameter">
+    <!-- <div class="col" align="left" font="">
+      <font face="Garamond" color="#FF0000">
+        <p>Please enter expected paramaeters to be well nourished.<p>
+      </font>
+    </div> -->
+  </br>
+    <div class="row align-items-start">
+      <div class="form-group" align="center">
+        <h4>Current Age in Months</h4>
+        <input type="number" min="0" step="0.01" class="custom-select form-control-border" id="current_age" name="current_age" placeholder="Age in month" value="{{ current_age }}">
+      </div>  
+      <div class="col" align="center">
+        <h4>Height</h4>
+        <input type="number" min="0" step="0.01" class="custom-select form-control-border" id="height" name="height" placeholder="Enter height" value="{{ height }}">
+      </div>
+      <div class="col" align="center">
+        <h4>Weight</h4>
+        <input type="number" min="0" step="0.01" class="custom-select form-control-border" id="weight" name="weight" placeholder="Enter weight" value="{{ weight }}">
+      </div> 
+      <div class="col" align="center">
+        <h4>BMI</h4>
+        <input type="number" min="0" step="0.01" class="custom-select form-control-border" id="bmi" name="bmi" placeholder="Enter bmi" value="{{ bmi }}">
+      </div>
+      <!-- <div class="col" align="center">
+        <h4>MUAC</h4>
+        <input type="number" min="0" step="0.01" class="custom-select form-control-border" id="muac" name="muac" placeholder="Enter height" value="{{ muac }}">
+      </div> -->
+    </div>
+  </div>
+  </br>
+  </br>
+  </br>
+  <div class="mx-auto" style="width: 400px;" align="center">	
+      <button type="submit" class="btn btn-primary">SUBMIT</button>
+  </div>
+</form>
+</br>
+</br>
+</br>
+</br>
+<div class="container output">
+  <div class="col" align="left" font="">
+    <font face="Garamond" color="#800080">
+      <p>The minimum required duration for being well nourished is {{ result }} months.</p>
+    </font>
+  </div>
+</div>
+
+<div class="footer">
+    <footer class="main-footer">
+    <!-- To the right -->
+    <div class="float-right d-none d-sm-inline">
+        
+    </div>
+    <!-- Default to the left -->
+    <strong>Copyright &copy; 2019-2022 <a href="https://www.cuddlesfoundation.org/">Cuddles Foundation</a>.</strong> All rights reserved.
+    </footer>    
+</div>
+
+  <script src="/static/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- AdminLTE App -->
+      <script src="/static/dist/js/adminlte.min.js"></script>
+      <!--  Plugin for Date Time Picker and Full Calendar Plugin-->
+      <script src="/static/dist/js/moment.min.js"></script>
+      <!--  Plugin for the DateTimePicker, full documentation here: https://eonasdan.github.io/bootstrap-datetimepicker/ -->
+      <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+      <script src="/static/dist/js/bootstrap-datetimepicker.js"></script>
+      <link rel="stylesheet" href="/static/plugins/select2/css/select2.min.css">
+      <link rel="stylesheet" href="/static/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+      <!-- Select2 -->
+      <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+      <!-- Jquery -->
+    
+
+    <script>
+        $(window).on('load', function() {
+            if (feather) {
+                feather.replace({
+                    width: 14,
+                    height: 14
+                });
+            }
+        })
+         function view_more_btn(){
+            $('.view_contain').slideToggle();
+            $('#text_change').text("View Less");
+        }
+    </script>
+   <!-- <script type="text/javascript">
+      function ExpandTable(){
+      var FontSize = 11;
+      }
+      function ExpandTable(){
+        var TabWidth = $("#tbl").width();
+        var DivWidth= $("#narrowColumn");
+        if (DivWidth <= TabWidth)
+        {
+          $("#tbl").css('font-size', FontSize);
+        }
+      }
+      
+   </script> -->
+   <script>
+    $("#tbl").css('font-size', '18px');
+   </script>
+
+
+</body>
+</html>

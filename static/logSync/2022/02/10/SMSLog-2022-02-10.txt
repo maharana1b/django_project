@@ -1,0 +1,17 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 02/10/2022, 15:32:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 3102162342. Please collect the ration from - Vikas super market, Address: Erandawane, Pune-411004 from 08:00AM - 8:00PM between 10February - 13February.For more details contact 7972074872"
+Activity Log :{"request_id":"32626a6f4661363536303130","type":"success"}
+
+
+==================================================
+
+
+Log Date & Time : 02/10/2022, 16:00:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 3102103276. Please collect the ration from - Vikas super market, Address: Erandawane, Pune-411004 from 08:00AM - 8:00PM between 10February - 13February.For more details contact 7972074872"
+Activity Log :{"request_id":"32626a703062333839393032","type":"success"}

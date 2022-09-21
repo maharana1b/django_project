@@ -1,0 +1,562 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 00:13:52hrs{
+    "u": "9143cfd2873fae47868036d266422d42",
+    "versionCode": "112"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 00:15:39hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 00:15:39hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-25T17:26:07.885302",
+    "hospitalDate": "2022-03-28T00:15:34.524958",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 16,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 16:42:29hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 16:42:29hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T16:29:21.606807",
+    "hospitalDate": "2022-03-28T16:42:24.183518",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 17:22:53hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 17:22:53hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T17:06:14.203489",
+    "hospitalDate": "2022-03-28T17:22:49.831348",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 50,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 17:24:03hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 17:24:03hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T17:06:14.203489",
+    "hospitalDate": "2022-03-28T17:23:59.016018",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 88,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 18:10:52hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 18:10:52hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T17:28:22.256327",
+    "hospitalDate": "2022-03-28T18:10:46.805792",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 18:36:12hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 18:36:12hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T17:28:22.256327",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 18:39:38hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 18:39:38hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T17:28:22.256327",
+    "hospitalDate": "2022-03-28T18:39:33.726143",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 44,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:37:11hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:37:11hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T20:37:06.606204",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 26,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:40:20hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:40:20hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T20:40:17.139053",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 26,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:41:28hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:41:28hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T20:41:24.997657",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 62,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:42:05hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 20:42:05hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T20:42:00.601410",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:17:21hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:17:21hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T21:17:13.864132",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 24,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:29:47hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:29:47hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T21:29:41.931481",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 48,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:32:06hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:32:06hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T21:32:02.546587",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 102,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:32:39hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:32:39hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T21:32:33.103810",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:56:57hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 21:56:57hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2022-03-28T21:56:53.722273",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 56,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:00:22hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:00:22hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T19:00:49.392973",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T10:18:26.865940",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:47:26hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:47:26hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T22:43:31.383011",
+    "hospitalDate": "2022-03-28T22:47:19.831909",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T22:11:27.771114",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:52:49hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:52:49hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T22:43:31.383011",
+    "hospitalDate": "2022-03-28T22:52:44.982339",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T22:11:27.771114",
+    "rotate_ration": false,
+    "fs_days": 98,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:53:34hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 22:53:34hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T22:43:31.383011",
+    "hospitalDate": "2022-03-28T22:53:26.050508",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T22:11:27.771114",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 23:02:54hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 23:02:54hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T22:43:31.383011",
+    "hospitalDate": "2022-03-28T23:02:49.179470",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T22:11:27.771114",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 23:03:43hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 23:03:43hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-03-28T22:43:31.383011",
+    "hospitalDate": "2022-03-28T23:03:40.719905",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T22:11:27.771114",
+    "rotate_ration": false,
+    "fs_days": 80,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 23:48:11hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/28/2022, 23:48:11hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-14T18:45:45.614217",
+    "hospitalDate": "2022-03-28T23:19:49.178529",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-28T22:11:27.771114",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 119,
+    "versionName": "2.6.38"
+}

@@ -1,0 +1,9 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 05/09/2022, 10:52:01hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 3305561591. Please collect the ration from - Rather Provisional Store, Address: SKIMS from 10:30AM - 12:30PM between 9th - 19th May 2022.For more details contact 9596226935"
+Activity Log :{"request_id":"3265696a5a61363733323239","type":"success"}

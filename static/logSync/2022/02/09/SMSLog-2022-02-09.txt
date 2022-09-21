@@ -1,0 +1,9 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 17:14:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 2702775286. Please collect the ration from - Apna Bazar co-op, Address: Kamgar,Dadar(E) Mumbai-14 from 10:00AM - 5:00PM between 14February - 16February.For more details contact 7208631554"
+Activity Log :{"request_id":"326269716e61303032313430","type":"success"}

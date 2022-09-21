@@ -1,0 +1,737 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:02:27hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:02:27hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T10:57:01.840696",
+    "hospitalDate": "2022-03-05T09:16:54.740106",
+    "programDataDate": "2022-03-08T16:46:33.512609",
+    "rationProvidedDate": "2022-03-01T12:34:10.648916",
+    "rotate_ration": false,
+    "fs_days": 6,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:02:39hrs"https://admin.cuddlesfoundation.com/api/sync/push/1eb237ce-0d2a-45a3-8719-aa29f5aeea25"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:02:39hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "d25f437637eb9abc",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [],
+    "infection": [],
+    "patient": [],
+    "program_data": [],
+    "rationprovided": [],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-09 11:02:38",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 88,
+        "versionName": "2.6.7"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:07:39hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:07:39hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T10:57:01.840696",
+    "hospitalDate": "2022-03-05T09:16:54.740106",
+    "programDataDate": "2022-03-08T16:46:33.512609",
+    "rationProvidedDate": "2022-03-01T12:34:10.648916",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:08:50hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/61827e18-eea6-bcd6-fab6-1bd7a88382ce"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:08:50hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:08:42.759519",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-07T10:36:59.688892",
+    "rationProvidedDate": "2022-03-09T11:08:42.845275",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:09:17hrs"https://admin.cuddlesfoundation.com/api/sync/push/b5b846fb-e0bd-d7ad-c93a-e2065cad07fc"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:09:17hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "1ab0f523768d3eb2",
+        "name": "Lenovo TB-X505X"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [],
+    "infection": [],
+    "patient": [],
+    "program_data": [],
+    "rationprovided": [
+        {
+            "active": 2,
+            "date_of_sharing_pin": "",
+            "distribution_type": 0,
+            "guardian_name": "Popinder Singh",
+            "hospital_id": "33",
+            "id": 20160,
+            "kit_type": 0,
+            "mobile_no": "9906861449",
+            "patient_uuid": "20210607155840045a4bcadc-8bc2-45b1-a14f-4a2d1992ac59",
+            "preferred_language": "1",
+            "ration_coupon_code": "3303370236",
+            "rationcycle": "2022-03-01",
+            "server_created_on": "2022-03-01T12:34:08.912181",
+            "server_updated_on": "2022-03-09T11:08:53.231425",
+            "syncStatus": 0
+        }
+    ],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-09 11:09:16",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 88,
+        "versionName": "2.6.7"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:19:22hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/95f73367-d967-6cc8-e698-7de0c479d7b6"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:19:22hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:03:12.601373",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-08T15:34:02.011068",
+    "rationProvidedDate": "2022-03-08T13:30:24.458308",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:28:51hrs"https://admin.cuddlesfoundation.com/api/sync/push/1eb237ce-0d2a-45a3-8719-aa29f5aeea25"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:28:51hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 53,
+            "bmi": "13.82",
+            "bmi_z_score": "-1",
+            "bmi_z_score_result": "Mild Wasting",
+            "click_log": "O:Anthro_2022-03-09 11:17:43;O:Bio_2022-03-09 11:18:39;O:Clinical_2022-03-09 11:20:13;O:WHO_2022-03-09 11:20:20;O:DRecall_2022-03-09 11:20:30;O:Side_Effect_2022-03-09 11:28:06;O:Route_2022-03-09 11:28:10;O:Diet_Plan_2022-03-09 11:28:11;O:Supplement_2022-03-09 11:28:12;O:Ration_Q_2022-03-09 11:28:14;O:Summary_2022-03-09 11:28:46",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-09 11:28:46",
+            "counseller_id": 147,
+            "counseller_name": "Rinkal Rambhiya",
+            "create_date_app_side": "2022-03-09 11:17:43",
+            "created_on": "2022-03-09 11:17:43",
+            "days_before_next_vist": 1,
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "96",
+            "height_z_score": "-2",
+            "height_z_score_result": "Moderate Stunting",
+            "mode": 1,
+            "muac": "14",
+            "muac_reason": "",
+            "muac_z_score": "14",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "Eating well\nCounselled to increase milk intake",
+            "patient_type": 2,
+            "patient_uuid": "20210415131319649832a31e-a6e2-4e63-a54a-facae7fc4c53",
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "weight": "12.74",
+            "weight_z_score": "-2",
+            "weight_z_score_result": "Moderate Underweight"
+        }
+    ],
+    "bio_chemical_assesment": [
+        {
+            "active": 0,
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "b_range": "25",
+            "biochemical_id": "24",
+            "value": "4430"
+        },
+        {
+            "active": 0,
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "7.8"
+        }
+    ],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "d25f437637eb9abc",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 991.0,
+            "consumed24calper": 78.836,
+            "consumed24cho": 128.0,
+            "consumed24fat": 35.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 31.0,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-09 11:28:06",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "100",
+                    "dateTime": "08:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "09:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1",
+                    "dateTime": "10:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.25",
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "100",
+                    "dateTime": "16:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1",
+                    "dateTime": "16:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "1",
+                    "dateTime": "20:30",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "20:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.25",
+                    "dateTime": "20:30",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 60.0,
+            "reqCal": 1257.04,
+            "req_fat_per": 30.0,
+            "reqPro": 31.849998,
+            "req_pro_per": 10.0,
+            "req_cho": 188.0,
+            "req_fat": 41.0,
+            "req_fluid": 1.1,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "diet_plan": [],
+            "plannedCal": 0.0,
+            "plannedPer": 0.0,
+            "plannedPro": 0.0,
+            "plannedcalper": 0.0,
+            "plannedcho": 0.0,
+            "plannedfat": 0.0,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "create_date_app_side": "2022-03-09 11:28:11",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        }
+    ],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "create_date_app_side": "2022-03-09 11:28:10",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Rinkal Rambhiya"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "create_date_app_side": "2022-03-09 11:28:10",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "patient": [],
+    "program_data": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-09",
+            "dr_discretion": 0,
+            "patient_uuid": "20210415131319649832a31e-a6e2-4e63-a54a-facae7fc4c53",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-09 11:28:50",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 88,
+        "versionName": "2.6.7"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "202203091117433399fe91f9-4c6b-4f04-b716-0dfd22681ee6",
+            "create_date_app_side": "2022-03-09 11:20:30",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 2
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:29:02hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:29:02hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:17:24.073305",
+    "hospitalDate": "2022-03-05T09:16:54.740106",
+    "programDataDate": "2022-03-08T16:46:33.512609",
+    "rationProvidedDate": "2022-03-01T12:34:10.648916",
+    "rotate_ration": false,
+    "fs_days": 2,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:07hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:07hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:17:24.073305",
+    "hospitalDate": "2022-03-05T09:16:54.740106",
+    "programDataDate": "2022-03-08T16:46:33.512609",
+    "rationProvidedDate": "2022-03-01T12:34:10.648916",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:11hrs"https://admin.cuddlesfoundation.com/api/sync/push/0c085d5a-f424-723e-218f-f9545c74c163"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:11hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "64d49ace8a4fdb4b",
+        "name": "Lenovo TB-X505X"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [],
+    "infection": [],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [
+        {
+            "active": 2,
+            "create_date_app_side": "2022-03-09 11:30:09",
+            "date_of_sharing_pin": "",
+            "distribution_type": 0,
+            "guardian_name": "Venkateshwarlu",
+            "hospital_id": "18",
+            "id": 0,
+            "kit_type": 0,
+            "mobile_no": "9885646534",
+            "patient_uuid": "20220309112517478a021787-0655-437f-b7ef-479582cd02ae",
+            "preferred_language": "6",
+            "rationcycle": "2022-03-01",
+            "syncStatus": 0
+        }
+    ],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-09 11:30:11",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 118,
+        "versionName": "2.6.37"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:41hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3c09d27e-1ae6-b5a2-43ae-2393568eb0bf"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:41hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:29:55.716774",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-09T10:09:18.002872",
+    "rationProvidedDate": "2022-03-09T11:30:17.837637",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:41hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:30:41hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:17:24.073305",
+    "hospitalDate": "2022-03-05T09:16:54.740106",
+    "programDataDate": "2022-03-08T16:46:33.512609",
+    "rationProvidedDate": "2022-03-01T12:34:10.648916",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:33:00hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/d86a93a4-6cbf-9c6a-e4b5-abfc0b94d0dd"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:33:00hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:21:27.386354",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-08T13:46:57.479579",
+    "rationProvidedDate": "2022-03-01T12:34:04.116765",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:33:54hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:33:54hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-08T16:22:55.652822",
+    "hospitalDate": "2022-03-08T16:27:21.277514",
+    "programDataDate": "2022-03-08T11:30:13.173354",
+    "rationProvidedDate": "2022-03-01T12:34:14.981988",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:35:53hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/09/2022, 11:35:53hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-09T11:17:24.073305",
+    "hospitalDate": "2022-03-05T09:16:54.740106",
+    "programDataDate": "2022-03-08T16:46:33.512609",
+    "rationProvidedDate": "2022-03-01T12:34:10.648916",
+    "rotate_ration": false,
+    "fs_days": 2,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}

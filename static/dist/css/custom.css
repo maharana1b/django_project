@@ -1,0 +1,110 @@
+body {
+font-size: 0.80rem;
+line-height: 1.25;
+font-family: Roboto;
+}
+
+.h3, h3 {
+font-size: 1rem;
+font-weight:600;
+}
+
+.h4, h4 {
+font-size: 0.9rem;
+font-weight:500;
+}
+
+
+.table td, .table th {
+padding: .2rem;
+vertical-align: top;
+border: 1px solid #dee2e6;
+}
+
+.btn {
+	font-size: 0.9rem;
+    line-height: 1.25;
+    }
+
+.btn-primary {
+color: #ffffff;
+background-color: #ff5537;
+border-color: #ff5537;
+border-width: 2px;
+box-shadow: none;
+}
+
+.btn-primary:hover {
+color: #ffffff;
+background-color: #ff5537;
+border-color: #ffffff;
+}
+
+
+.card-header {
+border-bottom-color: #ff5537;
+}
+
+.navbar-white {
+    background-color: #ffffff;
+}
+
+.card-title {
+        font-size:0.95rem;
+    	font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #000000;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-brand{
+    color: #000000;
+}
+
+
+/*!
+ * Date Picker Style
+ */
+.ui-datepicker {
+	width: 17em;
+	padding: .2em .2em 0;
+	display: none;
+    background: #ff5537;
+}
+.ui-datepicker .ui-datepicker-title {
+	margin: 0 2.3em;
+	line-height: 1.8em;
+	text-align: center;
+    color:#FFFFFF;
+    background: #ff5537;  
+}
+.ui-datepicker table {
+	width: 100%;
+	font-size: .7em;
+	border-collapse: collapse;
+    font-family:verdana;
+	margin: 0 0 .4em;
+    color:#000000;
+    background: #ff5537; 
+}
+.ui-datepicker td {
+
+	border: 0;
+	padding: 1px;
+
+    
+}
+.ui-datepicker td span,
+.ui-datepicker td a {
+	display: block;
+	padding: .8em;
+	text-align: right;
+	text-decoration: none;
+}
+
+
+.card-body.p-0 .table tbody > tr > td:last-of-type, .card-body.p-0 .table tbody > tr > th:last-of-type, .card-body.p-0 .table tfoot > tr > td:last-of-type, .card-body.p-0 .table tfoot > tr > th:last-of-type, .card-body.p-0 .table thead > tr > td:last-of-type, .card-body.p-0 .table thead > tr > th:last-of-type {
+    padding-right: 0.25 rem;
+}

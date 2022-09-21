@@ -1,0 +1,5074 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:19:16hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:19:16hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-04T11:17:37.076648",
+    "hospitalDate": "2022-06-06T09:19:07.614309",
+    "programDataDate": "2022-05-21T11:05:21.162729",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:19:40hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:19:40hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-04T11:17:37.076648",
+    "hospitalDate": "2022-06-06T09:19:29.573896",
+    "programDataDate": "2022-05-21T11:05:21.162729",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 8,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:22:18hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:22:18hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-04T11:17:37.076648",
+    "hospitalDate": "2022-06-06T09:22:09.715198",
+    "programDataDate": "2022-05-21T11:05:21.162729",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 36,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:39:07hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:39:07hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-04T11:17:37.076648",
+    "hospitalDate": "2022-06-06T09:39:03.544712",
+    "programDataDate": "2022-05-21T11:05:21.162729",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:52:08hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:52:08hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T09:50:40.190890",
+    "hospitalDate": "2022-06-06T09:51:57.774699",
+    "programDataDate": "2022-04-09T13:19:19.994171",
+    "rationProvidedDate": "2022-06-02T12:44:46.196819",
+    "rotate_ration": false,
+    "fs_days": 4,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 124,
+    "versionName": "2.6.43"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:53:33hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 09:53:33hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T09:50:40.190890",
+    "hospitalDate": "2022-06-06T09:53:25.296944",
+    "programDataDate": "2022-04-09T13:19:19.994171",
+    "rationProvidedDate": "2022-06-02T12:44:46.196819",
+    "rotate_ration": false,
+    "fs_days": 22,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 124,
+    "versionName": "2.6.43"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 10:15:19hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/b3637f6c-60f8-4754-4600-0957f3ad3945"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 10:15:19hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-03T17:21:06.863138",
+    "hospitalDate": "2022-06-01T05:00:01.698499",
+    "programDataDate": "2022-05-09T12:56:29.954908",
+    "rationProvidedDate": "2022-06-02T12:45:01.035463",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 124,
+    "versionName": "2.6.43"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:07:33hrs"https://admin.cuddlesfoundation.com/api/sync/push/da760629-d64c-408d-86c4-93fa49cd060e"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:07:33hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 82,
+            "bmi": "0",
+            "bmi_z_score": "-3",
+            "bmi_z_score_result": "Severe Thinness",
+            "click_log": "O:Anthro_2022-06-06T11:59:23;O:Bio_2022-06-06T12:01:30;O:Clinical_2022-06-06T12:01:45;O:WHO_2022-06-06T12:01:46;O:DRecall_2022-06-06T12:01:51;O:Side_Effect_2022-06-06T12:06:00;O:Route_2022-06-06T12:07:06;O:Diet_Plan_2022-06-06T12:07:08;O:Supplement_2022-06-06T12:07:09;O:Ration_Q_2022-06-06T12:07:11;O:Summary_2022-06-06T12:07:24",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T12:07:24",
+            "counseller_id": 139,
+            "counseller_name": "Vibha Mehta",
+            "create_date_app_side": "2022-06-06T11:59:23",
+            "created_on": "2022-06-06T11:59:23",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "0",
+            "height_z_score": "-3",
+            "height_z_score_result": "Severe Stunting",
+            "latitude": "19.0361031",
+            "longitude": "72.8597588",
+            "mode": 1,
+            "muac": "13",
+            "muac_reason": "GBS",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": 1,
+            "no_height_remarks": "Patient unable to stand",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "Z0ypB6XHIBsK1VkZGYgJ0bdDRhxmZ0",
+            "print_count": 0,
+            "transplant_day": 0,
+            "treatment_phase": 4,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "weight": "14",
+            "weight_z_score": "-3",
+            "weight_z_score_result": "Severe Underweight"
+        }
+    ],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "3a4b40d164ccfd10",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1880.0,
+            "consumed24calper": 159.52179,
+            "consumed24cho": 252.0,
+            "consumed24fat": 68.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 52.7,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T12:06:00",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "10:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "4.9",
+                    "calorie": "48.7999992370605",
+                    "cupQuantity": "2",
+                    "dateTime": "10:00",
+                    "food": "Brown bread (Numbers)",
+                    "id": 869,
+                    "protein": "1.76",
+                    "total_fat": "0.14"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "100",
+                    "dateTime": "11:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "3",
+                    "dateTime": "12:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.5",
+                    "dateTime": "12:30",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "0.5",
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "0.5",
+                    "dateTime": "13:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "0.15",
+                    "calorie": "2",
+                    "cupQuantity": "20",
+                    "dateTime": "15:00",
+                    "food": "Roasted Chana (grams)",
+                    "id": 1033,
+                    "protein": "0.03",
+                    "total_fat": "0.08"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.5",
+                    "cupQuantity": "100",
+                    "dateTime": "15:30",
+                    "food": "Real Fruit Juice (ml)",
+                    "id": 1021,
+                    "protein": "0",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "100",
+                    "dateTime": "16:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "0.15",
+                    "calorie": "2",
+                    "cupQuantity": "20",
+                    "dateTime": "17:00",
+                    "food": "Roasted Chana (grams)",
+                    "id": 1033,
+                    "protein": "0.03",
+                    "total_fat": "0.08"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "2",
+                    "dateTime": "19:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "20",
+                    "dateTime": "20:00",
+                    "food": "curd (cow) (ml)",
+                    "id": 1014,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "21:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "2.64",
+                    "calorie": "24.0900001525879",
+                    "cupQuantity": "4",
+                    "dateTime": "22:30",
+                    "food": "Threptin (Numbers)",
+                    "id": 963,
+                    "protein": "1.65",
+                    "total_fat": "0.77"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "0.370000004768372",
+                    "cupQuantity": "50",
+                    "dateTime": "22:30",
+                    "food": "Orange pulp (Grams)",
+                    "id": 784,
+                    "protein": "0.01",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.9",
+                    "calorie": "26",
+                    "cupQuantity": "3",
+                    "dateTime": "23:00",
+                    "food": "Ground nut (Tsp)",
+                    "id": 989,
+                    "protein": "1.2",
+                    "total_fat": "2"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 60.0,
+            "req_cal": 1178.56,
+            "req_fat_per": 29.0,
+            "req_pro": 35.0,
+            "req_pro_per": 11.0,
+            "req_cho": 176.8,
+            "req_fat": 38.0,
+            "req_fluid": 1.2,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "diet_plan": [],
+            "plannedCal": 0.0,
+            "plannedPer": 0.0,
+            "plannedPro": 0.0,
+            "plannedcalper": 0.0,
+            "plannedcho": 0.0,
+            "plannedfat": 0.0,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "create_date_app_side": "2022-06-06T12:07:07",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        }
+    ],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "create_date_app_side": "2022-06-06T12:07:06",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Vibha Mehta"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "create_date_app_side": "2022-06-06T12:07:06",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 1,
+            "counsel_discretion": 3,
+            "date_of_qualifier": "2022-06-06",
+            "dr_discretion": 3,
+            "patient_uuid": "Z0ypB6XHIBsK1VkZGYgJ0bdDRhxmZ0",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-06-06 12:07:33",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 124,
+        "versionName": "2.6.43"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "2022060611592360d9884a67-9dbd-4b90-b40a-4bb6e3c78878",
+            "create_date_app_side": "2022-06-06T12:01:51",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 15,
+            "fourth_step_growth": 20,
+            "second_step": 3,
+            "third_step": 2
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:21:03hrs"https://admin.cuddlesfoundation.com/api/sync/push/dd946ab3-9168-4376-b432-19bfd3a2c7a4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:21:03hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 132,
+            "bmi": "0",
+            "bmi_z_score": "-3",
+            "bmi_z_score_result": "Severe Thinness",
+            "click_log": "O:Anthro_2022-06-06T12:04:31;O:Bio_2022-06-06T12:04:41;O:Clinical_2022-06-06T12:06:30;O:WHO_2022-06-06T12:06:32;O:DRecall_2022-06-06T12:06:41;O:Side_Effect_2022-06-06T12:12:57;O:Route_2022-06-06T12:13:26;O:Diet_Plan_2022-06-06T12:13:30;O:Supplement_2022-06-06T12:17:20;O:Ration_Q_2022-06-06T12:17:24;O:Summary_2022-06-06T12:20:54",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T12:20:54",
+            "counseller_id": 140,
+            "counseller_name": "Ankita Patil",
+            "create_date_app_side": "2022-06-06T12:04:31",
+            "created_on": "2022-06-06T12:04:31",
+            "days_before_next_vist": 1,
+            "deviation": "",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "0",
+            "height_z_score": "-3",
+            "height_z_score_result": "Severe Stunting",
+            "latitude": "0.0",
+            "longitude": "0.0",
+            "mode": 1,
+            "muac": "16.7",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": 1,
+            "no_height_remarks": "Patient unable to stand",
+            "nutritionist_comment": "Advised to increase quantity of dal from 1\\4 cup to 1\\2 cup.\nChild not liking Pentasure 2.0 , advised to mix 1\\2 scoop in 200 ml water. \nInclude 100 ml milk in night.",
+            "patient_type": 1,
+            "patient_uuid": "2022042010332815a8d2f028-b396-4e71-ba51-3fc676be9dd9",
+            "print_count": 0,
+            "transplant_day": 0,
+            "treatment_phase": 77,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "weight": "27.5",
+            "weight_z_score": "3",
+            "weight_z_score_result": "Obese"
+        }
+    ],
+    "bio_chemical_assesment": [
+        {
+            "active": 0,
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "b_range": "25",
+            "biochemical_id": "24",
+            "value": "3121"
+        },
+        {
+            "active": 0,
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "11.6"
+        }
+    ],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "6e913779bb20ec69",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1198.0,
+            "consumed24calper": 68.297066,
+            "consumed24cho": 154.0,
+            "consumed24fat": 34.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 44.1,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T12:12:57",
+            "last24hours": [
+                {
+                    "carbohydrates": "0",
+                    "calorie": "1.52999997138977",
+                    "cupQuantity": "5",
+                    "dateTime": "07:00",
+                    "food": "Almond (Numbers)",
+                    "id": 861,
+                    "protein": "0.05",
+                    "total_fat": "0.15"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "100",
+                    "dateTime": "07:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "2",
+                    "dateTime": "08:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1.5",
+                    "dateTime": "09:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "6",
+                    "calorie": "62.3699989318848",
+                    "cupQuantity": "1.5",
+                    "dateTime": "09:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": "4.68",
+                    "total_fat": "2.16"
+                },
+                {
+                    "carbohydrates": "0.04",
+                    "calorie": "0.270000010728836",
+                    "cupQuantity": "50",
+                    "dateTime": "09:00",
+                    "food": "Ladies finger (Grams)",
+                    "id": 761,
+                    "protein": "0.02",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.06",
+                    "calorie": "0.370000004768372",
+                    "cupQuantity": "20",
+                    "dateTime": "09:00",
+                    "food": "Onion big (Grams)",
+                    "id": 782,
+                    "protein": "0.02",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "45",
+                    "cupQuantity": "0.5",
+                    "dateTime": "09:00",
+                    "food": "Cooking Oil (Groundnut, Gingelly, Palmolein, Mustard, coconut) (tsp)",
+                    "id": 976,
+                    "protein": "0",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.239999994635582",
+                    "cupQuantity": "250",
+                    "dateTime": "11:00",
+                    "food": "Papaya ripe (Grams)",
+                    "id": 789,
+                    "protein": "0",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "0.75",
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "0.25",
+                    "dateTime": "13:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.5",
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "0.09",
+                    "calorie": "0.639999985694885",
+                    "cupQuantity": "150",
+                    "dateTime": "18:00",
+                    "food": "Mango ripe (Grams)",
+                    "id": 774,
+                    "protein": "0.03",
+                    "total_fat": "0.02"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.239999994635582",
+                    "cupQuantity": "250",
+                    "dateTime": "19:00",
+                    "food": "Papaya ripe (Grams)",
+                    "id": 789,
+                    "protein": "0",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "0.75",
+                    "dateTime": "21:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "0.25",
+                    "dateTime": "21:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.25",
+                    "dateTime": "21:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "0.5",
+                    "dateTime": "21:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 60.0,
+            "req_cal": 1754.9875,
+            "req_fat_per": 25.0,
+            "req_pro": 68.75,
+            "req_pro_per": 15.0,
+            "req_cho": 263.3,
+            "req_fat": 48.0,
+            "req_fluid": 1.7,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 1.52999997138977,
+                    "cupQuantity": 5.0,
+                    "dateTime": "07:00",
+                    "food": "Almond (Numbers)",
+                    "id": 861,
+                    "protein": 0.05,
+                    "total_fat": 0.15
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 100.0,
+                    "dateTime": "07:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "08:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 62.3699989318848,
+                    "cupQuantity": 1.5,
+                    "dateTime": "09:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": 4.68,
+                    "total_fat": 2.16
+                },
+                {
+                    "carbohydrates": 4.9,
+                    "calorie": 48.7999992370605,
+                    "cupQuantity": 2.0,
+                    "dateTime": "09:00",
+                    "food": "Brown bread (Numbers)",
+                    "id": 869,
+                    "protein": 1.76,
+                    "total_fat": 0.14
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 36.4500007629395,
+                    "cupQuantity": 2.0,
+                    "dateTime": "09:00",
+                    "food": "butter (tsp)",
+                    "id": 968,
+                    "protein": 0.0,
+                    "total_fat": 4.05
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.239999994635582,
+                    "cupQuantity": 250.0,
+                    "dateTime": "11:00",
+                    "food": "Papaya ripe (Grams)",
+                    "id": 789,
+                    "protein": 0.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 0.75,
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 8.5,
+                    "calorie": 96.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "13:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": 3.5,
+                    "total_fat": 5.3
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 45.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "13:00",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": 0.0,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 1.0,
+                    "calorie": 36.6399993896484,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:00",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": 1.01,
+                    "total_fat": 0.46
+                },
+                {
+                    "carbohydrates": 6.1,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:00",
+                    "food": "Milkshake (Numbers)",
+                    "id": 895,
+                    "protein": 4.0,
+                    "total_fat": 0.9
+                },
+                {
+                    "carbohydrates": 0.09,
+                    "calorie": 0.639999985694885,
+                    "cupQuantity": 150.0,
+                    "dateTime": "18:00",
+                    "food": "Mango ripe (Grams)",
+                    "id": 774,
+                    "protein": 0.03,
+                    "total_fat": 0.02
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.239999994635582,
+                    "cupQuantity": 250.0,
+                    "dateTime": "19:00",
+                    "food": "Papaya ripe (Grams)",
+                    "id": 789,
+                    "protein": 0.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 0.75,
+                    "dateTime": "21:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 0.25,
+                    "dateTime": "21:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "21:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 8.5,
+                    "calorie": 96.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "21:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": 3.5,
+                    "total_fat": 5.3
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 45.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "21:00",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": 0.0,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 100.0,
+                    "dateTime": "22:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                }
+            ],
+            "plannedCal": 1449.3,
+            "plannedPer": 0.0,
+            "plannedPro": 51.5,
+            "plannedcalper": 82.0,
+            "plannedcho": 144.8,
+            "plannedfat": 46.3,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "create_date_app_side": "2022-06-06T12:13:30",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": "Pt eating orally."
+        }
+    ],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "create_date_app_side": "2022-06-06T12:13:26",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Ankita Patil"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "create_date_app_side": "2022-06-06T12:13:26",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 1,
+            "counsel_discretion": 3,
+            "date_of_qualifier": "2022-06-06",
+            "dr_discretion": 3,
+            "patient_uuid": "2022042010332815a8d2f028-b396-4e71-ba51-3fc676be9dd9",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-06-06 12:21:03",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 124,
+        "versionName": "2.6.43"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "2022060612031402ef2c7894-2185-4c45-96cb-1ea0ef75e614",
+            "create_date_app_side": "2022-06-06T12:06:41",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 2
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:34:31hrs"https://admin.cuddlesfoundation.com/api/sync/push/5df991c6-f02d-4b61-b1e6-9e72ff27d9c7"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:34:31hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "Others",
+            "age_in_months": 5,
+            "bmi": "18.17",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-06-06T10:04:15;O:Bio_2022-06-06T10:05:24;O:Clinical_2022-06-06T10:05:27;O:WHO_2022-06-06T10:05:32;O:DRecall_2022-06-06T10:05:37;O:Side_Effect_2022-06-06T10:06:07;O:Route_2022-06-06T10:06:15;O:Diet_Plan_2022-06-06T10:06:15;O:Supplement_2022-06-06T10:06:17;O:Summary_2022-06-06T10:07:34",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:07:34",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:04:15",
+            "created_on": "2022-06-06T10:04:15",
+            "days_before_next_vist": 1,
+            "deviation": "",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Moderate Acute Malnutrition (MAM)",
+            "final_gom_type": "MUAC",
+            "height": "53.5",
+            "height_z_score": "-3",
+            "height_z_score_result": "Severe Stunting",
+            "latitude": "0.0",
+            "longitude": "0.0",
+            "mode": 1,
+            "muac": "12.3",
+            "muac_reason": "",
+            "muac_z_score": "12",
+            "muac_z_score_result": "Moderate Acute Malnutrition (MAM)",
+            "no_height_reason": 3,
+            "no_height_remarks": "Others",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "2022053116144924fda92e16-1b68-423a-a9a7-5317b5f09e5c",
+            "print_count": 0,
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "weight": "5.2",
+            "weight_z_score": "-3",
+            "weight_z_score_result": "Severe Underweight"
+        },
+        {
+            "active": 2,
+            "adviced": "Protein",
+            "age_in_months": 42,
+            "bmi": "15.5",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-06-06T10:09:28;O:Bio_2022-06-06T10:10:16;O:Clinical_2022-06-06T10:10:18;O:WHO_2022-06-06T10:10:19;O:DRecall_2022-06-06T10:10:30;O:Side_Effect_2022-06-06T10:11:49;O:Route_2022-06-06T10:11:51;O:Diet_Plan_2022-06-06T10:11:52;O:Supplement_2022-06-06T10:12:09;O:Summary_2022-06-06T10:12:35",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:12:35",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:09:28",
+            "created_on": "2022-06-06T10:09:28",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "dosage": "4-5 no/daily",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "88",
+            "height_z_score": "-2",
+            "height_z_score_result": "Moderate Stunting",
+            "latitude": "19.2154996",
+            "longitude": "72.8635939",
+            "mode": 1,
+            "muac": "15.4",
+            "muac_reason": "",
+            "muac_z_score": "15",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "2022011912021493cd076a95-32e0-4b9d-9dbd-abc54c953494",
+            "print_count": 0,
+            "product": "Nuts",
+            "treatment_phase": 78,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "weight": "12",
+            "weight_z_score": "-1",
+            "weight_z_score_result": "Mild Underweight"
+        },
+        {
+            "active": 2,
+            "adviced": "Others",
+            "age_in_months": 118,
+            "bmi": "13.69",
+            "bmi_z_score": "-2",
+            "bmi_z_score_result": "Moderate Thinness",
+            "click_log": "O:Anthro_2022-06-06T10:12:45;O:Bio_2022-06-06T10:12:58;O:Clinical_2022-06-06T10:13:00;O:WHO_2022-06-06T10:13:01;O:DRecall_2022-06-06T10:13:05;O:Side_Effect_2022-06-06T10:15:17;O:Route_2022-06-06T10:15:20;O:Diet_Plan_2022-06-06T10:15:21;O:Supplement_2022-06-06T10:15:24;O:Summary_2022-06-06T10:15:46",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:15:46",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:12:45",
+            "created_on": "2022-06-06T10:12:45",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Moderate Thinness",
+            "final_gom_type": "BMI",
+            "height": "127.9",
+            "height_z_score": "-1",
+            "height_z_score_result": "Mild Stunting",
+            "latitude": "19.2155845",
+            "longitude": "72.8638234",
+            "mode": 1,
+            "muac": "16",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "20210409152359341bed6b90-551a-4cdf-abaa-f4c1c9d2f48b",
+            "print_count": 0,
+            "treatment_phase": 5,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "weight": "22.4",
+            "weight_z_score": "-2",
+            "weight_z_score_result": "Moderate Underweight"
+        },
+        {
+            "active": 2,
+            "adviced": "Protein",
+            "age_in_months": 53,
+            "bmi": "15.05",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-06-06T10:16:37;O:Bio_2022-06-06T10:16:52;O:Clinical_2022-06-06T10:16:54;B:Clinical_2022-06-06T10:16:56;O:Bio_2022-06-06T10:16:56;O:Clinical_2022-06-06T10:16:59;O:WHO_2022-06-06T10:17:00;O:DRecall_2022-06-06T10:17:06;O:Side_Effect_2022-06-06T10:19:43;O:Route_2022-06-06T10:19:54;O:Diet_Plan_2022-06-06T10:19:55;O:Supplement_2022-06-06T10:20:22;O:Summary_2022-06-06T10:20:47",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:20:47",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:16:37",
+            "created_on": "2022-06-06T10:16:37",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "dosage": "1 Tetra/Day",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "100.5",
+            "height_z_score": "-1",
+            "height_z_score_result": "Mild Stunting",
+            "latitude": "19.2156035",
+            "longitude": "72.8638026",
+            "mode": 1,
+            "muac": "14.8",
+            "muac_reason": "",
+            "muac_z_score": "14",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "2021082015453097141f2276-d77c-4ec7-90e9-209d7371779c",
+            "print_count": 0,
+            "product": "Milkshake",
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "weight": "15.2",
+            "weight_z_score": "0",
+            "weight_z_score_result": "Well Nourished"
+        },
+        {
+            "active": 2,
+            "adviced": "Fluids/Liquid Diet",
+            "age_in_months": 162,
+            "bmi": "14.31",
+            "bmi_z_score": "-2",
+            "bmi_z_score_result": "Moderate Thinness",
+            "click_log": "O:Anthro_2022-06-06T10:21:27;O:Bio_2022-06-06T10:23:48;O:Clinical_2022-06-06T10:25:17;O:WHO_2022-06-06T10:25:19;O:DRecall_2022-06-06T10:25:26;O:Side_Effect_2022-06-06T10:26:03;O:Route_2022-06-06T10:26:09;O:Diet_Plan_2022-06-06T10:26:10;O:Supplement_2022-06-06T10:26:42;O:Summary_2022-06-06T10:26:59",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:26:59",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:21:27",
+            "created_on": "2022-06-06T10:21:27",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "150",
+            "height_z_score": "-1",
+            "height_z_score_result": "Mild Stunting",
+            "latitude": "19.2194017",
+            "longitude": "72.8633212",
+            "mode": 1,
+            "muac": "18",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "20220509165140416adca3b8-2fd1-4092-8250-fd1d07a94766",
+            "print_count": 0,
+            "product": "Soups",
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "weight": "32.2",
+            "weight_z_score": "0"
+        },
+        {
+            "active": 2,
+            "adviced": "Protein",
+            "age_in_months": 98,
+            "bmi": "14.27",
+            "bmi_z_score": "-1",
+            "bmi_z_score_result": "Mild Thinness",
+            "click_log": "O:Anthro_2022-06-06T10:29:39;O:Bio_2022-06-06T10:29:49;O:Clinical_2022-06-06T10:29:50;O:WHO_2022-06-06T10:29:51;O:DRecall_2022-06-06T10:29:56;O:Side_Effect_2022-06-06T10:32:06;O:Route_2022-06-06T10:32:10;O:Diet_Plan_2022-06-06T10:32:11;O:Supplement_2022-06-06T10:32:26;O:Summary_2022-06-06T10:32:42",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:32:42",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:29:39",
+            "created_on": "2022-06-06T10:29:39",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "dosage": "1 Tetra/Day",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "133.7",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "19.2194931",
+            "longitude": "72.8629855",
+            "mode": 1,
+            "muac": "18",
+            "muac_reason": "",
+            "muac_z_score": "25",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "2022052613025957767d495c-e50c-49c8-83c9-380a1f7ad859",
+            "print_count": 0,
+            "product": "Milkshake",
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "weight": "25.5",
+            "weight_z_score": "0",
+            "weight_z_score_result": "Well Nourished"
+        },
+        {
+            "active": 2,
+            "adviced": "Others",
+            "age_in_months": 60,
+            "bmi": "11.75",
+            "bmi_z_score": "-2",
+            "bmi_z_score_result": "Moderate Thinness",
+            "click_log": "O:Anthro_2022-06-06T10:34:16;O:Bio_2022-06-06T10:34:26;O:Clinical_2022-06-06T10:34:28;O:WHO_2022-06-06T10:34:29;O:DRecall_2022-06-06T10:34:33;O:Side_Effect_2022-06-06T10:40:52;O:Route_2022-06-06T10:40:55;O:Diet_Plan_2022-06-06T10:40:56;O:Supplement_2022-06-06T10:40:56;O:Summary_2022-06-06T10:41:05",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T10:41:05",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:34:16",
+            "created_on": "2022-06-06T10:34:16",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "113",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "19.2195525",
+            "longitude": "72.8629589",
+            "mode": 1,
+            "muac": "13.7",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "202205231357087131d25f9c-b631-4759-bfb4-6fa5136703a8",
+            "print_count": 0,
+            "treatment_phase": 18,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "weight": "15",
+            "weight_z_score": "-1",
+            "weight_z_score_result": "Mild Underweight"
+        },
+        {
+            "active": 2,
+            "adviced": "Supplement",
+            "age_in_months": 100,
+            "bmi": "11.82",
+            "bmi_z_score": "-3",
+            "bmi_z_score_result": "Severe Thinness",
+            "click_log": "O:Anthro_2022-06-06T10:53:50;O:Bio_2022-06-06T10:55:18;O:Clinical_2022-06-06T10:55:55;O:WHO_2022-06-06T10:55:57;O:DRecall_2022-06-06T10:56:02;O:Side_Effect_2022-06-06T10:58:31;O:Route_2022-06-06T10:58:35;O:Diet_Plan_2022-06-06T10:58:36;O:Supplement_2022-06-06T11:00:36;O:Ration_Q_2022-06-06T11:01:52;O:Summary_2022-06-06T11:09:23",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T11:09:23",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T10:53:50",
+            "created_on": "2022-06-06T10:53:50",
+            "days_before_next_vist": 15,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "99.5",
+            "height_z_score": "-3",
+            "height_z_score_result": "Severe Stunting",
+            "latitude": "19.2194777",
+            "longitude": "72.8630568",
+            "mode": 1,
+            "muac": "13.5",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "To include good quality protein in diet.",
+            "patient_type": 2,
+            "patient_uuid": "20220301115850337d44d8a3-c2d3-474c-b763-6ee191b142c1",
+            "print_count": 0,
+            "product": "3 scoop/day",
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "weight": "11.7",
+            "weight_z_score": "-3",
+            "weight_z_score_result": "Severe Underweight"
+        },
+        {
+            "active": 2,
+            "adviced": "Others",
+            "age_in_months": 51,
+            "bmi": "14.21",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-06-06T11:19:47;O:Bio_2022-06-06T11:20:26;O:Clinical_2022-06-06T11:21:31;O:WHO_2022-06-06T11:21:32;O:DRecall_2022-06-06T11:21:40;O:Side_Effect_2022-06-06T11:24:55;O:Route_2022-06-06T11:24:59;O:Diet_Plan_2022-06-06T11:25:00;O:Supplement_2022-06-06T11:33:01;O:Ration_Q_2022-06-06T11:33:04;O:Summary_2022-06-06T11:33:32",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T11:33:32",
+            "counseller_id": 114,
+            "counseller_name": "Shreya Sakpal",
+            "create_date_app_side": "2022-06-06T11:19:47",
+            "created_on": "2022-06-06T11:19:47",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "101",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "19.2194276",
+            "longitude": "72.8630376",
+            "mode": 1,
+            "muac": "15.6",
+            "muac_reason": "",
+            "muac_z_score": "15",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "Iron restricted calcium rich diet advised.",
+            "patient_type": 2,
+            "patient_uuid": "2022060611194740ceda4358-d0fb-492b-91da-1935e347c8a2",
+            "print_count": 0,
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "weight": "14.5",
+            "weight_z_score": "-1",
+            "weight_z_score_result": "Mild Underweight"
+        }
+    ],
+    "bio_chemical_assesment": [
+        {
+            "active": 0,
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "9"
+        },
+        {
+            "active": 0,
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "7.6"
+        },
+        {
+            "active": 0,
+            "anthro_uuid": "2022053011023170eae48f03-127f-401e-a497-c35a88cc9bcc",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "8.1"
+        },
+        {
+            "active": 0,
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "7.6"
+        }
+    ],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "a049dcac1aa8ca41",
+        "name": "Lenovo TB-X505X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 611.0,
+            "consumed24calper": 145.37651,
+            "consumed24cho": 19.0,
+            "consumed24fat": 4.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 3.9,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:06:07",
+            "last24hours": [
+                {
+                    "carbohydrates": "5.68",
+                    "calorie": "34.4000015258789",
+                    "cupQuantity": "2.5",
+                    "dateTime": "09:30",
+                    "food": "Cerelac Stage 1 (Scoop)",
+                    "id": 1015,
+                    "protein": "1.24",
+                    "total_fat": "0.74"
+                },
+                {
+                    "carbohydrates": "0.07",
+                    "calorie": "7",
+                    "cupQuantity": "75",
+                    "dateTime": "13:00",
+                    "food": "Breastmilk (ML)",
+                    "id": 860,
+                    "protein": "0.01",
+                    "total_fat": "0.04"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 420.288,
+            "req_fat_per": 36.0,
+            "req_pro": 15.599999,
+            "req_pro_per": 14.0,
+            "req_cho": 52.5,
+            "req_fat": 16.0,
+            "req_fluid": 0.5,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 872.0,
+            "consumed24calper": 57.036156,
+            "consumed24cho": 88.0,
+            "consumed24fat": 32.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 41.0,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:11:48",
+            "last24hours": [
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "08:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "50",
+                    "dateTime": "08:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "09:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "5.7",
+                    "calorie": "42.2200012207031",
+                    "cupQuantity": "1.5",
+                    "dateTime": "09:30",
+                    "food": "pediasure (Scoop)",
+                    "id": 951,
+                    "protein": "1.28",
+                    "total_fat": "1.54"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "12:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "12:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "16:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "0.75",
+                    "dateTime": "20:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1530.31,
+            "req_fat_per": 43.0,
+            "req_pro": 30.0,
+            "req_pro_per": 7.0,
+            "req_cho": 191.3,
+            "req_fat": 73.0,
+            "req_fluid": 1.1,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1260.0,
+            "consumed24calper": 78.49559,
+            "consumed24cho": 147.0,
+            "consumed24fat": 51.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 46.8,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:15:17",
+            "last24hours": [
+                {
+                    "carbohydrates": "30",
+                    "calorie": "188",
+                    "cupQuantity": "0.5",
+                    "dateTime": "08:00",
+                    "food": "Poha (Cup)",
+                    "id": 654,
+                    "protein": "4.5",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "08:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "50",
+                    "dateTime": "09:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "10:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "0.75",
+                    "dateTime": "13:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "13:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "0.5",
+                    "dateTime": "13:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.01",
+                    "calorie": "0.0700000002980232",
+                    "cupQuantity": "50",
+                    "dateTime": "13:30",
+                    "food": "Spinach (Grams)",
+                    "id": 839,
+                    "protein": "0.01",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "16:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "0.1311",
+                    "calorie": "0.620000004768372",
+                    "cupQuantity": "40",
+                    "dateTime": "17:30",
+                    "food": "Apple big (Grams)",
+                    "id": 676,
+                    "protein": "0.0029",
+                    "total_fat": "0.0064"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.1",
+                    "calorie": "0.550000011920929",
+                    "cupQuantity": "50",
+                    "dateTime": "20:00",
+                    "food": "Potato (Grams)",
+                    "id": 806,
+                    "protein": "0.02",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "22:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1605.568,
+            "req_fat_per": 37.0,
+            "req_pro": 56.0,
+            "req_pro_per": 13.0,
+            "req_cho": 200.7,
+            "req_fat": 66.0,
+            "req_fluid": 1.5,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 625.0,
+            "consumed24calper": 46.48484,
+            "consumed24cho": 81.0,
+            "consumed24fat": 24.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 20.0,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:19:42",
+            "last24hours": [
+                {
+                    "carbohydrates": "1",
+                    "calorie": "120",
+                    "cupQuantity": "1",
+                    "dateTime": "09:30",
+                    "food": "Egg Omlette (Numbers)",
+                    "id": 1025,
+                    "protein": "6",
+                    "total_fat": "10"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1",
+                    "dateTime": "09:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "50",
+                    "dateTime": "10:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "12:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "0.5",
+                    "dateTime": "12:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1345.6,
+            "req_fat_per": 39.0,
+            "req_pro": 38.0,
+            "req_pro_per": 11.0,
+            "req_cho": 168.2,
+            "req_fat": 58.0,
+            "req_fluid": 1.3,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 237.0,
+            "consumed24calper": 9.839233,
+            "consumed24cho": 29.0,
+            "consumed24fat": 7.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 13.5,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:26:03",
+            "last24hours": [
+                {
+                    "carbohydrates": "10.4",
+                    "calorie": "77.3000030517578",
+                    "cupQuantity": "1",
+                    "dateTime": "10:00",
+                    "food": "B-protein (Scoop)",
+                    "id": 927,
+                    "protein": "8",
+                    "total_fat": "0.4"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "10:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "0.5",
+                    "dateTime": "19:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 2416.855,
+            "req_fat_per": 37.0,
+            "req_pro": 80.5,
+            "req_pro_per": 13.0,
+            "req_cho": 302.1,
+            "req_fat": 99.0,
+            "req_fluid": 1.7,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 899.0,
+            "consumed24calper": 52.352516,
+            "consumed24cho": 119.0,
+            "consumed24fat": 26.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 32.2,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:32:06",
+            "last24hours": [
+                {
+                    "carbohydrates": "30",
+                    "calorie": "188",
+                    "cupQuantity": "1",
+                    "dateTime": "09:00",
+                    "food": "Poha (Cup)",
+                    "id": 654,
+                    "protein": "4.5",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "0.5",
+                    "dateTime": "10:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "0.5",
+                    "dateTime": "16:00",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.5",
+                    "dateTime": "20:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "0.5",
+                    "dateTime": "20:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1718.16,
+            "req_fat_per": 36.0,
+            "req_pro": 63.75,
+            "req_pro_per": 14.0,
+            "req_cho": 214.8,
+            "req_fat": 68.0,
+            "req_fluid": 1.6,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1127.0,
+            "consumed24calper": 84.205025,
+            "consumed24cho": 132.0,
+            "consumed24fat": 46.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 43.9,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:40:52",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "08:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "7.42",
+                    "calorie": "60.5",
+                    "cupQuantity": "2",
+                    "dateTime": "08:00",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": "6.45",
+                    "total_fat": "0.52"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "50",
+                    "dateTime": "09:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "0.5",
+                    "dateTime": "09:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "2",
+                    "dateTime": "12:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "16:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "2",
+                    "dateTime": "20:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.01",
+                    "calorie": "0.0700000002980232",
+                    "cupQuantity": "50",
+                    "dateTime": "20:00",
+                    "food": "Spinach (Grams)",
+                    "id": 839,
+                    "protein": "0.01",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "21:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1338.4,
+            "req_fat_per": 39.0,
+            "req_pro": 37.5,
+            "req_pro_per": 11.0,
+            "req_cho": 167.3,
+            "req_fat": 58.0,
+            "req_fluid": 1.3,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 605.0,
+            "consumed24calper": 49.735237,
+            "consumed24cho": 71.0,
+            "consumed24fat": 16.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 21.3,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T10:58:31",
+            "last24hours": [
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "08:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "100",
+                    "dateTime": "08:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "1.03",
+                    "calorie": "65",
+                    "cupQuantity": "1",
+                    "dateTime": "08:30",
+                    "food": "Khari (1) (Numbers)",
+                    "id": 886,
+                    "protein": "0.66",
+                    "total_fat": "1.28"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "0.75",
+                    "dateTime": "11:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.049",
+                    "calorie": "0.400000005960464",
+                    "cupQuantity": "30",
+                    "dateTime": "11:30",
+                    "food": "Cluster beans (Grams)",
+                    "id": 721,
+                    "protein": "0.036",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "3.6",
+                    "calorie": "22",
+                    "cupQuantity": "7",
+                    "dateTime": "13:00",
+                    "food": "Parle G Biscuits (Numbers)",
+                    "id": 1034,
+                    "protein": "0.4",
+                    "total_fat": "0.6"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "50",
+                    "dateTime": "16:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "0.75",
+                    "dateTime": "19:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1216.944,
+            "req_fat_per": 41.0,
+            "req_pro": 29.25,
+            "req_pro_per": 9.0,
+            "req_cho": 152.1,
+            "req_fat": 55.0,
+            "req_fluid": 1.1,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1236.0,
+            "consumed24calper": 93.77086,
+            "consumed24cho": 160.0,
+            "consumed24fat": 49.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 38.9,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T11:24:55",
+            "last24hours": [
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "2",
+                    "dateTime": "08:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "45",
+                    "cupQuantity": "1",
+                    "dateTime": "08:00",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": "0",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "12:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "12:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.5",
+                    "dateTime": "12:30",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "16:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "0.62",
+                    "calorie": "3.48000001907349",
+                    "cupQuantity": "50",
+                    "dateTime": "21:30",
+                    "food": "Bajra (Grams)",
+                    "id": 683,
+                    "protein": "0.11",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "21:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "23:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 1318.64,
+            "req_fat_per": 39.0,
+            "req_pro": 36.25,
+            "req_pro_per": 11.0,
+            "req_cho": 164.8,
+            "req_fat": 57.0,
+            "req_fluid": 1.2,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "diet_plan": [
+                {
+                    "carbohydrates": 5.68,
+                    "calorie": 34.4000015258789,
+                    "cupQuantity": 2.5,
+                    "dateTime": "09:30",
+                    "food": "Cerelac Stage 1 (Scoop)",
+                    "id": 1015,
+                    "protein": 1.24,
+                    "total_fat": 0.74
+                },
+                {
+                    "carbohydrates": 0.07,
+                    "calorie": 7.0,
+                    "cupQuantity": 75.0,
+                    "dateTime": "13:00",
+                    "food": "Breastmilk (ML)",
+                    "id": 860,
+                    "protein": 0.01,
+                    "total_fat": 0.04
+                }
+            ],
+            "plannedCal": 611.0,
+            "plannedPer": 0.0,
+            "plannedPro": 3.9,
+            "plannedcalper": 145.0,
+            "plannedcho": 19.5,
+            "plannedfat": 4.9,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 50.0,
+                    "dateTime": "08:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "09:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 5.7,
+                    "calorie": 42.2200012207031,
+                    "cupQuantity": 1.5,
+                    "dateTime": "09:30",
+                    "food": "pediasure (Scoop)",
+                    "id": 951,
+                    "protein": 1.28,
+                    "total_fat": 1.54
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "16:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 0.75,
+                    "dateTime": "20:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 5.7,
+                    "calorie": 42.2200012207031,
+                    "cupQuantity": 1.0,
+                    "dateTime": "21:00",
+                    "food": "pediasure (Scoop)",
+                    "id": 951,
+                    "protein": 1.28,
+                    "total_fat": 1.54
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "21:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                }
+            ],
+            "plannedCal": 1024.6,
+            "plannedPer": 0.0,
+            "plannedPro": 46.8,
+            "plannedcalper": 66.0,
+            "plannedcho": 101.9,
+            "plannedfat": 41.6,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "diet_plan": [
+                {
+                    "carbohydrates": 30.0,
+                    "calorie": 188.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "08:00",
+                    "food": "Poha (Cup)",
+                    "id": 654,
+                    "protein": 4.5,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 50.0,
+                    "dateTime": "09:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "10:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 0.75,
+                    "dateTime": "13:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "13:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.01,
+                    "calorie": 0.0700000002980232,
+                    "cupQuantity": 50.0,
+                    "dateTime": "13:30",
+                    "food": "Spinach (Grams)",
+                    "id": 839,
+                    "protein": 0.01,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "16:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.1311,
+                    "calorie": 0.620000004768372,
+                    "cupQuantity": 40.0,
+                    "dateTime": "17:30",
+                    "food": "Apple big (Grams)",
+                    "id": 676,
+                    "protein": 0.0029,
+                    "total_fat": 0.0064
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.1,
+                    "calorie": 0.550000011920929,
+                    "cupQuantity": 50.0,
+                    "dateTime": "20:00",
+                    "food": "Potato (Grams)",
+                    "id": 806,
+                    "protein": 0.02,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "22:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                }
+            ],
+            "plannedCal": 1260.3,
+            "plannedPer": 0.0,
+            "plannedPro": 46.8,
+            "plannedcalper": 78.0,
+            "plannedcho": 147.3,
+            "plannedfat": 51.5,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "diet_plan": [
+                {
+                    "carbohydrates": 1.0,
+                    "calorie": 120.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:30",
+                    "food": "Egg Omlette (Numbers)",
+                    "id": 1025,
+                    "protein": 6.0,
+                    "total_fat": 10.0
+                },
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 50.0,
+                    "dateTime": "10:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "12:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "16:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "20:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 12.45,
+                    "calorie": 95.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "20:30",
+                    "food": "pediagold (Scoop)",
+                    "id": 950,
+                    "protein": 3.0,
+                    "total_fat": 3.7
+                }
+            ],
+            "plannedCal": 1034.5,
+            "plannedPer": 0.0,
+            "plannedPro": 35.0,
+            "plannedcalper": 76.0,
+            "plannedcho": 121.3,
+            "plannedfat": 46.6,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "diet_plan": [
+                {
+                    "carbohydrates": 10.4,
+                    "calorie": 77.3000030517578,
+                    "cupQuantity": 1.0,
+                    "dateTime": "10:00",
+                    "food": "B-protein (Scoop)",
+                    "id": 927,
+                    "protein": 8.0,
+                    "total_fat": 0.4
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "10:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 6.1,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Milkshake (Numbers)",
+                    "id": 895,
+                    "protein": 4.0,
+                    "total_fat": 0.9
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.5,
+                    "cupQuantity": 150.0,
+                    "dateTime": "16:00",
+                    "food": "Real Fruit Juice (ml)",
+                    "id": 1021,
+                    "protein": 0.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "19:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                }
+            ],
+            "plannedCal": 458.8,
+            "plannedPer": 0.0,
+            "plannedPro": 17.5,
+            "plannedcalper": 18.0,
+            "plannedcho": 55.2,
+            "plannedfat": 8.8,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "diet_plan": [
+                {
+                    "carbohydrates": 30.0,
+                    "calorie": 188.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:00",
+                    "food": "Poha (Cup)",
+                    "id": 654,
+                    "protein": 4.5,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "09:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "10:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "16:00",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "20:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "20:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "22:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                }
+            ],
+            "plannedCal": 1191.5,
+            "plannedPer": 0.0,
+            "plannedPro": 44.2,
+            "plannedcalper": 69.0,
+            "plannedcho": 139.2,
+            "plannedfat": 46.3,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "diet_plan": [],
+            "plannedCal": 1191.5,
+            "plannedPer": 0.0,
+            "plannedPro": 44.2,
+            "plannedcalper": 0.0,
+            "plannedcho": 139.2,
+            "plannedfat": 46.3,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 100.0,
+                    "dateTime": "08:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 1.03,
+                    "calorie": 65.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "Khari (1) (Numbers)",
+                    "id": 886,
+                    "protein": 0.66,
+                    "total_fat": 1.28
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 0.75,
+                    "dateTime": "11:30",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 0.049,
+                    "calorie": 0.400000005960464,
+                    "cupQuantity": 30.0,
+                    "dateTime": "11:30",
+                    "food": "Cluster beans (Grams)",
+                    "id": 721,
+                    "protein": 0.036,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 7.95,
+                    "calorie": 232.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Aloo Paratha (Numbers)",
+                    "id": 862,
+                    "protein": 3.63,
+                    "total_fat": 2.5
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 50.0,
+                    "dateTime": "16:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 0.396666666666667,
+                    "calorie": 2.86999988555908,
+                    "cupQuantity": 30.0,
+                    "dateTime": "17:00",
+                    "food": "Bengal gram whole (Grams)",
+                    "id": 694,
+                    "protein": 0.186666666666667,
+                    "total_fat": 0.006
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 0.75,
+                    "dateTime": "19:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "22:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                }
+            ],
+            "plannedCal": 878.9,
+            "plannedPer": 0.0,
+            "plannedPro": 32.3,
+            "plannedcalper": 72.0,
+            "plannedcho": 73.9,
+            "plannedfat": 22.4,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "diet_plan": [
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "08:30",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 50.0,
+                    "dateTime": "15:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "17:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.62,
+                    "calorie": 3.48000001907349,
+                    "cupQuantity": 50.0,
+                    "dateTime": "20:30",
+                    "food": "Bajra (Grams)",
+                    "id": 683,
+                    "protein": 0.11,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 29.5,
+                    "calorie": 355.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "20:30",
+                    "food": "Soya vegetable (Cup)",
+                    "id": 666,
+                    "protein": 21.0,
+                    "total_fat": 17.0
+                }
+            ],
+            "plannedCal": 1442.0,
+            "plannedPer": 0.0,
+            "plannedPro": 54.7,
+            "plannedcalper": 109.0,
+            "plannedcho": 184.7,
+            "plannedfat": 49.9,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "create_date_app_side": "2022-06-06T10:06:15",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "create_date_app_side": "2022-06-06T10:11:52",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "create_date_app_side": "2022-06-06T10:15:20",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "create_date_app_side": "2022-06-06T10:19:55",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "create_date_app_side": "2022-06-06T10:26:09",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "create_date_app_side": "2022-06-06T10:32:10",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "create_date_app_side": "2022-06-06T10:40:55",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "create_date_app_side": "2022-06-06T10:58:35",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "create_date_app_side": "2022-06-06T11:24:59",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        }
+    ],
+    "guardian": [
+        {
+            "consent_status": 1,
+            "consent_status_timestamp": "2022-06-06T11:19:47",
+            "create_date_app_side": "2022-06-06T11:18:48",
+            "first_name": "Meenal Mohite",
+            "gender": 0,
+            "has_a_smartphone": 0,
+            "has_whatsapp": false,
+            "last_name": "",
+            "opt_notification": 1,
+            "patient_uuid": "2022060611194740ceda4358-d0fb-492b-91da-1935e347c8a2",
+            "phone_number": "9923426746",
+            "preferred_language": 7,
+            "profile_pic": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv/bAEMAKBweIx4ZKCMhIy0rKDA8ZEE8Nzc8e1hdSWSRgJmWj4CMiqC05sOgqtqtiozI/8va7vX///+bwf////r/5v3/+P/bAEMBKy0tPDU8dkFBdviljKX4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+P/AABEIAkADAAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EADEQAQEAAgEDAwQCAgEEAgMBAAABAhEhAxIxQWFxIjJRgRNCkaGxI1LB4XKCYpLR8f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9IAAAAACooAACKgKAAAAAAAAAAAAAAAAAAqKAAAAAigAAAAAAAAAAAACKgAAAAIACAAIAAAAAAACKgAAGgAAARQAABFRQQVAAAAAAAEFBBQEFQHUAAAAABQAQAAUAAAAAAAAAAAAAAAAFRUBUtk81XPKXu8S/IOgkkk4kigAADOc3Ne6dPGyfVbb70GxM/svw4dP+W2d8k/IPQAAAAAAIAoAAAIAAACAAgM5Za8cgoktt8cLQBmXLU+n/bQAAAAIACoqAAAAAAAAAAAgAAAAAAAAAAACKgOoAAAAKAAAAAAAAAAAAAAACggoAioACggqArHUxtss3x76bYzyuNmta9waxmprn9qk3rnyoAAOfUxuXG9fjS4S825bTqy5SSWy/mNdOXHGTLK2+4LlLcbIxhjlLz4njlrqXtw3vRhlbbzjfgGgAAAAAEUAAARUAAoCABWLnrL0/bbnz3Wyb/YNyfpjO61dyN+ibm9AzJlr0/S2baZy+2/AMY48+Lr5ro5493dzJw6AAAAAAAgAAAAAAAAAAACKAgAAAAAAAAAAIDqAAAAACggKIoAAAAAAAAAACoAoigAAAAIoCMZb/k4m56ujlnllM/pm9g1h36+rX6aJ45UAAHPq2cbks916U+n7Zjv0jPVlyup+HTGaxkoM9TXbz436nSwxxx+nXvpOrdScb5/G16W+22zGfANgAAAAAAAAAIqAM9TXbq+K0z1LZJrzsEwxk+WmcLjbdSS/DQF5c7jd246lreV7ZuuXfzf+pjrYOs4jn1O3f1Tc1+NujlnZ3878ek2DeFlx43r3W+Ew1ceJZPeM9S+ll17A2MY6urJl+62AAACAqAAAAAAKgAAAAAAIAAAAAAAAAAioAADqAAAAAAqACoAKAAAAAAAAAAACooAAAAAADlldZ3nKfE26uP0/y223i/ig6zwoAAA49bHLLLWM9Pzp0xkxmpf83bOfT7s9621j05jdwGer3W49vlvHcxm7uufW7LqZ3X4u9OmNlxmgUAAAAAAAAABFQBjqb1O3fn0bZyxmU1fAJ08rljvdv6aTHGY+FAcscsZfuut3jTq44W93bu6/OgdXLO5TO6uuOOHVyyxuWWp+QdJvXPlLNqzlbxr8gsnbOFTG7m9WfKgAgAAAoCCgCKAgAAAAICiAAAAAAAAAAgCoAAAOoAAAAAAAAAKAAAAAAAAAAACiAKIAoAAAJZuacpln/JcZJr8uznOpv+uX+AdBAFEUGLc+/ibjbz5Z9P8AlstymVvpvn/DvPAMdTpzqef+G5JjNSajnnMr1N43xG8ZZu31BoAAAAAAAAEAAAc+pu2a3x+HRjKby4tgLjNTzb8qS8AF4jljcpJLP3p0yusbfZz6dtyu+6a9LAbyuo5dl7r9WWrfR1yndNb0xOnZ/fLyDc8M58Wc6aTLHfroExvNndLZ6NMzHnbQAAAAAAAACKgGxz19V+ne7523OICgAIAAAAAAAAAAIAAAAAADqAAAAAAAAACgAAAAAAAAACAKIAogCiAKIAt8OPTxy7vuuvxtvO6jHTxzl3ctz0B2EAVLdTdEzls48g5d9xz3cN8+du7hjvK93Zjvfnbtd6uvIM3CXPu3ZfatvNMt53jqy+z0TwCiKAIAogCiAKIAqAA59Tp99dHLO59+prV/NB0nE4VJ45ATPLtlvn2THPeVnblNfk6mphbZv2Tp7/7e2fig1bIxOrjZ/afqtZTerLrTlhcuJcvx6eQdpxObtjPO43xuNuefOWrJZfcG5bfM0qTxzNAKgAAAKgAAAADjrHdsx+qb9tu3oxjn07rVx+GwAQBUUBAAAAAAAAQAAAAAEAHYAAAAAAAAAAAFEUAABAAAABAUQBRAFEAUQBM5jcfrks90ww6c1cJjPg6lnZdsdLDDHnGY+1kB2EAURMstTjyDnOj/ANWZ6x95p2c8L1NyZdrYONy/6mtS3fH1ad3n3f5LJjhb5lvl2xts5BoQBRAFEAUQBUAAAByuX12dsyu/y6sdtuUv4BsAGOpvU1vz6J0plq3K5b/FOp6efPpTp8zf1c/mgvUvFnjhid01jblqesjXVm8bd2cejOHmfXn+5/6B1cs+3PK45b/w6XxWLZ3Xct54BvHXbNBjrW4oCAAAAAAAACZXWNvsDl08s9zHc1J+HZzx7pJ9roAigCKAgoCAAAAgqAAAAAAAIAOwAAAAAAAAAAKCKACKgAIAAAgAAAAAAAqADHUsxxuV/wBp09b3JZ+28puaZ6eHZL4/wDoIArHUkuF36NM9S6wtoOXQxwmX09Tu/E7noculljbZMsbfat2zGbt4Byxuc6km94/nTu549XDLUmU3fRsFQAAAAAAAAAAATLLtm65/yTfHVwrq545Tu/tz7A6AAx1cscZLnqT3OncbhO2yz2u0yy3ZLKvT12TUsn4oL1Psvox08rllfq3J6dum8sscZ9VknuSy+LKDTn34y3i+fxW3LeW9THc3eZQdZ44VJ4AAAAAAAAAGOpdYX4bY6k+m3fsDOMkvEsn47XRjDv7ru3U9mwAAFAAQAAAAAQAAAAABAAAHYAAAAAAAAAAAFAARUARUABAAAAAAAAAAAY6mXbJdyc+q423zr9M9TnTWGMxx4knxAaAAY6vGF9G2c85hOQY6WVy3fpvpxNNdTG3HcurFw6mOf23Zn9l+Acujepbq5S4z2d3LpXK+bOPTTqAAAAAAAAAAAAA49P0u8t/iuuXGNvs5482fRZr12DqADl1JvKfT3cOmN3PGnPqTK5fTdfpvGaxkBjqS7nEvPqdL6p3dkx3+Dq5THXFv50107vH+3zQaSY4y2ySWq5Ybt13XieLAdQAAAAAAZyy7eb49b+AaABEytnjX7Vy6ktykyxys3xqg3Mrbq42X/TTGEx8492ve1sAFARUAAAAARUAAAAABAAAAAdhFAAAAAAAAABQBFARUARUARUAAAAAAAAAABz6l/GO58t471zNMdW69N/vTeO7OYCgAOXUuM83W3Vy6mOUu8bz8AvSuPbrHLevLXU+ymG+3du/1pOr9l9QTpzPd7styezo5dKy3jv8A/tXUAAAAAAAAAAARQTLWrvwmOGOO+2a2nUs7Lvwz05jL9Pb+gdUUBzudmfbMd/tuXc255eb9Mv426TwDGUm5q6vLWH2zjX60zlhtrGanILl9tZx3v18Ll9tZxxynrxAbAAAAABLZPLnl1cdcc+/o6XGXzJflMpbjqcAzh9F7L49P/wCNuMx3O2XL6eN30dMMtzV4ynmKNMdS6ku5Nfnw2xnN2TW/zNoLhlb518NJhNTma/e2gAAQAAAAAEAAAAABBUAAAAB2QUAAAAAAAABUAURQEABFQBFQAAAAAAAAAAGMt93GO/21OZzNM5Yd2UrcmpoAAByylzu5buX8urlnhLnL24238g3hMpvu/wCTqb7ePOzCduPiT4Z62u2b1rfqDWEs/rJ+2mOljJjuau/xWwAAAAAAAAAAEUBz6ky/rr9nTtvN1+l6ktxmrq7Tp91n1Xf440DaoA5W3v1jbzf+11ZnUm7NX/DQM5ZZTLUx3+1xts5mmOpN5+fbV8VrDfbzNewLn9t0zh3XK26bAAAAAAAAAcs9d/1S2a4mt7WzUmeOOtensueVxnz4MJZOZ/vajUsyks8VjqY7u/xGsce23Xi3aZYTPzb41xUFwx7Z5t+a0TiAAAIAAAAioAAAACXlQARUAAAAB1ABRFAAAAAAAABQQFQAQABFQAAAAAAAAAvgAc5lbldZz406S7jnlq5f28+ZHQAABz6vTufjt/c26Oedy7vpup8bBvHGYzUknwz1dcblvw1jvU3zWOrlcdWTYNzWuPCphvtm1AAAAAAAAAAAABjqXUnnz6Qwy7puW39aXKS+Vk0CpxFZz3NXWwYl1lzMuePZ0t1NuWE5325c+eeHUHO91yv26/FdJvXOt+zncLcrfp1vxZt0kkmpNAz1Pt8W8+iYXG3iZT5tXPLGWd1k+TCzXGtfINAAAAAAAgMdeydO23WvF/Dn0u29XczvUy/PpHbLHHKayks/FakkmpNRRLvV15crdZW3HPx6V2c723Ky7/UqDWH2+v7aSa1x4UBAAAABAUEAAAAAEAAAAAAQHYAFEAUAAAAAAAAAAAEAARUAQAUAAAAAAEt0DOsu683TWMs83bMyyt+3j5bAAAc8pl38b17V0t1HG3K563qX01sHaeGcspLzL+ptpyz7rn9O5x6A6S7m4qY7k5u6oAAAAAAAAAAAgDHUnd+f01jJjON/usW/XNy/MrePj1/YNJfCs5TeN/IOeGGUy83Xy6sdPGy3cs/+1rV36Asuyb9XH+Ob3ZPPl2Byyyx3rK88+jXT7dax/wCGwAAAAAAAAAAByyyymVkm5b+XVy3l3XVmt/gHSeOfITxyAAAAgJlbPE2Y71ymV51uftZvXOv0CgAAAAAAgAAAACKgOwAAAKAAAAAAAAAAACAAIAIAAqAKgAogCpZucqA5Y6328z21XVntndv1aAABLNzTlu43Vz9f+12cpjf5N6B03xtxz/kyy3jr4sd3nykxyusd/GWqDvjvtm1SeIoAAAAAAAAAIAogMZX69TW9erU7t86/Sd/OtW+7Uu4AznlqXXlpnPHGz6sZfmAsuV8ya+VY6eEx/rjL+ZGrdA5Y3He73bvtw7ejj07jxe7L4rsDGc3eN8fi6axmp6/uueWNmXG7qfnTpJqev+QUAAAAAAAAQAc5LbuTG6tdGP45bvKY39A2AAAAgUGctW63NrNemmd8+v8Ahqa1xNT4BQAAAEVAAAAAEAAAHYAAAFAAAAAAAAAABAAQAEAAAAAAAAAL4omXigxh5nOX/h1c+nNb1NT4bBRAFYxyyv8AWa/O2nLDCd29TfwDttz/AJOn3XmS/lrKbmnKd+O9bvPpAdoE8AKIoAICggKIAqAAeZoAc+2zK2W/jl0nhyslzt7N38x0l35mgVnqfbzNtM5+OPIJ05ObMZPeerWXiphLMZtcucbJ+Ac8LnbJvj3jqxjjZd7uvw2Dncd57m+PxW54c8rJnbccr6cVvH7fWfINAgKgAAAAAAAAgKgAAAAAAAAgKIAAAAAAgKgAAA7AAAAAAoigAAAAAgKgAIqAIqAbPIgKAAAAAAx1LZPXXs2zn9tBnC863l49Y6OfT447O2OgAAJldRz6dtv2a99t53Uv5Y6eUuVk377B0y3rhxx5v2573/3O7ljlzub9wdQAAAAAAAAAAAAAY7sN+Zvf5bcZnhMucpL6yx2l2Ax1PTi3n0um2OpLZ4l+QMLueMp8t+Enjxpz6turLjlZ7A6W8cTaueGuLO74tbtk8g53GZZW7u9+ldHDKdLO7yyw3v107Txx4BQAAAAABAFQAAAAAAAAQFQAAAAAAABAAAAAAAHYAAAAABUAVAAAAAAAAQAEVAEAFEAUQBRAFY6l4sjTHUnG92fAHS3rWsZPZ0Ywt35v7mmwAAS61z4MZJzJ5TP7ax0u2X6cNb86B1ccMsrlrt8errbJN1jHqY8Txb7A3jvXKgAAAAAAAAAAACXwDHT7b8z0rcmvDnhcrJ2617ytzeuQaZyt7pJr9q4543OziXj1gOs7v7a+YnUusd8cflcZMZqST4LJfIMdPLut1Jr8y7dEkk8KDlMsPXqTz4tjq5TO6k7a6AoAAgAAAAAAACAoICoAAAAAAICoAAAAAAICiAAAO4AAAAAAAAAAAAAAIAACAgAAAAAAAADPUusd2692mepvt4AwymU4zmVn4aZxu/Sz5jQKgAz1LrCs9LKW8Z434jeU7prekwxuM1ctguUmrtzwyyviY33ldLdS2mFxyx3jZr2BZdzkAFEAUQBRABUAUQBUt1LRnO/TfUDHPu/rY0xhb/25T5bAcc5hM+cMf3HZyzyx7tXPtvvdA3hq4zWtezPV/r58+jWOUy8Xfwz1brV/HIHTyl3rLK/M02zh9vPkzvFnsDUkniDn073eMtye8roAAAAAAAAAgAAAAAAAAgKgAAAAAAACAKgAAgKgA7qAAAAAAAAAAAAACKgCKgCKgAgAKgAmWXbjbremcs8u2XGc38g2rGGVvFnLQKz1JbjqeVTPLtnHkEwlk+q2/LbOGVym9T9XbQAAMdTnE6csnNv7Tq/Z6ftOlzNyan/y2Dpn9tc+nlbb9EnvtrO6xt3pnp5bvGeF+AdQAAAAAAAAQFEUBnOS4+v6rTHUm8dAdOX13P22xjjZd3K32rQKxc5LZZf1LWnK3GdTeWeufgHWeHO25ZSzGWa9XTbjl05/JuY4+PUHXHeuZr9s9Saly3qa5XDHtxk/8mfONngGcMt61njlPZ0csN93O/bcdQAABFAQAAAAAAAAQFEAAAAAAQFEAAAAQFQABAAEB6hFAAAAAAAAAAAAARQEABEVAAQBRAHO9LH+tuPxXS8uWcsmsvqx/PrAbwx7fW2/mtOfTm8Ze/Kx0AYzl3xNy++m2epO7H/+zYLjv1mv3tpz6XE8SfE02CoAM9S6x3rfsnSyxyn0zXtrSdW5T8a9zpXct7cZ8eoNdSyY3d0nT7fSy32p1JfMsnydO93PH+OQdBAFAAEAVAAAAAAZzx7pppjqXLX08aoHTw7PST4bY6dys3lpsBxxs7rbctb8dtdbJfLnjMrlecpN+wOrlnj3Z/bvjzvTpbqWuGWFturd+10Dthj2465/d2tTGaknP7Zzlymt2c+gN6GOnL63L96bAAAAAAAAAAAQAAAAAAAAQAAAQAAAEAAQFQAAQHqVAAAFAAAAAAAAAAABAARFQAEBRDcAvjjy45dTOXV6f7ldmLhdXWV3vzQXHOXjWUvvGieABMr2znf+FZ6mtc3XuCyy+FTGaxnO1AABnPeuLow366/UM8ZnNVccZjNQEz+3i6MN87mOvYzlyx1LowmWvqt/YNAAAAAAAAAAAAMdS61zJ8tsdS2asBenlcsd3X6aYlyvrjZ7NgMY5ZX+s1+dtVjCczd8fgG7NzVcbjJldY534y/9uzEmXdbLxvmUGsftnFnynUupLz59Gks3oGcNW8ZZX5jaY49sUAAAAAAAABFQAAAAAEBUAAQAAABAAABAAAAQAAB60VAAAFRQAQFQUAAAAAAEABEVAEABLjLd2Tf5UAZ7+LZLw0xlhbzjdAY5ZW6ykjbOOOW95WfpoBjPLXrJ8tplLZxdAY71zJ+lZwx7Z6NAAA5Z77pvu1+Y3h482/KZzevC4yYzxJfYFyvbNwm/VOpN4p08ZJuSS32BsAAAAAAAAAAABm5c61a053HWf039A3LLOP8AcVMZqKDOV1Kx08t3xl+287JjeOWcMt688/n0BtxnTmedtxnnz6uzhrG5c9LHK783QO/hm586kt+Go5ZY2XczygOku/Sz5VMZx5t+VAAAAAAAQAAAEVAAABAAAAQAAABAVAABAVAAAAAB6gAAAFRQEVAVABMvtTD5v7XK8cJ092buv0DYACKgCKgCKgIACXxWennMpr1nodTu4uN1+WJlO+Xjd9YDszc9Xxb8NM5Y3e8fP4BZlL4ac5hl393E/MbAYzuXpx8Nuedvdr6p8QG8N63arOF3PNvzNNAAAznhM5q617mOOM4kk1+InUutfVMflrG7nmX4BnqW64k/a4b1zJPhOruY8Tf6OndzxNe0sBsAAAAAAAARQAAHLqfdOMb8urlnlJlzlJ8g6Yztx1JJ7RUxu5LuX4UGOpjlft1v3MZlPMx/S5/bxwzh3X7r/rQNpJjxZJ8pnfRz6WHPOE+dSA7MZ2y3V9Pw2xl3d1149Qaw32/Vd34Um9cgAICoAAAAIAAAIAAAAgAAAICoAAAAAAIAAAAACA9YAKgAKACKgKgAmU366JLPXZlzEwx1PX90GwAEVAELSXcARUBAAZyt3JLr3Z/i+rutlv57U6mGeV3hnqz0MMurbrLCa/MoOpbqbEyx34tlBMOrhn9tacsse7Kd3Tlv51t1kkmpNQBjqTevp225dW7/AK42T8g6YXePjXsqYbuM3JPhQAAc+rl2651+ttdP7fT9ROpvc7b/AKMZluW5bnxoGspviphjMJqHUxmU1uy+mjCWTm2/INAAAAAAAACKAAA5Z5SdTV3z+K6sc998WA16KAMdT7eDp23HmWfJ1bZjx5On3Wbymv2BnjLjbfSMYSalmOf/AO25/wAut8Xjblh0pM93HH9Y+AdXPK6zvGf6dGLhvLe7LvfkGsfHr+zYxnj3cXm+gNjGON3zJ8tAogACAogAAAIAqAAAAgoIKgAAAICoAAAAAAACAD1gAAAKAIACoAM9THc9Ne7PSknjHGfEby8Jhvzb/oGwQFS8wAcpJjvU1fVrC7ti54TOav8AmJ08JhNQFFqAgAM5dPG3u1q/mM9Pu1xl3R0t1GZlZ6TXsDRbJORMpucAx/Ju8Y7k874dJdxjttvdrV/DWM1jyDTjnxnuXL9Orn1LMbOJ/nQN4b1zbfmaVMfE3NLsAN7AcM5ZnzLfjLTthxj4v7u2OpvunEs9dxrp5XLHnX6BnreJuS/M2vS+37ZPhOrdWTumN963jZceLL7goAAAAACKgCooAIA5Z453Pi8e826ucyy7rJq/IOk8AAmWVmtY2/Bjl3elmvyx1p3STVvtF6f2zc0DWWXbjvW0me7q45T5idW/Rd2T5TpyY48Wc/jwDeV1GJc+fF5bsl88uP8AHjct9mOvgHZjqTu14+LNteIls3r1BnpySX6ZPiabTieAFQAAAEAAAAAAAAABABRAFQAAAQAAAAAAABFQHrAAAAAAAAAAs3NM449v5/zVy8JhLJzbfkFy3r6ZLWP5M5fq6d1+Zy6sdTqTpzdlvtAXHPHLxYXeuOK5454Z5bkm/wAXzHS8QHPK9THXjL/TWPdbvKa/aY9SWW30amUs4soAAIKgDn23HcxnF916uPdj4l9qmE6d8YzG+uuAbk1Ft1N0Szc0CfySz1nzGpdxzmGVmsrLGsJccdW7Bpz6m98S39bdHPLq6v22z2BcJlPOte00x1JL1OMtX8d2nacz1jjljO7Ul+YDrj9v5/e1ZwmsfX9tA5Z292sdXc/FdMZrGT/hyuOUz+nLJ2ngHDO/Vq42+8m3Xp67ZJNT40x1ctWfX2t4545eMpl8A0ACKAAACAAqAAADlLl367pr8adHPG5XLUup7wHVABz6st1q2X2bxmp5t+WM9901/wAtzx52DOeXHHN2Y8W/TrZnPp4lvxUwlnN3Pa3YNuWMz7pLrXvHS2SbrM6mGXjLG/sG3LPDG27xl+Y6Xxw5ZY5b4tBvHGYz6ZJ8NJjNQBUAAAAAAEBRAFBAAAAAAAAAAAEAAAAABAAAB6wAAAAAAAAATKcJh8X/ADtcvBiCpljvmKzndSbuoCY7uX26bZxxxnM5/e1ym5rdnwDFlxusJJ8pj07Mrle39RL0sv69Sz5jeEyk+q7oKACAA59XLPGfTjb+dJh1MPWXG38x1AC8QLzNA49+e/pm57zTczu9ZY2e5ZlOJNxcvSA055XWf27/AG6OWd1l6fFgOrl1Ol35bsl+Y6zw5ZZ2Z369T/47B0k1NKk8KDj1LjM/qx7v064/bNTTOWeEy1lrfu3OQZyxls5sXUc+pJln5m/nTeOtan/Owa3yOXV1xvGX5m28JrGcSe0BoAAABm3Spl6AoAAgAS7m4zlNxywk7tduG566B3QASyW86pJJOHOzKXUrc3JyBnnMdbskTHOZeLL8VM/M4v6XDt7dY/8AAGcutz0ZxuVur2tqAz3Xu1qaacsrO66xxt+eQdJdhPAAAAAAioCggAAAAAAAAAAAgCoAAAKgAIoCAAAA9YAAAAAAAAAJl9rPTmM8S/401l4TCanjX7BpMrrG7m/ZWMre7XoDPTxxxu8cdbdXOYyZ75dAY6lsk1fJLZdW7TPLHxbz8JJbZdzXsDYAIAAzOpjbrn/FWzflmb7vH+wbTLLtm1LNzVBy/nnrjnP01jnjlePPvNF3Jqy38ah/aWg253v3xp0Y7d283/INzxy5cfyOnOuPLlJl/J9918A6qhZuaBz7pct8/wD611nhymOUy4yy1+nUHLqXDv1lZL8tYY4484+rOclz5xt+HT0BnOZWzts/bU4jGVtznbW5vXN3QUQAAATLzFZvmA0ioACAW8VjHfHj/DWV1jXPpzDfF5/HgHQVAc8sbcty2T2bm9csW5d/Hhv05BnP7pxtcLucSz5c88t5S6t+Lp0xu8fGgTO3Vk8pjblxlMaZ3i+nuuN58y/oG3PWUy4k1tq3TEyz9gdAAAAAAQVAAAAAAAAAAQFEAAAAAAAAAAQFQAEVAewAAAAAAEvgFEigmXhnDt9LN+zWXhMbxrn9g0l1eL5Vxykxz5wxsvrYDeOGsrbbW0xkk+mST2UHLPeOXdOcfWNY61uOdy7cvrwyvv5kbx6mOf20GgZzuoCjGM9sp81sBjHDWVv/AJay3rhjC23nKUHQABLNmwFccrj389Pd351t2Znbu68g16OUmXdvuy17adLzOK5YdOzLxqfIOwgDlvedmud+8dXPH7r9N3+XQHHOb6nmz4rtrhytnfu42/Dr6A5Z8ZczfvvTrj4/9sXPHetX51tvzyCoAAADN+6Kl+6AogCoIBl9tY6dy3zvXvDqXKY3tnonSud5ygOohd64Bzu+/jfLprjTnJlu6ydIDlrLu1qXj8umO9czTGfOWrjMvlvHieJPYCzaTHV8md1JzJz6mO/XX6BU1N+IZb1wxh3Ti26+AdAAAAAQAAAAAAAAAABAAAAAAAAAAABAAAQAAHrVAFEUAABL4VKBFSKDOXjzpMM5lxMpfhcvCYePFnyDd8cPPnl9X/Uxy1+fR6AGenZ2/TdtJMZLvU2oIioAznJZzGmc/tBz6c53u/Dq54Xd1z+42CZb0z09+t3GsvtrOG9c2/sGy+Avigxjjd77rZ+G3PHnLxjw6AOUx31N2S/p1csctZfbyDr6OeOWdy1uadL4rjjOpbfqsnwDsmW9cLOJyA4y2XVufn8OzEwxmW9235bBx4/kt7N2eu3TG90u5pnu6dy1vHfvXQHG45TPWOVdp4c7fqvNnxHT0AAABAE/srP9gUABABnqfZf/AAz05fNytnu11Pt44TDfOwbABzmMy9f9ujlLu67f3p1Byyv1WaxvtXSePGnO2d1l1z+W8dzjUnwBlN650YYybs1v14Yynf63/LWEsnN2DWX21zxs4+rP/H/p0ym5pmY6uwaAAAARUAAAAAAAAAABAAAAAABFAAAQAAAEAAAHrAAAAABUvgL4AipPABlNzTOGPb//AKZ71wdOZa+q2g2AAADOV1Npjl3emjO6iY3frL8A0zn9rTOf28Az0/DTEmfFt/WmwTLmaZ6eOU+7/lc8u2ca/ZjbZzJ+qDRfAW6gOeGVuWtOjOOfd6WNAOWGdufb2/7dQEviuXTz3nref7jtUmMnMBS+BL4oOeGOXdu5cOmW9cOXTmHdveO/Z2Bx6dx7rrOfG3Zxxt7tWX/DrZuAkmPdv1acdTuvnfw7TiAAAIAJs48sd31ebP03Lx52AACAAx1N+mzp22f+mrJeKY4zGcAoJl4oM45dP+tx3W2MJztqzfqBLL4HP+OXLdxny6A554y5fZjflrp61xjMfaLccbd2S2KDGeUnFujHKW6/kl9vVrLwmMs8g0AAAAioAAAAAAACAqAAAAAAACKigIAAAAIAAAAD1gAAAAAF8ABPAAJl4TCWTdv+1yndNM49LGa4m/aA6M571xVTObx8b+QMZZObtpjCaniT4aBnPwmNlnC5714TG2g0zlrXPhpjqXWPqCY44+lt/bTOF49f3GgZz1286/adOY+lxvwvUusU6d3Ng2zlbrw0mX20GcL6ctsYZb/tv9NgAx25fyd3dx+AbAAZzusa059SXW5JQTp2d3Ntvw6ufTln9de+274oMzDHu7p5bcunjzveWvl1By7L379Pl1Yxyyv4v7bABAAAc8rO67m2p4/DGVkzu9ft0ngBFQAAGOpJbJx+1xlnljLWV1ub93TGSTiSfAKmX21Uy+2gzhf/AMW2MMu6+GwcsZdzzr5dL448uWPGWvX/AOTsDlzvdmc+G8fHm35ZykuXw36AznrU2Ya9Lb8mfp5/S4305/cBQAAAEVAAAAAAAEVAAAAAAAEVAAAAAAAEVAAAAAesAAAAAAAAAAABUAVFQEyks1Ukk8NIA5593iTcdEBnHx4s+VAGOpdY+dLhzj5t+Vsl8rJJOAGc7xppnKbnHkEw49G2MMe38fpsAAAEBWc/trTOf2gx0pz9uMvs11JbjwnT7v7N5fbQcunOftk/bs5YXLiWft0vgGMO3u3xt0csdz0dQEVAAAYyw7rvdaY+rv41psEAAAByztuW9Sz3dMZqeJPhns+rjKz2bkuubsAABKoDPbNtIoOdw3lv/itzgAYz3xrf6XDu19V3+mgAAAAEAAAAAAAARQBFQAAAABAAAAAAAAQABQAAHqAAAAAAAAAAVAFBAVFQEAAQAQAAAAAAEBRAAAFZzm8dRQHOdO65v+LW8/svqoDn0p69tnzXS+KHkHPDU51k6SkkngBUABMrqKgOeM3eL/t0cp54xl+Y6TxyAKgAF8AxlN5+rU8Oc+67l3+ZXScQFS+FAc8cbMvN/wAt26VAc+/839WOgAAAAAAAAgAAAAAAAICgAAgKioAACCgIAAAAAAAAAAAD1AAAAAAAAAAAAAAAgCKgCKgIAAAAAAAACAogCiKAIAogCiKAIAAAAgAAAAOdxy7rq2OkAAABFAQVAAAAAAAEUARQEABUAAAAABFQFQAAAAAQVAAAAAAAAAAAf//Z",
+            "relationship_with_patient": "Mother",
+            "required_update": false,
+            "spouse_name": "",
+            "synced_by": "Shreya Sakpal",
+            "whatsapp_numbar": "9923426746"
+        }
+    ],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "create_date_app_side": "2022-06-06T10:06:15",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "create_date_app_side": "2022-06-06T10:11:51",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "create_date_app_side": "2022-06-06T10:15:20",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "create_date_app_side": "2022-06-06T10:19:54",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "create_date_app_side": "2022-06-06T10:26:09",
+            "side_effects": [
+                4
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "create_date_app_side": "2022-06-06T10:32:10",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "create_date_app_side": "2022-06-06T10:40:54",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "create_date_app_side": "2022-06-06T10:58:35",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        },
+        {
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "create_date_app_side": "2022-06-06T11:24:59",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Shreya Sakpal"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "create_date_app_side": "2022-06-06T10:06:15",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "create_date_app_side": "2022-06-06T10:11:51",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "create_date_app_side": "2022-06-06T10:15:20",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "create_date_app_side": "2022-06-06T10:19:54",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "create_date_app_side": "2022-06-06T10:26:09",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "create_date_app_side": "2022-06-06T10:32:10",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "create_date_app_side": "2022-06-06T10:40:54",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "create_date_app_side": "2022-06-06T10:58:35",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "create_date_app_side": "2022-06-06T11:24:59",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "nutritionistresponse_data": [
+        {
+            "create_date_app_side": "2022-06-06T10:03:53",
+            "hospital": 46,
+            "remark": "holiday ",
+            "remark_date": "2022-06-06T00:00:00",
+            "user": 0,
+            "uuid": "2022060610035395d49cf83f-c086-4bf0-8e80-9b39a6034009"
+        }
+    ],
+    "patient": [
+        {
+            "active": 2,
+            "cancer_type": 2,
+            "chemothropy_startdate": "",
+            "city": "Mumbai",
+            "create_date_app_side": "2022-06-06T11:19:47",
+            "device": "a049dcac1aa8ca41",
+            "device_ip": "FE80::ACD2:12FF:FE10:95EC",
+            "diagnosis_list": 86,
+            "diagnosis_relapse": "0",
+            "diagnosis_stage": 0,
+            "dob": "2018-3-11",
+            "gender": 1,
+            "hospital": 46,
+            "mother_name": "Meenal Mohite",
+            "name": "Harshal Mohite",
+            "other_condition": "",
+            "patient_unique_id": "CTC-SHS-0175",
+            "regn_date_hospital": "2022-06-06T00:00:00",
+            "synced_by": "Shreya Sakpal",
+            "treatment_phase": 0,
+            "uuid": "2022060611194740ceda4358-d0fb-492b-91da-1935e347c8a2"
+        }
+    ],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 1,
+            "counsel_discretion": 3,
+            "date_of_qualifier": "2022-06-06",
+            "dr_discretion": 3,
+            "patient_uuid": "202205191018511132a1b938-6ec8-46b4-bbb7-d72fe431986a",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 3,
+            "date_of_qualifier": "2022-06-06",
+            "dr_discretion": 3,
+            "patient_uuid": "20220301115850337d44d8a3-c2d3-474c-b763-6ee191b142c1",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-06-06",
+            "dr_discretion": 0,
+            "patient_uuid": "2022060611194740ceda4358-d0fb-492b-91da-1935e347c8a2",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "quantity": 1,
+            "supplement": 15
+        }
+    ],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-06-06 12:34:26",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 123,
+        "versionName": "2.6.42"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "2022060610041571cea4e104-176b-4375-b10b-fd2d5291a40a",
+            "create_date_app_side": "2022-06-06T10:05:37",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "20220606100928291a077394-536e-4176-8151-7ddad8dbadf0",
+            "create_date_app_side": "2022-06-06T10:10:30",
+            "fifth_step_fever": 101,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "202206061012455987aafeb7-f8b8-4bb0-bacd-85802f652f00",
+            "create_date_app_side": "2022-06-06T10:13:05",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "202206061016374800fd382b-0366-43e3-9c76-7a514f9ed719",
+            "create_date_app_side": "2022-06-06T10:17:06",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "2022060610212804d9e29e83-7d80-4629-a807-da7a59968d83",
+            "create_date_app_side": "2022-06-06T10:25:26",
+            "fifth_step_fever": 101,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "202206061029396576bc830b-1465-4df0-b714-bdec55a2885f",
+            "create_date_app_side": "2022-06-06T10:29:56",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "2022060610341650792531cc-52fc-4bb6-852d-1324f6d48560",
+            "create_date_app_side": "2022-06-06T10:34:33",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "20220606105350284b2bb9d3-6f57-4874-8eb3-c578c57c11ff",
+            "create_date_app_side": "2022-05-30T11:03:56",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        },
+        {
+            "anthro_uuid": "20220606111947860fdbf9f5-6749-4a51-8cb5-251ec5e712cd",
+            "create_date_app_side": "2022-05-30T11:03:56",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:50:18hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/31a93a9f-ebd9-e5e1-7df5-87c49c75aaf0"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 12:50:18hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T12:41:36.441306",
+    "hospitalDate": "2022-06-03T10:10:51.119021",
+    "programDataDate": "2022-06-03T16:57:42.381504",
+    "rationProvidedDate": "2022-06-02T12:44:56.065705",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 120,
+    "versionName": "2.6.39"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:27:35hrs{
+    "u": "634507959b44b769d81f01672120ff9c",
+    "versionCode": "126"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:34:28hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/4e5be2a4-fe9d-6546-06a1-56b2ffbbefec"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:34:28hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T13:31:21.464249",
+    "hospitalDate": "2022-06-03T15:55:01.387001",
+    "programDataDate": "2022-06-02T12:44:22.082410",
+    "rationProvidedDate": "2022-06-02T12:44:44.442690",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 124,
+    "versionName": "2.6.43"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:40:57hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/c26caae4-3bc6-4e2c-8d40-a84af897da02"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:40:57hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T13:38:07.515445",
+    "hospitalDate": "2022-06-06T13:06:38.620871",
+    "programDataDate": "2022-06-06T13:38:07.610270",
+    "rationProvidedDate": "2022-06-02T12:44:57.833327",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:45:52hrs"https://admin.cuddlesfoundation.com/api/sync/push/337ccea3-1220-fec5-3af3-4d775aee0f0f"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 13:45:52hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 147,
+            "bmi": "13.85",
+            "bmi_z_score": "-2",
+            "bmi_z_score_result": "Moderate Thinness",
+            "click_log": "O:Anthro_2022-06-06T13:39:39;O:Bio_2022-06-06T13:40:30;O:Clinical_2022-06-06T13:40:34;O:WHO_2022-06-06T13:40:34;O:DRecall_2022-06-06T13:40:41;O:Side_Effect_2022-06-06T13:41:23;O:Route_2022-06-06T13:41:34;O:Diet_Plan_2022-06-06T13:41:37;O:Supplement_2022-06-06T13:44:32;O:Summary_2022-06-06T13:44:44",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T13:44:44",
+            "counseller_id": 14,
+            "counseller_name": "Raina Srivastava",
+            "create_date_app_side": "2022-06-06T13:39:39",
+            "created_on": "2022-06-06T13:39:39",
+            "days_before_next_vist": 1,
+            "deviation": "",
+            "diagnosis_relapse": "0",
+            "final_gom_label": "Moderate Thinness",
+            "final_gom_type": "BMI",
+            "height": "137",
+            "height_z_score": "-2",
+            "height_z_score_result": "Moderate Stunting",
+            "latitude": "0.0",
+            "longitude": "0.0",
+            "mode": 1,
+            "muac": "20.4",
+            "muac_reason": "",
+            "muac_z_score": "10",
+            "muac_z_score_result": "Mild Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "Small frequent meal",
+            "patient_type": 2,
+            "patient_uuid": "2022041214295194da683754-01a3-4148-b5fe-358781effdf8",
+            "print_count": 0,
+            "transplant_day": 0,
+            "treatment_phase": 1,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "weight": "26",
+            "weight_z_score": "0"
+        }
+    ],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "54e336b2c0c09359",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1541.0,
+            "consumed24calper": 70.72987,
+            "consumed24cho": 194.0,
+            "consumed24fat": 56.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 57.4,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 65.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T13:41:22",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "07:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "10.4",
+                    "calorie": "77.3000030517578",
+                    "cupQuantity": "2",
+                    "dateTime": "07:00",
+                    "food": "B-protein (Scoop)",
+                    "id": 927,
+                    "protein": "8",
+                    "total_fat": "0.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "10:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "80",
+                    "dateTime": "11:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "80",
+                    "dateTime": "13:00",
+                    "food": "curd (cow) (ml)",
+                    "id": 1014,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "18:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "2.5",
+                    "dateTime": "20:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "8.5",
+                    "calorie": "96",
+                    "cupQuantity": "0.5",
+                    "dateTime": "20:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": "3.5",
+                    "total_fat": "5.3"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.5",
+                    "dateTime": "20:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "req_cal": 2179.56,
+            "req_fat_per": 39.0,
+            "req_pro": 65.0,
+            "req_pro_per": 11.0,
+            "req_cho": 272.5,
+            "req_fat": 94.0,
+            "req_fluid": 1.6,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "diet_plan": [
+                {
+                    "carbohydrates": 10.4,
+                    "calorie": 77.3000030517578,
+                    "cupQuantity": 2.0,
+                    "dateTime": "07:00",
+                    "food": "B-protein (Scoop)",
+                    "id": 927,
+                    "protein": 8.0,
+                    "total_fat": 0.4
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "07:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 100.0,
+                    "dateTime": "10:00",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "10:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 8.38,
+                    "calorie": 199.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "11:00",
+                    "food": "Paratha (Numbers)",
+                    "id": 905,
+                    "protein": 4.5,
+                    "total_fat": 1.25
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "11:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 8.5,
+                    "calorie": 96.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Dal (thin) (Cup)",
+                    "id": 635,
+                    "protein": 3.5,
+                    "total_fat": 5.3
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 45.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "13:00",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": 0.0,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 26.4,
+                    "calorie": 156.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:00",
+                    "food": "Sattu (Cup)",
+                    "id": 663,
+                    "protein": 7.0,
+                    "total_fat": 2.4
+                },
+                {
+                    "carbohydrates": 24.0,
+                    "calorie": 212.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "18:00",
+                    "food": "Besan ladoo (Numbers)",
+                    "id": 868,
+                    "protein": 4.5,
+                    "total_fat": 11.0
+                },
+                {
+                    "carbohydrates": 15.0,
+                    "calorie": 113.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Vegetable Pulao (Cup)",
+                    "id": 672,
+                    "protein": 1.8,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 100.0,
+                    "dateTime": "20:00",
+                    "food": "curd (cow) (ml)",
+                    "id": 1014,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                }
+            ],
+            "plannedCal": 2110.6,
+            "plannedPer": 0.0,
+            "plannedPro": 69.3,
+            "plannedcalper": 96.0,
+            "plannedcho": 226.9,
+            "plannedfat": 70.0,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "create_date_app_side": "2022-06-06T13:41:35",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        }
+    ],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "create_date_app_side": "2022-06-06T13:41:34",
+            "side_effects": [
+                9
+            ],
+            "synced_by": "Raina Srivastava"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "create_date_app_side": "2022-06-06T13:41:34",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-06-06 13:45:51",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 124,
+        "versionName": "2.6.43"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "202206061339398357ba71ca-8bd2-42d1-a12b-46754856db30",
+            "create_date_app_side": "2022-06-06T13:40:41",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 50,
+            "fourth_step_growth": 45,
+            "second_step": 3,
+            "third_step": 2
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:02:44hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:02:44hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T13:54:36.976739",
+    "hospitalDate": "2022-06-06T09:42:14.802587",
+    "programDataDate": "2022-05-21T11:05:21.162729",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:48:46hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:48:46hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T14:45:50.450591",
+    "hospitalDate": "2022-06-06T14:48:35.860693",
+    "programDataDate": "2022-06-06T14:32:37.848245",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 20,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:50:04hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:50:04hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T14:45:50.450591",
+    "hospitalDate": "2022-06-06T14:49:53.531284",
+    "programDataDate": "2022-06-06T14:49:56.268117",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 30,
+    "sf": 1,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:58:46hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 14:58:46hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T14:45:50.450591",
+    "hospitalDate": "2022-06-06T14:58:39.166191",
+    "programDataDate": "2022-06-06T14:52:14.297474",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 15:03:49hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/1dd0919b-d24e-d0f5-da58-42a4704c6ac4"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 15:03:49hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T14:45:50.450591",
+    "hospitalDate": "2022-06-06T15:03:36.670189",
+    "programDataDate": "2022-06-06T14:52:14.297474",
+    "rationProvidedDate": "2022-06-02T12:45:04.020620",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 15:44:11hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 15:44:11hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T15:27:47.761206",
+    "hospitalDate": "2022-06-01T05:00:01.682920",
+    "programDataDate": "2022-06-03T10:28:01.047638",
+    "rationProvidedDate": "2022-06-02T12:44:58.643994",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 123,
+    "versionName": "2.6.42"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 15:50:18hrs"https://admin.cuddlesfoundation.com/api/sync/push/b8a78f98-7517-5870-f810-69b264c60214"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 15:50:18hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "Calorie Dense Meal Options",
+            "age_in_months": 84,
+            "bmi": "14.48",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-06-06T15:44:35;O:Bio_2022-06-06T15:45:02;O:Clinical_2022-06-06T15:45:32;O:WHO_2022-06-06T15:45:40;O:DRecall_2022-06-06T15:45:45;O:Side_Effect_2022-06-06T15:47:04;O:Route_2022-06-06T15:47:09;O:Diet_Plan_2022-06-06T15:47:11;O:Supplement_2022-06-06T15:49:09;O:Ration_Q_2022-06-06T15:49:12;O:Summary_2022-06-06T15:50:09",
+            "is_draft": true,
+            "counsel_enddate": "2022-06-06T15:50:09",
+            "counseller_id": 51,
+            "counseller_name": "Pavithra",
+            "create_date_app_side": "2022-06-06T15:44:35",
+            "created_on": "2022-06-06T15:44:35",
+            "days_before_next_vist": 30,
+            "deviation": "",
+            "diagnosis_relapse": "0",
+            "dosage": "1/day",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "121",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "0.0",
+            "longitude": "0.0",
+            "mode": 1,
+            "muac": "20",
+            "muac_reason": "",
+            "muac_z_score": "25",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "Include calorie dense snack in-between meals\nInclude egg daily\nDrink water frequently to avoid dehydration\nInclude ghee and dal daily\nInclude protein rich food and drink\n",
+            "patient_type": 2,
+            "patient_uuid": "20210621150634137a9b84fe-9554-498f-9bfe-80958aa77973",
+            "print_count": 0,
+            "product": "Laddoos/Chikki",
+            "treatment_phase": 0,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "weight": "21.2",
+            "weight_z_score": "0",
+            "weight_z_score_result": "Well Nourished"
+        }
+    ],
+    "bio_chemical_assesment": [
+        {
+            "active": 0,
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "b_range": "9",
+            "biochemical_id": "9",
+            "value": "140"
+        },
+        {
+            "active": 0,
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "b_range": "26",
+            "biochemical_id": "25",
+            "value": "6.5"
+        }
+    ],
+    "clinical": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "clinicalassessment": 4,
+            "synced_by": ""
+        }
+    ],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "5401d6aea27d89a3",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1200.0,
+            "consumed24calper": 72.33636,
+            "consumed24cho": 113.0,
+            "consumed24fat": 45.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 40.7,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 53.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-06-06T15:47:04",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "100",
+                    "dateTime": "08:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "2.7",
+                    "calorie": "75",
+                    "cupQuantity": "2",
+                    "dateTime": "08:30",
+                    "food": "Sada Dosa (Numbers)",
+                    "id": 909,
+                    "protein": "2.44",
+                    "total_fat": "0.63"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "08:30",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "0.12",
+                    "calorie": "0.579999983310699",
+                    "cupQuantity": "100",
+                    "dateTime": "11:30",
+                    "food": "Water melon (Grams)",
+                    "id": 853,
+                    "protein": "0.02",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "21.5",
+                    "calorie": "203",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "tamrind rice (Cup)",
+                    "id": 667,
+                    "protein": "5",
+                    "total_fat": "6"
+                },
+                {
+                    "carbohydrates": "0.1",
+                    "calorie": "0.509999990463257",
+                    "cupQuantity": "100",
+                    "dateTime": "13:00",
+                    "food": "Yam elephant (Grams)",
+                    "id": 858,
+                    "protein": "0.02",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "150",
+                    "dateTime": "17:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "0.52",
+                    "calorie": "5.40000009536743",
+                    "cupQuantity": "40",
+                    "dateTime": "17:00",
+                    "food": "lays chips (Grams)",
+                    "id": 889,
+                    "protein": "0.08",
+                    "total_fat": "0.34"
+                },
+                {
+                    "carbohydrates": "1.68",
+                    "calorie": "41.5",
+                    "cupQuantity": "2",
+                    "dateTime": "19:30",
+                    "food": "Idli (Numbers)",
+                    "id": 885,
+                    "protein": "1.54",
+                    "total_fat": "0.25"
+                },
+                {
+                    "carbohydrates": "6",
+                    "calorie": "38",
+                    "cupQuantity": "1",
+                    "dateTime": "19:30",
+                    "food": "sambar (Cup)",
+                    "id": 661,
+                    "protein": "3",
+                    "total_fat": "1"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "100",
+                    "dateTime": "21:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 57.0,
+            "req_cal": 1659.608,
+            "req_fat_per": 31.0,
+            "req_pro": 53.0,
+            "req_pro_per": 12.0,
+            "req_cho": 236.5,
+            "req_fat": 57.0,
+            "req_fluid": 1.5,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 120.0,
+                    "dateTime": "07:30",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 1.68,
+                    "calorie": 41.5,
+                    "cupQuantity": 3.0,
+                    "dateTime": "08:30",
+                    "food": "Idli (Numbers)",
+                    "id": 885,
+                    "protein": 1.54,
+                    "total_fat": 0.25
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 38.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "sambar (Cup)",
+                    "id": 661,
+                    "protein": 3.0,
+                    "total_fat": 1.0
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.12,
+                    "calorie": 0.550000011920929,
+                    "cupQuantity": 100.0,
+                    "dateTime": "10:30",
+                    "food": "Pomegranate maroon (Grams)",
+                    "id": 802,
+                    "protein": 0.01,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 1.0,
+                    "calorie": 36.6399993896484,
+                    "cupQuantity": 1.0,
+                    "dateTime": "10:30",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": 1.01,
+                    "total_fat": 0.46
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 45.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": 0.0,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 100.0,
+                    "dateTime": "12:30",
+                    "food": "curd (cow) (ml)",
+                    "id": 1014,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 38.0,
+                    "calorie": 327.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "14:30",
+                    "food": "semiya payasam (Cup)",
+                    "id": 664,
+                    "protein": 8.0,
+                    "total_fat": 16.0
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 150.0,
+                    "dateTime": "17:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.15,
+                    "calorie": 2.0,
+                    "cupQuantity": 40.0,
+                    "dateTime": "17:00",
+                    "food": "Roasted Chana (grams)",
+                    "id": 1033,
+                    "protein": 0.03,
+                    "total_fat": 0.08
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 187.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "19:30",
+                    "food": "uttappam (Numbers)",
+                    "id": 921,
+                    "protein": 3.0,
+                    "total_fat": 1.75
+                },
+                {
+                    "carbohydrates": 0.3,
+                    "calorie": 20.5,
+                    "cupQuantity": 5.0,
+                    "dateTime": "19:30",
+                    "food": "Coconut fresh (Tsp)",
+                    "id": 975,
+                    "protein": 0.2,
+                    "total_fat": 2.1
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 100.0,
+                    "dateTime": "21:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                }
+            ],
+            "plannedCal": 1614.2,
+            "plannedPer": 0.0,
+            "plannedPro": 54.1,
+            "plannedcalper": 97.0,
+            "plannedcho": 129.0,
+            "plannedfat": 63.3,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "create_date_app_side": "2022-06-06T15:47:11",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": "orally tolerated"
+        }
+    ],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "create_date_app_side": "2022-06-06T15:47:09",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Pavithra"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "create_date_app_side": "2022-06-06T15:47:09",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-06-06",
+            "dr_discretion": 0,
+            "patient_uuid": "20210621150634137a9b84fe-9554-498f-9bfe-80958aa77973",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-06-06 15:50:17",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 123,
+        "versionName": "2.6.42"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "2022060615443549e75c740f-f079-41ae-b7e1-1413869526b7",
+            "create_date_app_side": "2022-06-06T15:45:44",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 40,
+            "second_step": 3,
+            "third_step": 3
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 16:40:16hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dda55d65-25d7-ce06-f0ec-8469db5ff6f3"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 16:40:16hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T13:28:10.289104",
+    "hospitalDate": "2022-06-01T05:00:01.726359",
+    "programDataDate": "2022-06-06T13:29:43.644577",
+    "rationProvidedDate": "2022-06-02T12:44:48.220659",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 124,
+    "versionName": "2.6.43"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 17:06:38hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dda55d65-25d7-ce06-f0ec-8469db5ff6f3"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 17:06:38hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-06-06T16:52:05.138540",
+    "hospitalDate": "2022-06-01T05:00:01.726359",
+    "programDataDate": "2022-06-06T16:40:20.608668",
+    "rationProvidedDate": "2022-06-02T12:44:48.220659",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 124,
+    "versionName": "2.6.43"
+}
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 22:30:11hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 06/06/2022, 22:30:11hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-29T14:32:48.952929",
+    "hospitalDate": "2022-06-03T12:35:21.464779",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 126,
+    "versionName": "2.6.45"
+}

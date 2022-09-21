@@ -1,0 +1,17 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 03/23/2022, 16:24:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 0303933515. Please collect the ration from - Apna Bazar co-op, Address: Mumbai Kamgar from 10:00AM - 6:00PM between 14March - 17March.For more details contact 8291044379"
+Activity Log :{"request_id":"326377707862333331333632","type":"success"}
+
+
+==================================================
+
+
+Log Date & Time : 03/23/2022, 16:44:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 3703420793. Please collect the ration from - Ashwin Nayak - Manipal Stores, Address: Near tiger circle,Manipal from 10:00AM - 4:30PM between 22February - 28February.For more details contact 9620937394"
+Activity Log :{"request_id":"326377705261353539313833","type":"success"}

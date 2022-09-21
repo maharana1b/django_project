@@ -1,0 +1,3142 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:51:26hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/b1dc2f83-7dbc-5cc4-e59f-4ABCDE82"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:51:26hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T11:31:45.462314",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-22T13:35:51.592818",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:52:06hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/c67dc6e2-b1e2-5020-caff-b122051950c2"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:52:06hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T11:26:00.346270",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-24T10:53:22.022986",
+    "rationProvidedDate": "2022-02-28T15:34:19.169346",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:54:01hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/c26caae4-3bc6-4e2c-8d40-a84af897da02"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:54:01hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T11:47:16.974225",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T17:03:37.487693",
+    "rationProvidedDate": "2022-02-23T13:35:19.059554",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:56:15hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:56:16hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2021-09-24T09:01:09.968026",
+    "hospitalDate": "2022-03-01T05:00:01.680635",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:56:43hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:56:43hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2021-09-24T09:01:09.968026",
+    "hospitalDate": "2022-03-01T05:00:01.680635",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-02-28T18:40:15.633847",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:58:24hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 11:58:24hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-28T17:40:53.511030",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-02-28T18:40:15.633847",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:01:17hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/c26caae4-3bc6-4e2c-8d40-a84af897da02"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:01:17hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T11:50:09.602472",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T17:03:37.487693",
+    "rationProvidedDate": "2022-02-23T13:35:19.059554",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:01:45hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:01:45hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-28T17:40:53.511030",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-02-28T18:40:15.633847",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:20:02hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:20:02hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-28T17:40:53.511030",
+    "hospitalDate": "2022-03-01T12:19:59.953010",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-02-28T18:40:15.633847",
+    "rotate_ration": false,
+    "fs_days": 14,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:25:01hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/dd8c6efd-011a-63e9-d873-7a4a04e16d37"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:25:01hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T12:18:17.715612",
+    "hospitalDate": "2022-02-16T14:53:36.954722",
+    "programDataDate": "2022-02-28T10:06:44.576244",
+    "rationProvidedDate": "2022-02-28T17:43:01.193896",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:30:54hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:30:54hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-28T17:40:53.511030",
+    "hospitalDate": "2022-03-01T12:30:49.388855",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-02-28T18:40:15.633847",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:32:54hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 12:32:54hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-28T17:40:53.511030",
+    "hospitalDate": "2022-03-01T12:32:46.622072",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-02-28T18:40:15.633847",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:20:32hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:20:32hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2016-01-01 00:00:00",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:20:48hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:20:48hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2021-09-24T09:01:09.968026",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:21:18hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:21:18hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2021-11-08T18:57:12.759394",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:23:54hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:23:54hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2021-12-01T15:35:07.331158",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:13hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:13hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2021-12-09T12:32:24.523780",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:27hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:27hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-01-06T09:45:41.665648",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:39hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:39hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-01-06T09:45:41.665648",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:50hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:24:50hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-01-06T09:45:41.665648",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:27:25hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/95f73367-d967-6cc8-e698-7de0c479d7b6"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:27:25hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T13:14:58.862278",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T13:30:47.060993",
+    "rationProvidedDate": "2022-03-01T12:34:16.497757",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:27:35hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:27:35hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2016-01-01 00:00:00",
+    "hospitalDate": "2022-03-01T13:06:49.104343",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:27:52hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/95f73367-d967-6cc8-e698-7de0c479d7b6"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:27:52hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T13:14:58.862278",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-28T13:30:47.060993",
+    "rationProvidedDate": "2022-03-01T12:34:16.497757",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:28:22hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/31a93a9f-ebd9-e5e1-7df5-87c49c75aaf0"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:28:22hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T13:19:45.942639",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-24T16:43:01.972785",
+    "rationProvidedDate": "2022-03-01T12:34:15.687882",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 111,
+    "versionName": "2.6.30"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:28:38hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:28:38hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2016-01-01 00:00:00",
+    "hospitalDate": "2022-03-01T13:06:49.104343",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:28:51hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:28:51hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-07T14:44:56.464945",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:00hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:00hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2021-02-09T15:30:48.552369",
+    "hospitalDate": "2022-03-01T13:06:49.104343",
+    "programDataDate": "2016-01-01 00:00:00",
+    "rationProvidedDate": "2016-01-01 00:00:00",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:04hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:04hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-07T14:44:56.464945",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:19hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:19hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-07T14:44:56.464945",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:21hrs"https://admin.cuddlesfoundation.com/api/sync/push/b7402dba-5da1-e8dc-e556-996cc0d91f85"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:21hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 126,
+            "bmi": "16.99",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-03-01 12:46:28;O:Bio_2022-03-01 12:46:32;O:Clinical_2022-03-01 12:46:33;O:WHO_2022-03-01 12:46:34;O:DRecall_2022-03-01 12:46:38;O:Side_Effect_2022-03-01 12:47:39;O:Route_2022-03-01 12:47:45;O:Diet_Plan_2022-03-01 12:47:47;O:Supplement_2022-03-01 12:47:49;O:Ration_Q_2022-03-01 12:47:58;O:Summary_2022-03-01 12:48:18",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 12:48:18",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 12:46:28",
+            "created_on": "2022-03-01 12:46:28",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "BMI",
+            "height": "132",
+            "height_z_score": "-1",
+            "height_z_score_result": "Mild Stunting",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "32",
+            "muac_reason": "",
+            "muac_z_score": "95",
+            "muac_z_score_result": "Obese",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "20210427142004875fb817b6-28d4-432c-865f-62ebd2937164",
+            "treatment_phase": 2,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "weight": "29.6",
+            "weight_z_score": "0"
+        },
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 127,
+            "bmi": "19.68",
+            "bmi_z_score": "1",
+            "bmi_z_score_result": "Overweight",
+            "click_log": "O:Anthro_2022-03-01 12:49:07;O:Bio_2022-03-01 12:49:12;O:Clinical_2022-03-01 12:49:12;O:WHO_2022-03-01 12:49:13;O:DRecall_2022-03-01 12:49:23;O:Side_Effect_2022-03-01 12:50:11;O:Route_2022-03-01 12:50:16;O:Diet_Plan_2022-03-01 12:50:19;O:Supplement_2022-03-01 12:50:24;O:Ration_Q_2022-03-01 12:50:26;O:Summary_2022-03-01 12:50:40",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 12:50:40",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 12:49:07",
+            "created_on": "2022-03-01 12:49:07",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Overweight",
+            "final_gom_type": "BMI",
+            "height": "135.8",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "22",
+            "muac_reason": "",
+            "muac_z_score": "25",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "2021061412051862241eb0ac-03e8-4fd0-aae9-2e17ea870091",
+            "treatment_phase": 2,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "weight": "36.3",
+            "weight_z_score": "0"
+        },
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 63,
+            "bmi": "13.89",
+            "bmi_z_score": "-1",
+            "bmi_z_score_result": "Mild Thinness",
+            "click_log": "O:Anthro_2022-03-01 12:51:36;O:Bio_2022-03-01 12:51:39;O:Clinical_2022-03-01 12:51:39;O:WHO_2022-03-01 12:51:39;O:DRecall_2022-03-01 12:51:44;O:Side_Effect_2022-03-01 12:52:31;O:Route_2022-03-01 12:52:39;O:Diet_Plan_2022-03-01 12:53:02;O:Supplement_2022-03-01 12:53:27;O:Ration_Q_2022-03-01 12:54:19;O:Summary_2022-03-01 12:54:40",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 12:54:40",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 12:51:36",
+            "created_on": "2022-03-01 12:51:36",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "98.6",
+            "height_z_score": "-2",
+            "height_z_score_result": "Moderate Stunting",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "14.7",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "2021091311335727c700b159-c204-48ac-b78d-8ce96563b41a",
+            "treatment_phase": 2,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "weight": "13.5",
+            "weight_z_score": "-2",
+            "weight_z_score_result": "Moderate Underweight"
+        },
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 121,
+            "bmi": "13.08",
+            "bmi_z_score": "-2",
+            "bmi_z_score_result": "Moderate Thinness",
+            "click_log": "O:Anthro_2022-03-01 12:58:27;O:Bio_2022-03-01 12:58:55;O:Clinical_2022-03-01 12:58:58;O:WHO_2022-03-01 12:59:03;O:DRecall_2022-03-01 12:59:07;O:Side_Effect_2022-03-01 12:59:52;O:Route_2022-03-01 12:59:56;O:Diet_Plan_2022-03-01 13:00:01;O:Supplement_2022-03-01 13:00:13;O:Ration_Q_2022-03-01 13:00:24;B:Ration_Q_2022-03-01 13:00:27;O:Supplement_2022-03-01 13:00:27;O:Ration_Q_2022-03-01 13:00:34;O:Summary_2022-03-01 13:00:56",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 13:00:56",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 12:58:27",
+            "created_on": "2022-03-01 12:58:27",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "125.2",
+            "height_z_score": "-2",
+            "height_z_score_result": "Moderate Stunting",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "14.1",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "202203011258268012715b2d-a67f-4830-a1ab-72dc28b5178f",
+            "treatment_phase": 77,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "weight": "20.5",
+            "weight_z_score": "0"
+        },
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 189,
+            "bmi": "15.16",
+            "bmi_z_score": "-2",
+            "bmi_z_score_result": "Moderate Thinness",
+            "click_log": "O:Anthro_2022-03-01 13:01:37;O:Bio_2022-03-01 13:01:48;O:Clinical_2022-03-01 13:01:54;O:WHO_2022-03-01 13:01:55;O:DRecall_2022-03-01 13:01:59;O:Anthro_2022-03-01 13:02:45;O:Bio_2022-03-01 13:02:48;O:Clinical_2022-03-01 13:02:48;O:WHO_2022-03-01 13:02:48;O:DRecall_2022-03-01 13:02:52;O:Side_Effect_2022-03-01 13:03:47;O:Route_2022-03-01 13:03:56;O:Diet_Plan_2022-03-01 13:03:59;O:Supplement_2022-03-01 13:04:19;O:Ration_Q_2022-03-01 13:04:47;O:Summary_2022-03-01 13:05:01",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 13:05:01",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 13:01:37",
+            "created_on": "2022-03-01 13:01:37",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Moderate Thinness",
+            "final_gom_type": "BMI",
+            "height": "171.5",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "19.3",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "wxIDXZYtQ5v9ILgkJnSkvCOcRHFigR",
+            "treatment_phase": 8,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "weight": "44.6",
+            "weight_z_score": "0"
+        },
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 162,
+            "bmi": "13.14",
+            "bmi_z_score": "-3",
+            "bmi_z_score_result": "Severe Thinness",
+            "click_log": "O:Anthro_2022-03-01 13:06:10;O:Bio_2022-03-01 13:06:19;O:Clinical_2022-03-01 13:06:20;O:WHO_2022-03-01 13:06:20;O:DRecall_2022-03-01 13:06:29;O:Side_Effect_2022-03-01 13:09:17;O:Route_2022-03-01 13:10:23;O:Diet_Plan_2022-03-01 13:10:26;O:Supplement_2022-03-01 13:10:29;B:Supplement_2022-03-01 13:10:30;O:Diet_Plan_2022-03-01 13:10:31;B:Diet_Plan_2022-03-01 13:10:32;O:Route_2022-03-01 13:10:32;O:Diet_Plan_2022-03-01 13:10:35;O:Supplement_2022-03-01 13:10:48;O:Ration_Q_2022-03-01 13:11:06;O:Summary_2022-03-01 13:11:17",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 13:11:17",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 13:06:10",
+            "created_on": "2022-03-01 13:06:10",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "154.6",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "17.2",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "20201111142329777f16a504-3fab-46d2-b41e-35d1ec4c92f7",
+            "treatment_phase": 2,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "weight": "31.4",
+            "weight_z_score": "0"
+        },
+        {
+            "active": 2,
+            "adviced": "",
+            "age_in_months": 31,
+            "bmi": "14.84",
+            "bmi_z_score": "0",
+            "bmi_z_score_result": "Well Nourished",
+            "click_log": "O:Anthro_2022-03-01 13:12:15;O:Bio_2022-03-01 13:12:25;O:Clinical_2022-03-01 13:12:33;O:WHO_2022-03-01 13:12:39;O:DRecall_2022-03-01 13:12:43;O:Side_Effect_2022-03-01 13:15:38;O:Route_2022-03-01 13:15:44;O:Diet_Plan_2022-03-01 13:15:46;O:Supplement_2022-03-01 13:15:48;O:Ration_Q_2022-03-01 13:15:51;O:Summary_2022-03-01 13:16:04",
+            "is_draft": true,
+            "counsel_enddate": "2022-03-01 13:16:04",
+            "counseller_id": 23,
+            "counseller_name": "Anusha Bandari",
+            "create_date_app_side": "2022-03-01 13:12:15",
+            "created_on": "2022-03-01 13:12:15",
+            "days_before_next_vist": 1,
+            "deviation": "No",
+            "final_gom_label": "Well Nourished",
+            "final_gom_type": "MUAC",
+            "height": "93.6",
+            "height_z_score": "0",
+            "height_z_score_result": "Normal",
+            "latitude": "17.3987843",
+            "longitude": "78.4616713",
+            "mode": 1,
+            "muac": "14.4",
+            "muac_reason": "",
+            "muac_z_score": "14",
+            "muac_z_score_result": "Well Nourished",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "",
+            "patient_type": 1,
+            "patient_uuid": "202103311056427855c7e3c2-f393-4195-9b1e-aaab50ecdfe9",
+            "treatment_phase": 2,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "weight": "13",
+            "weight_z_score": "0",
+            "weight_z_score_result": "Well Nourished"
+        }
+    ],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "431f71fbc4413e97",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1167.0,
+            "consumed24calper": 72.74793,
+            "consumed24cho": 125.0,
+            "consumed24fat": 50.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 41.4,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 12:47:39",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "1",
+                    "dateTime": "09:00",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "0.13",
+                    "calorie": "0.670000016689301",
+                    "cupQuantity": "60",
+                    "dateTime": "11:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": "0.02",
+                    "total_fat": "0.01"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "2",
+                    "dateTime": "13:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "1",
+                    "calorie": "36.6399993896484",
+                    "cupQuantity": "1",
+                    "dateTime": "16:30",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": "1.01",
+                    "total_fat": "0.46"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "2",
+                    "dateTime": "17:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "19:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "20:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "20:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 57.0,
+            "reqCal": 1605.324,
+            "req_fat_per": 25.0,
+            "reqPro": 74.0,
+            "req_pro_per": 18.0,
+            "req_cho": 228.8,
+            "req_fat": 44.0,
+            "req_fluid": 1.7,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 873.0,
+            "consumed24calper": 46.8424,
+            "consumed24cho": 89.0,
+            "consumed24fat": 37.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 31.7,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 12:50:10",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "1",
+                    "dateTime": "08:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "2",
+                    "dateTime": "11:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "1",
+                    "calorie": "36.6399993896484",
+                    "cupQuantity": "1",
+                    "dateTime": "15:30",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": "1.01",
+                    "total_fat": "0.46"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "17:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "18:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "20:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 58.0,
+            "reqCal": 1865.0625,
+            "req_fat_per": 23.0,
+            "reqPro": 90.75,
+            "req_pro_per": 19.0,
+            "req_cho": 270.4,
+            "req_fat": 47.0,
+            "req_fluid": 1.8,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 730.0,
+            "consumed24calper": 60.723274,
+            "consumed24cho": 83.0,
+            "consumed24fat": 30.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 31.2,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 12:52:31",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "7.42",
+                    "calorie": "60.5",
+                    "cupQuantity": "1",
+                    "dateTime": "06:00",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": "6.45",
+                    "total_fat": "0.52"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "1",
+                    "dateTime": "09:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "17:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "21:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "7.42",
+                    "calorie": "60.5",
+                    "cupQuantity": "1",
+                    "dateTime": "21:30",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": "6.45",
+                    "total_fat": "0.52"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 58.0,
+            "reqCal": 1202.175,
+            "req_fat_per": 31.0,
+            "reqPro": 33.75,
+            "req_pro_per": 11.0,
+            "req_cho": 174.3,
+            "req_fat": 41.0,
+            "req_fluid": 1.2,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 690.0,
+            "consumed24calper": 46.180103,
+            "consumed24cho": 68.0,
+            "consumed24fat": 31.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 26.2,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 12:59:52",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "1",
+                    "dateTime": "08:00",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "11:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "17:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "18:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "20:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 57.0,
+            "reqCal": 1494.15,
+            "req_fat_per": 30.0,
+            "reqPro": 51.25,
+            "req_pro_per": 13.0,
+            "req_cho": 212.9,
+            "req_fat": 49.0,
+            "req_fluid": 1.5,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1154.0,
+            "consumed24calper": 53.777622,
+            "consumed24cho": 128.0,
+            "consumed24fat": 46.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 47.8,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 13:03:46",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "6",
+                    "calorie": "62.3699989318848",
+                    "cupQuantity": "1",
+                    "dateTime": "06:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": "4.68",
+                    "total_fat": "2.16"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "09:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "2",
+                    "dateTime": "13:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "2",
+                    "dateTime": "19:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "19:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "6",
+                    "calorie": "62.3699989318848",
+                    "cupQuantity": "1",
+                    "dateTime": "19:30",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": "4.68",
+                    "total_fat": "2.16"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "22:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 60.0,
+            "reqCal": 2147.25,
+            "req_fat_per": 24.0,
+            "reqPro": 89.2,
+            "req_pro_per": 16.0,
+            "req_cho": 322.1,
+            "req_fat": 57.0,
+            "req_fluid": 2.0,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 918.0,
+            "consumed24calper": 51.01985,
+            "consumed24cho": 86.0,
+            "consumed24fat": 41.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 41.6,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 13:09:16",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "6",
+                    "calorie": "62.3699989318848",
+                    "cupQuantity": "1",
+                    "dateTime": "06:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": "4.68",
+                    "total_fat": "2.16"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "1",
+                    "dateTime": "08:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "14",
+                    "calorie": "211",
+                    "cupQuantity": "1",
+                    "dateTime": "09:30",
+                    "food": "egg curry (cup)",
+                    "id": 639,
+                    "protein": "10",
+                    "total_fat": "13"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "11:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "16:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "18:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "6",
+                    "calorie": "62.3699989318848",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": "4.68",
+                    "total_fat": "2.16"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 59.0,
+            "reqCal": 1800.75,
+            "req_fat_per": 24.0,
+            "reqPro": 78.5,
+            "req_pro_per": 17.0,
+            "req_cho": 265.6,
+            "req_fat": 48.0,
+            "req_fluid": 1.7,
+            "server_created_on": "",
+            "server_updated_on": ""
+        },
+        {
+            "anthro_uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 897.0,
+            "consumed24calper": 83.37578,
+            "consumed24cho": 93.0,
+            "consumed24fat": 35.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 36.8,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-03-01 13:15:38",
+            "last24hours": [
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "12",
+                    "calorie": "85.1999969482422",
+                    "cupQuantity": "1",
+                    "dateTime": "06:00",
+                    "food": "Kids pro (Scoop)",
+                    "id": 938,
+                    "protein": "4.8",
+                    "total_fat": "2"
+                },
+                {
+                    "carbohydrates": "12.5",
+                    "calorie": "101",
+                    "cupQuantity": "1",
+                    "dateTime": "08:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": "1.3",
+                    "total_fat": "5.1"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "12:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "1",
+                    "dateTime": "16:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "20",
+                    "calorie": "147",
+                    "cupQuantity": "1",
+                    "dateTime": "16:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": "4.5",
+                    "total_fat": "5.4"
+                },
+                {
+                    "carbohydrates": "1",
+                    "calorie": "36.6399993896484",
+                    "cupQuantity": "1",
+                    "dateTime": "20:00",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": "1.01",
+                    "total_fat": "0.46"
+                },
+                {
+                    "carbohydrates": "0.08",
+                    "calorie": "1.07000005245209",
+                    "cupQuantity": "100",
+                    "dateTime": "23:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": "0.04",
+                    "total_fat": "0.07"
+                },
+                {
+                    "carbohydrates": "12",
+                    "calorie": "85.1999969482422",
+                    "cupQuantity": "1",
+                    "dateTime": "23:30",
+                    "food": "Kids pro (Scoop)",
+                    "id": 938,
+                    "protein": "4.8",
+                    "total_fat": "2"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 58.0,
+            "reqCal": 1075.9,
+            "req_fat_per": 30.0,
+            "reqPro": 32.5,
+            "req_pro_per": 12.0,
+            "req_cho": 156.0,
+            "req_fat": 35.0,
+            "req_fluid": 1.2,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:00",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 0.13,
+                    "calorie": 0.670000016689301,
+                    "cupQuantity": 60.0,
+                    "dateTime": "11:30",
+                    "food": "Banana ripe (Grams)",
+                    "id": 685,
+                    "protein": 0.02,
+                    "total_fat": 0.01
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "13:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 1.0,
+                    "calorie": 36.6399993896484,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:30",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": 1.01,
+                    "total_fat": 0.46
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "17:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "19:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "20:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "20:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                }
+            ],
+            "plannedCal": 1167.8,
+            "plannedPer": 0.0,
+            "plannedPro": 41.4,
+            "plannedcalper": 72.0,
+            "plannedcho": 125.3,
+            "plannedfat": 50.1,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "11:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 1.0,
+                    "calorie": 36.6399993896484,
+                    "cupQuantity": 1.0,
+                    "dateTime": "15:30",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": 1.01,
+                    "total_fat": 0.46
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "17:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "18:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "20:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                }
+            ],
+            "plannedCal": 873.6,
+            "plannedPer": 0.0,
+            "plannedPro": 31.7,
+            "plannedcalper": 46.0,
+            "plannedcho": 89.5,
+            "plannedfat": 37.1,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 7.42,
+                    "calorie": 60.5,
+                    "cupQuantity": 1.0,
+                    "dateTime": "06:00",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": 6.45,
+                    "total_fat": 0.52
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "17:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "21:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 7.42,
+                    "calorie": 60.5,
+                    "cupQuantity": 1.0,
+                    "dateTime": "21:30",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": 6.45,
+                    "total_fat": 0.52
+                }
+            ],
+            "plannedCal": 730.0,
+            "plannedPer": 0.0,
+            "plannedPro": 31.2,
+            "plannedcalper": 60.0,
+            "plannedcho": 83.3,
+            "plannedfat": 30.9,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 7.42,
+                    "calorie": 60.5,
+                    "cupQuantity": 1.0,
+                    "dateTime": "06:00",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": 6.45,
+                    "total_fat": 0.52
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:00",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "11:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "17:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 7.42,
+                    "calorie": 60.5,
+                    "cupQuantity": 1.0,
+                    "dateTime": "17:00",
+                    "food": "Pentasure HP (Scoop)",
+                    "id": 956,
+                    "protein": 6.45,
+                    "total_fat": 0.52
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "18:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "20:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                }
+            ],
+            "plannedCal": 811.0,
+            "plannedPer": 0.0,
+            "plannedPro": 39.1,
+            "plannedcalper": 54.0,
+            "plannedcho": 83.3,
+            "plannedfat": 32.3,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 62.3699989318848,
+                    "cupQuantity": 1.0,
+                    "dateTime": "06:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": 4.68,
+                    "total_fat": 2.16
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "13:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "19:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "19:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 62.3699989318848,
+                    "cupQuantity": 1.0,
+                    "dateTime": "19:30",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": 4.68,
+                    "total_fat": 2.16
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "22:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                }
+            ],
+            "plannedCal": 1154.7,
+            "plannedPer": 0.0,
+            "plannedPro": 47.8,
+            "plannedcalper": 53.0,
+            "plannedcho": 128.0,
+            "plannedfat": 46.7,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 62.3699989318848,
+                    "cupQuantity": 1.0,
+                    "dateTime": "06:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": 4.68,
+                    "total_fat": 2.16
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 14.0,
+                    "calorie": 211.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "09:30",
+                    "food": "egg curry (cup)",
+                    "id": 639,
+                    "protein": 10.0,
+                    "total_fat": 13.0
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "11:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 62.3699989318848,
+                    "cupQuantity": 1.0,
+                    "dateTime": "15:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": 4.68,
+                    "total_fat": 2.16
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:30",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "18:00",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 6.0,
+                    "calorie": 62.3699989318848,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "Pentasure 2.0 Pentasure (Scoop)",
+                    "id": 952,
+                    "protein": 4.68,
+                    "total_fat": 2.16
+                }
+            ],
+            "plannedCal": 981.1,
+            "plannedPer": 0.0,
+            "plannedPro": 46.3,
+            "plannedcalper": 54.0,
+            "plannedcho": 92.5,
+            "plannedfat": 43.8,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        },
+        {
+            "anthro_uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "diet_plan": [
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "06:00",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 12.0,
+                    "calorie": 85.1999969482422,
+                    "cupQuantity": 1.0,
+                    "dateTime": "06:00",
+                    "food": "Kids pro (Scoop)",
+                    "id": 938,
+                    "protein": 4.8,
+                    "total_fat": 2.0
+                },
+                {
+                    "carbohydrates": 12.5,
+                    "calorie": 101.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "08:30",
+                    "food": "upma (Cup)",
+                    "id": 671,
+                    "protein": 1.3,
+                    "total_fat": 5.1
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "12:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 20.0,
+                    "calorie": 147.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "16:30",
+                    "food": "Rice Khichadi (Cup)",
+                    "id": 659,
+                    "protein": 4.5,
+                    "total_fat": 5.4
+                },
+                {
+                    "carbohydrates": 1.0,
+                    "calorie": 36.6399993896484,
+                    "cupQuantity": 1.0,
+                    "dateTime": "20:00",
+                    "food": "G.nut Chikki (Numbers)",
+                    "id": 879,
+                    "protein": 1.01,
+                    "total_fat": 0.46
+                },
+                {
+                    "carbohydrates": 0.08,
+                    "calorie": 1.07000005245209,
+                    "cupQuantity": 100.0,
+                    "dateTime": "23:30",
+                    "food": "Milk Buffalo (ml)",
+                    "id": 777,
+                    "protein": 0.04,
+                    "total_fat": 0.07
+                },
+                {
+                    "carbohydrates": 12.0,
+                    "calorie": 85.1999969482422,
+                    "cupQuantity": 1.0,
+                    "dateTime": "23:30",
+                    "food": "Kids pro (Scoop)",
+                    "id": 938,
+                    "protein": 4.8,
+                    "total_fat": 2.0
+                }
+            ],
+            "plannedCal": 897.0,
+            "plannedPer": 0.0,
+            "plannedPro": 36.8,
+            "plannedcalper": 83.0,
+            "plannedcho": 93.5,
+            "plannedfat": 35.7,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "create_date_app_side": "2022-03-01 12:47:46",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "create_date_app_side": "2022-03-01 12:50:17",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "create_date_app_side": "2022-03-01 12:53:02",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "create_date_app_side": "2022-03-01 13:00:00",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "create_date_app_side": "2022-03-01 13:03:56",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "create_date_app_side": "2022-03-01 13:10:24",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        },
+        {
+            "anthro_uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "create_date_app_side": "2022-03-01 13:15:44",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        }
+    ],
+    "guardian": [
+        {
+            "consent_status": 1,
+            "consent_status_timestamp": "2022-03-01 12:58:26",
+            "create_date_app_side": "2022-03-01 12:57:17",
+            "first_name": "Shuleela",
+            "gender": 0,
+            "has_a_smartphone": 0,
+            "has_whatsapp": false,
+            "last_name": "",
+            "opt_notification": 1,
+            "patient_uuid": "202203011258268012715b2d-a67f-4830-a1ab-72dc28b5178f",
+            "phone_number": "9740603409",
+            "preferred_language": 6,
+            "profile_pic": "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cl7Fg9UIvyivdExrTBJ9kBoAgFBAAAAAAAAAABCgAAAAAAAAQAMCMhWQAAAAAAAAAAAAAAAAAAAKCFAAAAAAAAAAAAAABSAAAAKCACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoIAKCACggAoIABQAAAAAAAAAAIUCFIAKAQAUgAoAAAgAoIABCkAMgZAKQAAUgApAAKAAAAAAAAAAAAAAACghQAAAAAAAAAAAAAAAABSAAUgAoIAAAAoIUACFAEAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoIUAAAAIAAAAAEAoAAAAAAAAAAAgAAEYAgAAEKAAAAAAAAAAAApCgAAAAAAAAAAAAAFBCgAAABABQAAAIBQAAAAAAAAAAAAAAAAAAAAAAAAAAKCACggFAAAAAAAAAAAEKAAAAAAAAAKQAUAAQAAACAAAAKQAUEAFAIBQCAAABAwQAQAAAAAAAFIABSACgAAAABSACgAAAAAAAAAAAAAAAAAAAAAAAFIAKCACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAKQACkAAAAAUgAoIUACFAAhQAAAAAAAAAIAAAAAAAAAAAAAhQAAAhGCAGQAAUgAoIAKCFAAAAUgAoIAKCWUAAAAAAAACkAAAACggAoIAKCFAAgAoIAKCFAAAAAAKCACggApCkAoIAKCACggAoIAKCACggAoIAKCACgAAAAAAAAAAAAKCFAAEAoIAAAAAEApAAKCAAUgAAAACAAQEYBkAAoIAKAAAAAoIAKCFAAAAAABSACghQAIAKCFAAAAAAAAAAAAAAAAAAAAAAAAAosgAtiyACggApAAAAAoIAKCACghQAAAAAAAAAAApAAKCACggAoIAKAAAAAAEAAAAAAABAKCFAEBQIAAAAA//9k=",
+            "relationship_with_patient": "Mother",
+            "required_update": false,
+            "spouse_name": "",
+            "synced_by": "Anusha Bandari"
+        }
+    ],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "create_date_app_side": "2022-03-01 12:47:45",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        },
+        {
+            "anthro_uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "create_date_app_side": "2022-03-01 12:50:16",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        },
+        {
+            "anthro_uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "create_date_app_side": "2022-03-01 12:52:39",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "create_date_app_side": "2022-03-01 12:59:56",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        },
+        {
+            "anthro_uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "create_date_app_side": "2022-03-01 13:03:55",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        },
+        {
+            "anthro_uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "create_date_app_side": "2022-03-01 13:10:23",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        },
+        {
+            "anthro_uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "create_date_app_side": "2022-03-01 13:15:44",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Anusha Bandari"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "create_date_app_side": "2022-03-01 12:47:45",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "create_date_app_side": "2022-03-01 12:50:16",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "create_date_app_side": "2022-03-01 12:52:39",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "create_date_app_side": "2022-03-01 12:59:56",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "create_date_app_side": "2022-03-01 13:03:55",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "create_date_app_side": "2022-03-01 13:10:23",
+            "side_effects": [
+                20
+            ]
+        },
+        {
+            "anthro_uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "create_date_app_side": "2022-03-01 13:15:44",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "nutritionistresponse_data": [],
+    "patient": [
+        {
+            "active": 2,
+            "cancer_type": 3,
+            "chemothropy_startdate": "2022-2-27",
+            "city": "bidar",
+            "create_date_app_side": "2022-03-01 12:58:26",
+            "device": "431f71fbc4413e97",
+            "device_ip": "FE80::5C70:25FF:FE27:7643",
+            "diagnosis_list": 7,
+            "diagnosis_relapse": "0",
+            "diagnosis_stage": 2,
+            "dob": "2012-2-18",
+            "gender": 2,
+            "hospital": 14,
+            "mother_name": "Shuleela",
+            "name": "Sandhya Rani ",
+            "other_condition": "",
+            "patient_unique_id": "MNJ-AB-0571",
+            "regn_date_hospital": "2022-02-21 00:00:00",
+            "synced_by": "Anusha Bandari",
+            "treatment_phase": 77,
+            "uuid": "202203011258268012715b2d-a67f-4830-a1ab-72dc28b5178f"
+        }
+    ],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "20210427142004875fb817b6-28d4-432c-865f-62ebd2937164",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "2021061412051862241eb0ac-03e8-4fd0-aae9-2e17ea870091",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "2021091311335727c700b159-c204-48ac-b78d-8ce96563b41a",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "202203011258268012715b2d-a67f-4830-a1ab-72dc28b5178f",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "wxIDXZYtQ5v9ILgkJnSkvCOcRHFigR",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "20201111142329777f16a504-3fab-46d2-b41e-35d1ec4c92f7",
+            "single_parent": 0
+        },
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-03-01",
+            "dr_discretion": 0,
+            "patient_uuid": "202103311056427855c7e3c2-f393-4195-9b1e-aaab50ecdfe9",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "quantity": 1,
+            "supplement": 9
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "quantity": 1,
+            "supplement": 39
+        }
+    ],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-01 13:29:09",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 118,
+        "versionName": "2.6.37"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "2022030112462892f0383eb1-06be-4ec5-b4e9-b6d0cf3ca272",
+            "create_date_app_side": "2022-03-01 12:46:38",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 15,
+            "second_step": 3,
+            "third_step": 2
+        },
+        {
+            "anthro_uuid": "2022030112490736ff45e80d-c186-4216-b181-231966d0a471",
+            "create_date_app_side": "2022-03-01 12:49:23",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 15,
+            "second_step": 3,
+            "third_step": 2
+        },
+        {
+            "anthro_uuid": "20220301125136778468f71d-e3c1-4779-801c-f0e48684d29a",
+            "create_date_app_side": "2022-03-01 12:51:43",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 20,
+            "second_step": 3,
+            "third_step": 2
+        },
+        {
+            "anthro_uuid": "202203011258272049b175d9-bded-4e3d-b2d3-54ee93885328",
+            "create_date_app_side": "2022-03-01 12:59:07",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 20,
+            "second_step": 3,
+            "third_step": 2
+        },
+        {
+            "anthro_uuid": "2022030113013779fd848e6d-4daa-48ad-a3eb-37b2bcab0277",
+            "create_date_app_side": "2022-03-01 13:01:58",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 20,
+            "second_step": 3,
+            "third_step": 2
+        },
+        {
+            "anthro_uuid": "20220301130610215348fb77-ae3e-41ae-a391-1cece8e652df",
+            "create_date_app_side": "2022-03-01 13:06:29",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 20,
+            "second_step": 3,
+            "third_step": 2
+        },
+        {
+            "anthro_uuid": "202203011312152921e58e9b-b814-4e6a-82f4-a7ab949f6b1c",
+            "create_date_app_side": "2022-03-01 13:12:43",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 20,
+            "fourth_step_growth": 15,
+            "second_step": 3,
+            "third_step": 2
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:32hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:32hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-25T10:38:46.828574",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:56hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:56hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2021-04-26T16:09:08.053941",
+    "hospitalDate": "2022-03-01T13:06:49.104343",
+    "programDataDate": "2022-02-25T10:11:06.273785",
+    "rationProvidedDate": "2022-03-01T12:34:14.981988",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:59hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:29:59hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T12:57:13.573066",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-25T10:11:06.273785",
+    "rationProvidedDate": "2022-03-01T12:34:14.981988",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:13hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/3f69c538-0be2-5c19-964c-a601ae90b988"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:13hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-28T17:40:53.511030",
+    "hospitalDate": "2022-03-01T13:14:37.690055",
+    "programDataDate": "2022-02-28T17:56:08.347162",
+    "rationProvidedDate": "2022-03-01T13:16:02.036322",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:17hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:17hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2021-04-26T16:09:08.053941",
+    "hospitalDate": "2022-03-01T13:06:49.104343",
+    "programDataDate": "2022-02-25T10:11:06.273785",
+    "rationProvidedDate": "2022-03-01T12:34:14.981988",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:31hrs"https://admin.cuddlesfoundation.com/api/sync/push/0499d70e-e9ce-9461-f830-bd814c2ac54c"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:31hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "8deed3f516f7c48d",
+        "name": "Redmi 6 Pro"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [
+        {
+            "active": 0,
+            "date_range": "1March - 10March",
+            "id": 0,
+            "max_ration_kits_big": 5,
+            "server_created_on": "2020-11-26T02:13:29",
+            "server_updated_on": "2022-03-01T13:14:37.690055",
+            "sync_status": false,
+            "time_info": "10:00AM - 4:30PM"
+        }
+    ],
+    "medical": [],
+    "infection": [],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [
+        {
+            "active": 2,
+            "date_of_sharing_pin": "",
+            "distribution_type": 0,
+            "guardian_name": "Mahipal",
+            "hospital_id": "0",
+            "id": 20437,
+            "kit_type": 0,
+            "mobile_no": "9632619647",
+            "patient_uuid": "202107091205355095d4aac7-7405-4646-8199-263659c80090",
+            "preferred_language": "1",
+            "ration_coupon_code": "0003183536",
+            "rationcycle": "2022-03-01",
+            "server_created_on": "2022-03-01T12:34:11.973224",
+            "server_updated_on": "2022-03-01T13:12:01.624073",
+            "syncStatus": 0
+        }
+    ],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-01 13:30:30",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 118,
+        "versionName": "2.6.37"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:32hrs"https://admin.cuddlesfoundation.com/api/sync/push/0499d70e-e9ce-9461-f830-bd814c2ac54c"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:30:32hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "8deed3f516f7c48d",
+        "name": "Redmi 6 Pro"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [
+        {
+            "active": 0,
+            "date_range": "1March - 10March",
+            "id": 0,
+            "max_ration_kits_big": 5,
+            "server_created_on": "2020-11-26T02:13:29",
+            "server_updated_on": "2022-03-01T13:14:37.690055",
+            "sync_status": false,
+            "time_info": "10:00AM - 4:30PM"
+        }
+    ],
+    "medical": [],
+    "infection": [],
+    "nutritionistresponse_data": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [],
+    "rationprovided": [
+        {
+            "active": 2,
+            "date_of_sharing_pin": "",
+            "distribution_type": 0,
+            "guardian_name": "Mahipal",
+            "hospital_id": "0",
+            "id": 20437,
+            "kit_type": 0,
+            "mobile_no": "9632619647",
+            "patient_uuid": "202107091205355095d4aac7-7405-4646-8199-263659c80090",
+            "preferred_language": "1",
+            "ration_coupon_code": "0003183536",
+            "rationcycle": "2022-03-01",
+            "server_created_on": "2022-03-01T12:34:11.973224",
+            "server_updated_on": "2022-03-01T13:12:01.624073",
+            "syncStatus": 0
+        }
+    ],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-01 13:30:31",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 118,
+        "versionName": "2.6.37"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:31:03hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/a9e48603-1d5c-792c-73a0-546ce9639ba3"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:31:03hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-01T13:23:36.981210",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-01T12:46:54.766919",
+    "rationProvidedDate": "2022-03-01T12:34:11.449338",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:31:27hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/01/2022, 13:31:27hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2021-08-09T19:18:41.892357",
+    "hospitalDate": "2022-03-01T13:06:49.104343",
+    "programDataDate": "2022-02-25T10:11:06.273785",
+    "rationProvidedDate": "2022-03-01T12:34:14.981988",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}

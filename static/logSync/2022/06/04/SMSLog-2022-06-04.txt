@@ -1,0 +1,9 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 06/04/2022, 00:44:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 0605612347. Please collect the ration from - Rajesh Kumar trivedi, Address: MPMMC,Naria Rd from 09:00AM - 5:00PM between 1March - 31March.For more details contact 9811705116"
+Activity Log :{"request_id":"326664305262313137363336","type":"success"}

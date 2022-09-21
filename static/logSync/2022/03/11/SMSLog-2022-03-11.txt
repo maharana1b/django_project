@@ -1,0 +1,25 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:06:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 3303804406. Please collect the ration from - Rather Provisional Store, Address: SKIMS from 10:30AM - 12:30AM between 7January - 22January.For more details contact 9596226935"
+Activity Log :{"request_id":"32636b716661353737323237","type":"success"}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:08:01hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 2203401551. Please collect the ration from - Laxmi Stores, Address: 120A,AJC Bose Rd,Kol-700014 from 11:00AM - 4:00PM between 15 Feb - 18 Feb 2022.For more details contact 89816 28653"
+Activity Log :{"request_id":"32636b716861303331313136","type":"success"}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:08:02hrs 
+"Dear Parent, Your PIN for CUDDLES Ration collection is 2203383968. Please collect the ration from - Laxmi Stores, Address: 120A,AJC Bose Rd,Kol-700014 from 11:00AM - 4:00PM between 15 Feb - 18 Feb 2022.For more details contact 89816 28653"
+Activity Log :{"request_id":"32636b716861393833323934","type":"success"}

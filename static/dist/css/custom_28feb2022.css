@@ -1,0 +1,53 @@
+body {
+font-size: 0.85rem;
+line-height: 1.25;
+}
+
+.h3, h3 {
+font-size: 1rem;
+font-weight:600;
+}
+
+.table td, .table th {
+padding: .25rem;
+vertical-align: top;
+border: 1px solid #dee2e6;
+}
+
+.btn-primary {
+color: #007bff;
+background-color: #ffffff;
+border-color: #007bff;
+border-width: 2px;
+box-shadow: none;
+}
+
+.btn-primary:hover {
+color: #fff;
+background-color: #0069d9;
+border-color: #0062cc;
+}
+
+.card-body.card-body-search {
+background-color: lavender;
+}
+
+.card-header {
+background-color: rgb(189, 166, 238);
+}
+
+.navbar-white {
+background-color: rgb(179, 0, 255);
+}
+
+.card-title {
+    color: #000000;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #000000;
+}
+
+.navbar-light .navbar-brand{
+    color: #000000;
+}

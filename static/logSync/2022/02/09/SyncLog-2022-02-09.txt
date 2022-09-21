@@ -1,0 +1,709 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:04:57hrs{
+    "waId": "9935241378",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:06:29hrs{
+    "waId": "9935241378",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:07:18hrs{
+    "waId": "9935241378",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:08:45hrs{
+    "waId": "9935241378",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:11:05hrs{
+    "waId": "8220583466",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:23:07hrs{
+    "waId": "8220583466",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:23:17hrs{
+    "waId": "918220583466",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:29:24hrs{
+    "waId": "918220583466",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 07:30:10hrs{
+    "waId": "918220583466",
+    "text": "Hi",
+    "w_type": "text"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 17:12:36hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-02-09T12:42:09.239626",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-02-08T17:17:12.819102",
+    "rationProvidedDate": "2022-02-09T14:40:20.194512",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 88,
+    "versionName": "2.6.7"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 17:33:02hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T16:05:40.739877",
+    "programDataDate": "2022-02-08T16:42:17.420781",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 17:33:04hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "fc29e9283eb80d54",
+        "name": "Lenovo TB-8505X"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [
+        {
+            "active": 0,
+            "date_range": "1December - 31December",
+            "id": 0,
+            "max_ration_kits_big": 0,
+            "server_created_on": "2020-11-26T02:13:29",
+            "server_updated_on": "2022-02-09T16:05:40.739877",
+            "sync_status": false,
+            "time_info": "07:00AM - 7:00PM"
+        }
+    ],
+    "medical": [],
+    "infection": [],
+    "patient": [],
+    "procurementdetails": [
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 33,
+            "item_name": "Aminovein",
+            "item_type": "4",
+            "procurement_uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0",
+            "required_qty": 4,
+            "uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0332"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 24,
+            "item_name": "B Protein Chocolate",
+            "item_type": "4",
+            "procurement_uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0",
+            "required_qty": 1,
+            "uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0242"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 25,
+            "item_name": "B protein Mango",
+            "item_type": "4",
+            "procurement_uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0",
+            "required_qty": 1,
+            "uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0252"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 26,
+            "item_name": "B protein Pineapple",
+            "item_type": "4",
+            "procurement_uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0",
+            "required_qty": 1,
+            "uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0262"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 2,
+            "item_name": "Essential HP Chocolate",
+            "item_type": "4",
+            "procurement_uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a601",
+            "required_qty": 1,
+            "uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a60122"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 4,
+            "item_name": "Essential BN",
+            "item_type": "4",
+            "procurement_uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a601",
+            "required_qty": 1,
+            "uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a60142"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 3,
+            "item_name": "Essential 2.25",
+            "item_type": "4",
+            "procurement_uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a601",
+            "required_qty": 1,
+            "uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a60132"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 55,
+            "item_name": "Ensure RTH",
+            "item_type": "4",
+            "procurement_uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a601",
+            "required_qty": 3,
+            "uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a601552"
+        },
+        {
+            "approved_qty": 1,
+            "hospital": 0,
+            "item_id": 33,
+            "item_name": "Aminovein",
+            "item_type": "4",
+            "procurement_uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd",
+            "required_qty": 3,
+            "uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd331"
+        },
+        {
+            "approved_qty": 2,
+            "hospital": 0,
+            "item_id": 34,
+            "item_name": "Aminovein Infant",
+            "item_type": "4",
+            "procurement_uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd",
+            "required_qty": 3,
+            "uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd341"
+        },
+        {
+            "approved_qty": 1,
+            "hospital": 0,
+            "item_id": 24,
+            "item_name": "B Protein Chocolate",
+            "item_type": "4",
+            "procurement_uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd",
+            "required_qty": 1,
+            "uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd241"
+        },
+        {
+            "approved_qty": 1,
+            "hospital": 0,
+            "item_id": 25,
+            "item_name": "B protein Mango",
+            "item_type": "4",
+            "procurement_uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd",
+            "required_qty": 1,
+            "uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd251"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 33,
+            "item_name": "Aminovein ",
+            "item_type": "4",
+            "procurement_uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c",
+            "required_qty": 0,
+            "uuid": "2e08e56ac43686596dfb0c190e52be9f"
+        },
+        {
+            "approved_qty": 0,
+            "hospital": 0,
+            "item_id": 34,
+            "item_name": "Aminovein Infant ",
+            "item_type": "4",
+            "procurement_uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c",
+            "required_qty": 0,
+            "uuid": "d38c841891f8e48b6f6bf2d0f6ee38ca"
+        },
+        {
+            "approved_qty": 7,
+            "hospital": 0,
+            "item_id": 24,
+            "item_name": "B Protein Chocolate ",
+            "item_type": "4",
+            "procurement_uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c",
+            "required_qty": 8,
+            "uuid": "7f156d6fd39c1fa6103e8881793c7d48"
+        },
+        {
+            "approved_qty": 6,
+            "hospital": 0,
+            "item_id": 25,
+            "item_name": "B protein Mango ",
+            "item_type": "4",
+            "procurement_uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c",
+            "required_qty": 8,
+            "uuid": "02ad1f04acd5481e00aebda4e104d09d"
+        },
+        {
+            "approved_qty": 5,
+            "hospital": 0,
+            "item_id": 26,
+            "item_name": "B protein Pineapple ",
+            "item_type": "4",
+            "procurement_uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c",
+            "required_qty": 8,
+            "uuid": "9a090492c35d337186215c3f43698667"
+        },
+        {
+            "approved_qty": 2,
+            "hospital": 0,
+            "item_id": 64,
+            "item_name": "Balance HP",
+            "item_type": "4",
+            "procurement_uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c",
+            "required_qty": 8,
+            "uuid": "4150520f8db7abe44417abd24a22b939"
+        }
+    ],
+    "program_data": [
+        {
+            "active": 0,
+            "create_date_app_side": "2022-02-09 17:32:44",
+            "d_date": "2022-02-09",
+            "dc_image": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv/bAEMAKBweIx4ZKCMhIy0rKDA8ZEE8Nzc8e1hdSWSRgJmWj4CMiqC05sOgqtqtiozI/8va7vX///+bwf////r/5v3/+P/bAEMBKy0tPDU8dkFBdviljKX4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+P/AABEIBAADAAMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAQIDBAX/xAAjEAEBAAMAAgMAAwEBAQAAAAAAAQIRQQMxBBIhEyJRYTIU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD449E+NleNz4lB5TVe7H4n+tz4uIPnareOFy49t+JN/jt4/DjhPQPJj8W5YrPh2vfqRQeXH40+mquPxMZ7ekBjDxTHHTUwmPqNQAAAAAAAAACgAIAigMpppATRpdKCaWCwFkUigAAKAAAAAIljSUE9LxKoAcAA6oHAhAAAEUARUAVFBAoAAAioAACpRaAzllMZu1nPyTGfrxebz3O6noGvP5/t/WOXj8dyp4/Hcq93i8UwgJ4vH9I6gAioglgoCaFQAAAAC/rxfI8ert7XPy4fbGg+fhl9cn0PDnuPn54/XJ28Hk1dA94zjdxQSwX2gCxBRmKioCooCooCoAoAKIbUVBQAAAAAAAAAARQBEaQEUUEWCgKACgAAAAAAAKcBKmvxacBFQgKQAAABQEFQAAEVFBKAAioCgAgM5ZzGftBq1x8vnxwn/XHzfJ5i837lf0Gs/Jl5K14vDcq6eLwW/tevHCYz8Bnx+KYR0EBUCgIKgAAgoCJpQGRdGgEv6Cjy/I8fY8stlfSym5p4vN4/rUHfweXc1Xp9x8vDK417vD5ZlAdgIoilQGYEEFABQAFRQAAAUBUVQAAAAAAAAFARQARUAUANKACgAAAAAAACgAdA4kXqdA6i1L7BQAWovEBUWICgAgUABAAAEVLQVLZHPyebHCe3j8nyMsvQPT5fkY4+vbyeTy5Z32xJcq7+Pw2g5Y4XKvV4/BJ+10wwmMbBZNT8CAAoCCgMqqAKCCCgIKAmkUBmxLG00oxXPyYzKO1jGWIPn+TH608fkuFeny4bjyZY3Gg+h4vLMo6vl4Z3G/j1eL5G/wAoPWlZxzla9gwJFAVFBRAFVAFAAigACAqooAAAugEUUEAAAABQICgigAAAFAAUEVFBFAAAAOHAKlXicAABYABAAA6UBFQBAABz8nkmE2DWWUk/Xl83ydfmLj5fPc7/AMc5LaBcrlf1vDx2t4eP/Xoxx0DHj8UjtITFrQJF0ul0BIQUAAEFAEUBAUBFSgAAhVQBFARNNJoHPLHbh5fDt69Jcdg+Xl47jWfT6OfimU9PPn8b/AccfNli74fK/wBcMvFceMasB9JWVBYqRQCCwAF0ACwAUBFNKCaVQEIoAAACAAAoACooAAAACooJTipAOKkUEUAA6AAAHAgECAJwVAU6igdAoBQASgCJarj5vLMMf+geXzTCPB5PJlnTPO55NePx/agzhht6PH4nTx+LTvjgDnjhp0mLWlBn6rpQE0KAgoCKACKAIoCVGqyCgAgoCGlKCAoIaAENKAljOm0Byy8cvHPLwSvRosBxU0oLAigKACgBFgApABQAAARQAAARQAAAUAAAAAAABQQgAKigAAB0AAAIdOgT2dOnQIi9AQocBeHCegARYCFKlv4Dn5M5jja+f5fJc8nX5Pl3dRxwx+2QL48PtXs8Xj0ni8enpxgJMdNRQAAAABFSgoigIoCAoIAAlUBAABUAAAAAAARUAABBUBynsOLAWAAoQBQAFRQFAAABUUAAAAAFBFRQAgAKAiooAAAAAICgAigAAAAAdCgdKU4AHAEItQCL1OlBagAVy82X1wrpXk+Xl+aB5MrvJ6Pj4PPhN5x7/DjqA64zUbhAFABUAAc8/JMJ+15PJ8vkB7rYbj5d+TnemPysp0H1FeHxfLlv69eGcym5QbEUANpsFQ3DcADcNgIoAAAioAAAAAAACAAA5EOrAAAUAFAgKEUAAAFBFABUUGblomWzLHZ9QVUigAoAAAAAAAAIoAIpQKHAAAAAAAFRU6BwgdACgCKgF9EDoECgJXg+Xf7vbl+Pn/Iu/JQZ8E3m+jhNR4PjT+76GPoG4JKl8mM6DZa82fyscfyOWXnyvQey5ydcvJ8jHGfleDy+TO+q5W5a/QdPL5rnb+uW0u0BUAQlrv4fkXBw0v1oPoT5cvWv59vna03PL9YK9t81/wBSea/68f8AJauOWgev+W/6n8uX+uMzPtAdv5sv9P5647Ad58ir/wDRXnSg9c+Q1PPK8RsHvnlxa+8vXzvtVnkygPo7ivnzz2Os+SD1jhj55XSeSUG6JLKoAAIKgOSxIoAoCgoIqKCqIACgiigAAAAAoIKAigAABQAAAAAAAAADoAAAAAAAAAFDgHDhABFQAoQDiKlBnL0+d5v/AHXvzymnlzkuWwY+P/XJ6b5dR5/SXIHXLzX/AFyy8lvXO5WkBMt27TdbNAxupttPqDO4fla+sT6iH1iWNGgYXVa0oMfUuLQDH10n7HRNAzMmpWbin7AdNm3OZNfYG/su3Pag1s2ztNg3tE2mwaETYNStzyWdctmwerD5Fjtj8iV8/azIH1Mc5lGpdvm4+azrth8j/Qe0csfLMp7dJdg5RpFFAWAKkUBUigqCgAoAAAAAAKAABAKAAAAKgKigIogAAAABAAAAAAAAVCAAAdCnAKi8TegEt055eWRxy8toO+fkkcsvLa43LabBq5Ws2s2s3IFyyc97p7WTQEiiAtuk3s0AaUBEAAAARUABAAQFQASxn9jQDMyalZsT9gN7ViVdgogDSJsBRAAADa7ZAdcfJZfb0eP5H+vES6B9ZSAoqKAoARYcIAsFBFAAFARUAFAAAAhQIUgCoLAEWgAAAAIKgAqABVBOAAqKgAAAAAACRWc7qbBM/JMXmz8trn5fJblXL7g6XLbO03sBdoIAigIAAAAACACAACAACAAgKggAACAAlAGbCVpmwGpRjempQXYigG0AUQBU2bQFEAfZBRQAFABSCgRUUAABQBFAEUhQCkAIKkBUWgIoAAAAAAAAAIoBxFARQAABAUEAAAAY8t/pW3Hz3WFgPn55frNPJP1j7aBqZabmW3LeyXQO2xmZbXYKIAqAAIAogAICLtBAUQABAAQAAEAARUAAAQALE0qAogCoAAgCoAKgA+0qKKRSAB0ICqigKigAAoEAAAFQFTq0gFSKAigBCkKAqKCCoAAAAAAAdCgAAAAIqABUBQQBw+T/AOXdw+RPtgDxX9cssXS/l/UoOF3FlbyjncQamWm5k470syB22u3KZNbBvabTZsFENgom0BQ2giiAAbAEAAABAAEAAQAAAQAAAAARUAAAABAAfcEXoqgALABQAFAAFBFAAFAIAFAA6AAABBUBQAAAEUARUAAAKAHDpAAABFARFOgIqAMeSbxrbOXoHgzx25WaenyTVcrNg5VmxvLHTIOdjFmnWxiwGZW5WLFlBvbW2J+qDSJtdgBsBUAFEBAAAAEAAQAAQAABAAAAEAVAABAUQAAAAB9whxYKKnVBFABRQAAAUAABRAUAAIAQqpQAICooAAAAAAAACCgJBQEgdUEAAFQEKdKAIoIzVvtKDz+WOFenOPPlAYsYyxdKlBxrNjrlixQc7GXSxiwCXTcu3NZdA3YjUuywGdqgIoigqACoAAACAACAqCAogACAAAAACAKgAAAAAAgPuqiiipFAIKCgAAgKqRQKACiKAAABAVFQBYUAAAAAAAAAAAAAABOqigAAIqAlFQA4AJfTFbYoOeThnHoycs5+A4VGqyAxlGwHCxmx2yx252A52I3YzYBLp0l25+yfgN1Fl2CAAAAAICoACAAACAAAAgAAIACwEFqAAAIKCAAAA+6qRRRQAVGoAAACgAAAAKABBYBSJVAAAvsOgAKCCoAACoAAqAAAAAlUoB06AAAIACBQErF9t1nIGKxZuOlZoPNnNVzejPHbhZqggAIzljtoBxsYsd8o5WA51Z+rYz6BfVbl2zP0/ZQbRZdgiIoCCoAAAgAAAgAAIAAAACAAAAAAgAAAAAPuz0sCCrAAI0igAAKAAAAAKAAqRQRUUAABUigixFAABBQEUAAAEVAOrUUEpPQQClDgAAIdWpQSnFQE4zfTSUGeM1pKDGUefyY6r02fjn5JuA8wuU1UAABGMsWwHCxix3yxcrAZxuq7Y4feONjp4fJ9cgS43DLVWfr1544+TD8ePLG4ZaEXQsuwGRrSaBkVAEUBAAQVAAAQAAAEAAAAABBUAAABrGboPuE9AKoAKAAoAoqAAAKigAAsKAECFAAoEWpFBFAAAAAAAAAAAAAEWCQFTigIVYAiKgCdUBOpfa32lBjot9lBis2fjfUoPN5MdOT1Zzbz546oMiKCCgMsZYuiUHCxj1XbLFzsB28Pls/HTy4zOfjyy6r0YZbgjhd41uXbXkx3+uX7jQbEl2uwRLFQECoACAqAAAAgAAAIqAAACnsEGvpdM6ARuYW8X+OgzMbXXDx108WE1+t/eS6B9BWVgqwAFUgApAAAAABQABQAAIKgKioCwAAFARUAAAUAQUBAAAABU6AB0AOnQQVAQXqAVKvE4DNStX0zwEqVriX0DGUcvJjuO19M2bgPHYjr5MdOQKACCoCWbcso7M2bBwsawy0ZRn1RHol3HPPFcK3Z+A8+9NS7XPFiXVBoAERUARQEFQAAEAAAAABBQEax9oA9UkuLE8f9jw5u8nQZ1MIT65ejyY3KM+PGz2DpqSOd8e8tmeeq1jbYD3xSKKcILAWKigAAKIAFAVUAFAACAqKgKikACgCooCKAIoAAAAAAAAAipQVOrxKBTpQDqLQEvsKAgvU6CMtJ0GTioDPGW2b7Bzzx282eOq9mUcvJhuA8ylmkBQAQVAYym3LKO7GeIMYXVd5+x57+V18WX6C5YuOWL2XHccM8RHCVpMpolBUVAAAEVAAAEUBBUAAAAAABcLqvXhluPG3jnZAd8vJqs5eb8/HC5WoDVztu3XDy6jzqD7iosFVYnVBRFAABUVAFRQAAUFBCCwEUACBAKCgAAAAAAAAAoIKgHToAdKdKBxOLw4BfScXiAUXiAgoCJVL6BKzWql9AlReICX2zfbdZy9AzZ+Jrca4gPL5MdVyevPHbz546oMiKAigIligOOeLON+uTtZuOWU1Qe/wazxZ83i+rj8XyfXOPo54TyeP8B8rPFxs09flw1XDOCMSqxfyrKCgAIoCCoAAAAAioAAAAAAAACCgPuLBYKRUigAoAKAIAoAAKAqACooCoALEWAiooAAAqAKigiwARQBBUAUOAF9HDgJAigkCABwAQip0BOKAnE4qAnEXoCX0zxpAZiX2vSgzlHLyYbjtZ+M6B4rNVHby4fu3EFEAVFQEYzxdEv6DjL9a+l8TzfbH6187PFvweS4ZwHu+T49/seHPHT6uOU8njeHz4atEeLKM+nXKOdgEoiguxAAAAAAAEFQAAAAAAAUBBQH3FRRRUAVQAVFBFRQAAFAAACLQAAAVFAAAABUUAAAAAAAAAOABw4EBIpPZ0Cezp1OgqL0BEUBBU6CHV6l9gl9otATqX2qUGaX0tSegTjPWp7S+wc88dvN5MdV7Mo554bgPILlNVAAUEABmzccrNV3Yzmwej4fm1/W138+Mym4+Zjlccnuw8v2w/QeXyTVcbHq8kefKCOdNlQGkSKACA0IAoAAAIKAgoAAAAAAD7nVSKKAAqooCgAEAAAUFBAWAAAFABUUEVFAVFAAAAAAAAAAAIABAA6HVoJ06dKB0CgIqAIvAEvspS+gS+k41xICJxQGeJGk6DN9plGsvaX0DPGW4nQefy4OFj25R5vJhr9ByCgAACVQHLOaPHnqt5TccrNUHot3HHKLjl+GX6DlYzW6zRGVQBUAAAFVlQURQAAAAAUEFARQB9uAooqKCgAKAAACooCoAKiwAAFQAFRQRQAVFAAAAACACiAKAAAB06dBL7UoCFWl9AgLwEoUARYAnDhwgInV6dBEWgM9S+2qlBKnGuJAZ6lW+ywGbHPLHcdWdA8eeOqw9Xkw28+WOqDIAAAFYzx/G00DhPyt7/ABM8WZQWsVqpQZqLUAEUBFQRVQBVSAKIoAKAAACggoD7SgKRQBQAFABUAFAAABYigAACoAoAAoIqKAABQoBAgCgAAACKAFAKcKcAOBwDgQgHEVAOh0oESe16nQOpVpQSo1xASpWuIDMTrU9pfYM5Q41UgMpVvsoOeUcvJh+O9n4zZuA8VmkdvJg4gAAAAzZuOOU1XdjKbgOaVb+MglRUBAAAAAAVUBFVFAVFABQAUEUAfZVFFVUUAABUUAAFAAAAVFAABUAFAAVFBFRQBUAoAEFiAqKgKAAAAUAOEOEAIEAgdAAARQBOlKUCl9HDgJAARGk6DN9lWnATjPWkoM04tSAjLbNn6Dnnjt5/Jhp67HPLHcB4xvPHVYAAASqgOWeLm9Fm445TQMI1UBkAEWIAoRQRYigqoQRVRQFFAFNACmgfYgAqgAKigoigUAFAAAAVFAgQAAgCgAqKCKlUFRUAVFAgQAAAAAAA4cOHAOEIQFSKnQOh0AFQACAU4HAJ6SLDoM9UvsBCrUoJUjXEgM9LFpQSemetRLP0EqX01fSAzxix00zYDjnht588dPZY5Z4bB5RrLHTIAAIzljttKDz2aZds8XKgzUWoCAANbZAaEjQAAiqiwFjSRYAooCyC6B9UICqAAqKCgAAAoAAACgBAACACgAKigAAqVUAVFAgAAAAAAAAAEJ7IdBU6qdAoUBUVACAAQOgQ6dKCUWkBDigMo0lBKnGuJAZ6VacBEUoM1K1QHPTNjeiwHnzw3Hnyx09tjlnhsHlGssdVkAAGbNuWeLsmU2DzVHTLHTAMo1UBAAVZWVgNCRYCrEakEWNSJGoBFhI1oCRZCNSA+iAKoACxFgKioChAFEUACAoAAAAAKIoCooAAKioAqKCRQAAAAAAAAAh1egCKlBaHEgKigIAAAAUOAcSKnQUDoJ0q1KBE6sS+wSkWpATpVpwERU6DNiN2M6BixnKOmksB588NuGWOnsscs8Ng8yOmWOmAQAGM8duFmnpYzx2DgjVmmQRGkARQBqMgNyukco3jRG5GpElbkAkWRZFkAkakJG5AewCCqAAqKCoqAoACooBEWAoigAAUABUUBUUEVFBUABUUAAAAAAAAAADq1FoCVeIC8SLEgKHQEOKgLEIoHEioAnV6UAAChwBOlOl9AM9WFAqReJAQq0oJxltkEqWNJQYsYsddM2A45YbcM8NPXYzljsHi0O2fj/xzuIMI1pAcs8XKx6bHPPEHHSNWICIoCKALG8WI3iDf1reNdfjTHLKSvoZ/Axyw3PYPnStRjPDLDKwxz17B1kdJHLHKV0xoj1ACqIAsVIoFABQAAUEVFAVAFBQQABUUBUUEVFBUAAAFAAAAAAABUAApVACAEToUFAARQEUAQ6FApVQCBAADoJRSAz1aX2cBIX2QoAT0AiVb7KCJVKDOksaQGNJY3o0DlcduWfjenTNxB47jpix68sHHLAHCxLHS4s2A5ZYOVmnpsYyx2Dzo6ZY6ZBkU0BK1KxpQejxZ3HKWPpYfPv01Y+Pjlqu2Of4D1+TOZ3bhlIx91+wEljpjbHOVvHOCPogCgANQAAgAKigAAKigAoAAAACooCooIqKABQIQICgAFAAAAAAACrxOLAIACdKdKCiKACAVUUEWovAOIQ6B0L7AChQEiwBKvC+kgItKAkDqglOHCAhVqAiNIDIoCJpoBzsYyxdtM2A8+XjcssNPXpm4bB47izY9OXjc8sAefLHbnlg9NxYuIPLYO2WDncdAwNaQEWUUDbUyY0ugdJk1K5RqUH2QACCwFAAABRFAAAVIoCooAAAACooAKCKigAAECAKigBAAAAAAAAgQF6ACLxKvASKkUAAEIqAKIAHSgUno4QBUWAkKFA4k9rE6BSLfSQEqlICHVSgUVAQWoCIoCQFBEsaQGdGlAYuLFwdamgefLxueXjevSXEHiuDGWD2ZeNzy8YPFfGxcbHsvjrFwB5NGnfLxsXCgwNXGpoBQB9kRQFiKCiAKqQBQAAAIqKAQAUAAAAAFCKCKgClCgEABUUAACCRQCgAAAdAFEqglWIQDqp1aAACAAqKlAq8QAhPYnQUAFqKgESi0DidIUAhAClKAIRQQAEqNVAQAAVAQVAEaQGTSqDFjFxddM2A53Fi4R2kLAee+Ji+J6tJcQeO+Jm+F7Lin1B4/4an8Ve36H1gOoAKqKCoAKAAKgKAAqKAAAoACKAACxUgAIoKUQFAAVFAAAAAAAAA6ABVQgBAAoVQAAQocBUAF4kIdA6UpQAgCoqdBKvCkBIUWgkKQoHAgCKigAAlRpkBFQFABEaQAAEFQBLGkoMi6IDJpo0DFhprSAzo00aBAAVUUAAFABUFABAVUUAAAABUUAAFgAAAKioCgAAAoigiooAAAigCKAQIAdAAhwgLBIoIABAAA6UCnDgBBJ7UAoUBIvEgHVSqDPVqX2vAIE9lBKsL6SAoACVUoIABAigiVQEgKCCoACgzUaqAlUAGWksANADmqKCxUUAAFAAVFARUBVRQAAVAABQAAWBAAAFRUBQQFAAAAVFAEUEVAFAAh0h0AoUDhCHQFRaCAAdAAoUAgQ6CdVKoAACdVAWpF4kApCkA6FOAIqAoAAAMioCLAgKioCKlUBFASKigMtJQEFARQGVAHJUigqoAoACooAAKgAoACpFAAAABQAWCRQAAVAABQAAAAAAURQRUUCCKBC+zpQAAInVidBSgAABQpACBACnSgVDhAUgAdSrSgROkOgtZntpnoLSCQFSrTgEEigBAEFQEpABRFBAQFAAAAABlSgAAFRUByjURYAAAqLAAUAAAAFAAiooAAAAAANIACooAAAAKIoAAAAAAAAAAKVFoECAIU6tACAAAHEipAVOqgKFOAhA6CiKBTgAk9lTq0BKsSgvE6sSgoAJ1aigQSKAADNFqAKigIqAAAIqAoAJRUAAARSg5KyoKAAsRQFQBQAAICiKAqKAAAAACgAAKAAABAAVABUUARQAAAAOgALUUEipADq30lXgJFiRYAAAnVToKlWpQXiQIAUKAqRQAQCnCkAhUWgkKT2tBIEAKsEgCpVAABEaZoAigqAArKgFAARQEqoAAAUUHGKkUAAEVFBQAFRQRUUBUUBUUAEBQAAAUAAAFRUBQAAAURQRUUAAAAAABUAAAKcKcAip1QKFAQoUFQ4AQ6Q6BS+g4BAgABQKkVAKpSAipVBFTqgIALUhwBUUASqlBlYICgAEAAAEWFAAAQABUAclQBRAFVloARQFRQRUUBUUAAFQpAFAAAFAAABUVAFRQAAFRQRUUAACgAAgKBAFSgFIEBOtJQFReIAUAIEACnQAIAkVOqAUAEqxKC8SEAKQpAKQpAClAAhQVAAKAIioCiKAioCgAVFAAAQAAAHKKgAACwAFgAAACooAAKQAApAFRYAACgAAAAAKiwAABUAAAVAAABUUAAApwoAkVJ7BaFICoHQAABFAoUAhUntaCVUpAUAAoAkOhQEWekoKQiAoAIqKBBFAABErVQEVFARQARQChQRUUBFSgAA5QRQAAURQFRQAAAAUIAoABAgCoAoAKIAoigAAKgAqKAAAAAAAAAACiALQqQFTqoC0hxIClCgAgFVKoBAgJ1al9qCEDoKIoFBACgBChQIlItAiEUCpFQBUUAABFQEAgKACKigAAioAqKgIoA4qQAEAVUUBUAUAAAFABQARQAABUVAUVAAUBFQFAAVABUUAAAAAAAAACgqRUgKlVAXiRUBShwBAAqxCAqKnQKvEpAIl9qlBQAVAAoVIAvEqgipVBFRQE6FBUhAFAARUBBagKIoIACiKAioCoAFBAcoqRQEAFVAFABQSgsCAKAAqKAIoAAKgAoACoAqKgKAAIoCoAKgCgAAAAAFAF4ioC1CgECFBRFBAAOEAACgEOJ0FSrQEiooBQoCKgLSIQCkKQCkKQBaigkKKCKgCoqUBlpmgoigCoAqAKioAAAioDlFQAABQICgAAAoACxFgCoAKigCKAACgAAAqKgKIoIqKAAAACggKCAoABQAgQAAAhSFAWJAAKAIoAABE6sS+wUEgHVS+wFOAAlCgQIUBFQFRUBQAApAAAAAQVARYiwFQAAAAAAACgDiEACBAVUAUAAAFBAVYiwAAAABUUACAoAAAKgAKgCiKAAAACoAKgAAAoigRFhQAASe1qKBAgBQoAUKAEASLU6tAQgBQpAFRQQpQEWooEKQoESkWgQSKAkVAUAAAEABFiEBQAAQFAABAUAHEAAABUUBQAEUFIhAUFAAAAAVFAABUVAUSKAioCgAKigCKAAAAAAAAAqAC1FoAgAqKCRU6oAICgAQSKCLxKoJAKBSHEgKqAFABFSrARaignSooEVlQChQUSAKACIoCAgNCKAioCiKAigIqKDiIoAACpFAVFBFRYAQAUABUUEVFAVFAQUAACKkUBFQFAAAAABQQFAAAAAAIEAWoABABUqwEVKAqKgAACooJSBAOhQBOqnQUAAAEpFqAVYlIBSFACFIAAAIoAABQBEVAFZagKgUBWVBSooIqAOKoAsEgCxUAVUAFiKAqAKIoAAEVIAKigAAoAEABUVAUEBRFAVAFQAURQAQFBAUAAAAAAgQChSAqBQAAFSgKkVAKKgCVUoCpFAAoCKyCkEBaioCoqAoIBVSkBQAAQBFQBUAUAEABRFARUByAAABQAVAAWIoCooCoAsAAgQAVFAAAVAFEUBFQFAAUABFAAAABUABUAUQBaFAAAAToLSFIAUKAABQIACUFBAVKqARUigAAhQoCLEoKlWJQWJSFBYhCgEAFRUBUABFQEWIQGgAECgKkAVFQHJFqAoAKAAAAqKAqAKABFSAKABFSKCKigAAKgCoqAoAKgAKigAgKAAAAAAqALQoCKigIqAqRUgKAAAARAFSqUCIsSgqAAIoKIAFAEi1FBItRQSFFBIqACBQWBAAABFQECoDQkUAAEVFAAByqACgAoAAFAVFAABYAAACgAKzFAVCA0gAAAqACgAAAKgCoAKAAAAAAABSBAKqVYAioCoqAoAAAIACgAkKFAABFKAAAUKAgUBGmVAIUgIpSAilQCKigCKAlAERUBYrMUFRUABAaEUHEAAFAVAFhSFAipAFCAECKAAAEAIqRQCIsBQAVAAAAABQAAAVABRAFBAUAAQBSBAKQpAAAWIQoKIAoAIUKAqKCdAAgFApBICgAIqdAoqAlWJSAtRUBUVAVFQAhSAAAAAlRagCoAoigIqAokUHIAFAAABUVAUIAoAEVIoAICgAQWIAsRQVFQFAAAAABRFAAAABRFAQAUAEABSBAKQIAABCkKBAgBVQAAAipFBKFAIUKAioCgAJQoCKlBUVKCpViUFSkKBAhQEVAUQBUABFQAQBVQARQBWVBzAgKCAoAKioCwIAoAAAKCAsAAhSLQRUUFRUBQAEVAUAAAFEUAEBVQAAAAAABUVAVFQFAASigkVIoKgAAAiooBAgBQAQKCoAKlFBIlUoJCkAWJSLQSFRQRaigRKFAgQAAARUoJUWoCxWVBQQBU2A5rEIg0gQFABUVAWAKLAAAAUEBSkAIEKAqANIAKCAqACoqAoACxAFRUBQAAAAAAAVABUVAUAEVFBIqRQAAAAAAEVAUKAhQoAQAVAEWooIAArKgAQAKQEoUBFRQAAEAERQEXbWvxmwDaUBCNzExjrJ+A8hAiKoAKQAVABYJFUIqAKAAACoqAsCAAAKCA1EAAoAAAoAAAAACooAAAigCdAUAFQAVFQBUAFRQAAEVAKQICoqUAgQAKAkVFAIAFCoAFICVYUgCLUBaioC1FQCkKQAAEABEntagNy/iUxq0Gai1BG8b+us9OGLtiDykRYiqACiKAioCwVFFgAKCAqKgKACxKAKQAVFQFCAAIChAAABUUAAAAAACKgAACwEBUVAaQACFIBQpAWFRQEVACAAUKAAAACKlAWBACoqAVItQFqRUBUVAVFiUFQKAioCoqAAAiKgLi3xzl/XSegZrLdYEWOuFcXXCg8yxKRFaAAABUAFAUUAAVABUBYAAACiLAAAUQBUVAIqQBQAFiKAgAoAAAAAAAAQBUVAUAEqxKsApCpAVUUEAATqoCgAQIUAAEoUgCoAqKgCKlBU6QoKlWJQItRQQRQIlCgsEiggAIlVKCOmLm3jQarFdOMWCMt4Mrj7BxpFpEVRAFEUABRQAURYAAAIA0gAoACxCAoAAAKlVAIACgAKgBQAVAAVABUUARQAgCorNBpFQCrEIC1ItSAoAAACKlBRFAEAFQApAAAAKFASrEoEKAEWsqCKigipVBF4lAFQARUARUBKuPtKQHaekyhi1RHJZ7WxAf/2Q==",
+            "delivered_by": "ABCD",
+            "hospital": 0,
+            "id": "2022020917324376d283b169-4295-415d-ab57-d43f605e9ef9",
+            "image": "",
+            "nutritionist": 36,
+            "product": "",
+            "product_id": 0,
+            "program_type": 1,
+            "quantity_received": 1111,
+            "remarks": "",
+            "return_quantity": 111,
+            "syncStatus": 0
+        }
+    ],
+    "procurement": [
+        {
+            "budget": "0",
+            "cycle_date": "2022-02-08",
+            "funder": "0",
+            "hospital": 0,
+            "submited_timestamp": "2022-02-08T16:42:41+05:30",
+            "submited_by": "Bhaskar Murthy",
+            "type": 2,
+            "uuid": "20220208164241342645ed24-56dc-46e9-964d-b72ed8e0f2e0"
+        },
+        {
+            "budget": "0",
+            "cycle_date": "2022-02-02",
+            "funder": "0",
+            "hospital": 0,
+            "submited_timestamp": "2022-02-02T12:36:49+05:30",
+            "submited_by": "rahi",
+            "type": 2,
+            "uuid": "20220202123649593aba8b26-bb32-43d8-a6a4-8122cf51a601"
+        },
+        {
+            "budget": "25000",
+            "cycle_date": "2022-02-01",
+            "funder": "3",
+            "hospital": 0,
+            "submited_timestamp": "2022-01-13T10:45:12+05:30",
+            "submited_by": "Bhaskar Murthy",
+            "type": 1,
+            "uuid": "202201131046465268cb44ee-b780-48d5-b92c-fc132e34d94c"
+        },
+        {
+            "budget": "8000",
+            "cycle_date": "2022-02-01",
+            "funder": "3",
+            "hospital": 0,
+            "type": 1,
+            "uuid": "cudlles-1233373testingjfisifsoiufhjfh87w837w-w864882-recordjdjhd"
+        }
+    ],
+    "rationprovided": [],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-02-09 17:33:02",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 112,
+        "versionName": "2.6.31"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:01:05hrs{
+    "data": "{\"monitorUCID\":\"9722164440983521\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Hindi_IVR\",\"Location\":\"\",\"CallerID\":\"07531279517\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:00:35\",\"EndTime\":\"2022-02-09 18:00:57\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:00:22\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"InvalidNumber\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"InvalidNumber\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957603\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:01:32hrs{
+    "data": "{\"monitorUCID\":\"9722164440983551\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Hindi_IVR\",\"Location\":\"\",\"CallerID\":\"09852453685\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:00:35\",\"EndTime\":\"2022-02-09 18:01:22\",\"TimeToAnswer\":\"00:00:21\",\"CallDuration\":\"00:00:47\",\"Duration\":\"00:00:26\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957608\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:01:40hrs{
+    "data": "{\"monitorUCID\":\"9722164440985853\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Tamil_IVR\",\"Location\":\"\",\"CallerID\":\"6381741713\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:00:58\",\"EndTime\":\"2022-02-09 18:01:31\",\"TimeToAnswer\":\"00:00:26\",\"CallDuration\":\"00:00:33\",\"Duration\":\"00:00:07\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957907\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:01:42hrs{
+    "data": "{\"monitorUCID\":\"9722164440983661\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Hindi_IVR\",\"Location\":\"\",\"CallerID\":\"09423246285\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:00:36\",\"EndTime\":\"2022-02-09 18:01:36\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:01:00\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"MaxDialTimeExceeded\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"MaxDialTimeExceeded\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957642\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:01:55hrs{
+    "data": "{\"monitorUCID\":\"9722164440990691\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Telugu_IVR\",\"Location\":\"\",\"CallerID\":\"09908411362\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:46\",\"EndTime\":\"2022-02-09 18:01:49\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:00:03\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"NoAnswer\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"NoAnswer\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957796\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:02:17hrs{
+    "data": "{\"monitorUCID\":\"9722164440989521\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Bengali_IVR\",\"Location\":\"\",\"CallerID\":\"07602946676\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:35\",\"EndTime\":\"2022-02-09 18:02:13\",\"TimeToAnswer\":\"00:00:09\",\"CallDuration\":\"00:00:38\",\"Duration\":\"00:00:29\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751958104\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:02:22hrs{
+    "data": "{\"monitorUCID\":\"9722164440990642\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Telugu_IVR\",\"Location\":\"\",\"CallerID\":\"09901378519\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:46\",\"EndTime\":\"2022-02-09 18:02:16\",\"TimeToAnswer\":\"00:00:13\",\"CallDuration\":\"00:00:30\",\"Duration\":\"00:00:17\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957784\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:02:23hrs{
+    "data": "{\"monitorUCID\":\"9722164440989273\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Bengali_IVR\",\"Location\":\"\",\"CallerID\":\"09239316573\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:33\",\"EndTime\":\"2022-02-09 18:02:20\",\"TimeToAnswer\":\"00:00:21\",\"CallDuration\":\"00:00:47\",\"Duration\":\"00:00:26\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751958020\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:02:35hrs{
+    "data": "{\"monitorUCID\":\"9722164440990712\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Telugu_IVR\",\"Location\":\"\",\"CallerID\":\"09177983862\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:47\",\"EndTime\":\"2022-02-09 18:02:31\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:00:44\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"NoAnswer\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"NoAnswer\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751958112\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:02:37hrs{
+    "data": "{\"monitorUCID\":\"9722164440992151\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"English_IVR\",\"Location\":\"\",\"CallerID\":\"7780960602\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:02:01\",\"EndTime\":\"2022-02-09 18:02:34\",\"TimeToAnswer\":\"00:00:12\",\"CallDuration\":\"00:00:33\",\"Duration\":\"00:00:21\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957941\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:03:02hrs{
+    "data": "{\"monitorUCID\":\"9722164440991891\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"English_IVR\",\"Location\":\"\",\"CallerID\":\"09623004814\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:58\",\"EndTime\":\"2022-02-09 18:02:58\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:01:00\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"MaxDialTimeExceeded\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"MaxDialTimeExceeded\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957821\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:04:28hrs{
+    "data": "{\"monitorUCID\":\"9722164440990242\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Hindi_IVR\",\"Location\":\"\",\"CallerID\":\"09642977606\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:01:42\",\"EndTime\":\"2022-02-09 18:04:26\",\"TimeToAnswer\":\"00:00:14\",\"CallDuration\":\"00:02:44\",\"Duration\":\"00:02:30\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751957815\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:05:01hrs{
+    "data": "{\"monitorUCID\":\"9722164441002541\",\"UUI\":\"Prxxxxxx\",\"Did\":\"918047485618\",\"CampaignName\":\"Hindi_IVR\",\"Location\":\"\",\"CallerID\":\"08341468750\",\"PhoneName\":\"\",\"Skill\":\"\",\"StartTime\":\"2022-02-09 18:03:46\",\"EndTime\":\"2022-02-09 18:04:55\",\"TimeToAnswer\":\"00:00:24\",\"CallDuration\":\"00:01:09\",\"Duration\":\"00:00:45\",\"FallBackRule\":\"\",\"DialedNumber\":\"\",\"Type\":\"IVR\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"Answered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"answered\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"NotDialed\",\"CustomerStatus\":\"answered\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"751958115\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:05:38hrs{
+    "data": "{\"monitorUCID\":\"97214100843929829\",\"UUI\":\"\",\"Did\":\"918047485618\",\"CampaignName\":\"Inbound_918047485618\",\"Location\":\"Mumbai\",\"CallerID\":\"7872556829\",\"PhoneName\":\"\",\"Skill\":\"General\",\"StartTime\":\"2022-02-09 18:04:53\",\"EndTime\":\"2022-02-09 18:05:37\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:00:44\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"Queue\",\"DialedNumber\":\"\",\"Type\":\"InBound\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"\",\"CustomerStatus\":\"\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:11:46hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2021-12-27T11:10:20.915924",
+    "hospitalDate": "2022-02-09T17:33:45.951260",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:12:08hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:12:04.343269",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:12:18hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:12:16.222377",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 18,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:12:37hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:12:33.708219",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 30,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:12:59hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:12:55.127995",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:13:11hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:13:07.935924",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 46,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:13:34hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:13:30.003655",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:13:39hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:13:36.293052",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 64,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:13:41hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:13:39.245812+05:30",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 66,
+    "sf": 1,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/09/2022, 18:13:52hrs{
+    "SupportCommentDate": "2021-09-21T18:05:20.747677",
+    "datetime": "2022-02-09T15:20:41.917788",
+    "hospitalDate": "2022-02-09T18:13:48.133669",
+    "programDataDate": "2022-02-09T17:33:45.969237",
+    "rationProvidedDate": "2022-02-02T14:26:36.923074",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2021-08-18T17:42:07.863481",
+    "versionCode": 112,
+    "versionName": "2.6.31"
+}

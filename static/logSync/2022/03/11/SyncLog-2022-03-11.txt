@@ -1,0 +1,219 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:04:12hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/31a93a9f-ebd9-e5e1-7df5-87c49c75aaf0"
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:04:12hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-11T16:48:15.882192",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-08T15:03:09.790871",
+    "rationProvidedDate": "2022-03-11T17:04:00.343685",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 111,
+    "versionName": "2.6.30"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:06:05hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/31a93a9f-ebd9-e5e1-7df5-87c49c75aaf0"
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:06:05hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-11T16:48:15.882192",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-08T15:03:09.790871",
+    "rationProvidedDate": "2022-03-11T17:05:52.917995",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 111,
+    "versionName": "2.6.30"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:06:23hrs"https://admin.cuddlesfoundation.com/api/sync/push/ce44ee8a-ef00-1072-fa62-09c7016a3bf9"
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:06:23hrs{
+    "anthro": [],
+    "bio_chemical_assesment": [],
+    "clinical": [],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "7606c62ce67fa3b4",
+        "name": "Lenovo TB-8704X"
+    },
+    "diet_assesment": [],
+    "diet_plan": [],
+    "feeding": [],
+    "guardian": [],
+    "hospital_hospital": [],
+    "medical": [],
+    "infection": [],
+    "patient": [],
+    "procurementdetails": [],
+    "program_data": [],
+    "procurement": [
+        {
+            "budget": "0",
+            "cycle_date": "2022-03-01",
+            "funder": "0",
+            "hospital": 22,
+            "type": 1,
+            "uuid": "a4dadeb6-11e0-4037-b8ab-b5fc17abb7ea"
+        },
+        {
+            "budget": "0",
+            "cycle_date": "2022-04-01",
+            "funder": "0",
+            "hospital": 22,
+            "type": 1,
+            "uuid": "049fcf84-fca4-421d-8af8-f10ed3c2f4e2"
+        }
+    ],
+    "rationprovided": [
+        {
+            "active": 2,
+            "date_of_sharing_pin": "",
+            "distribution_type": 0,
+            "guardian_name": "Uttam Gharami",
+            "hospital_id": "22",
+            "id": 20759,
+            "kit_type": 0,
+            "mobile_no": "7980267668",
+            "patient_uuid": "GVweyXFTLAp00wyinyoPIRthM3WuJC",
+            "preferred_language": "0",
+            "ration_coupon_code": "2203796427",
+            "rationcycle": "2022-03-01",
+            "server_created_on": "2022-03-01T12:34:15.171005",
+            "server_updated_on": "2022-03-11T14:56:06.244286",
+            "syncStatus": 0
+        },
+        {
+            "active": 2,
+            "date_of_sharing_pin": "",
+            "distribution_type": 0,
+            "guardian_name": "Dipali Biswas",
+            "hospital_id": "22",
+            "id": 20761,
+            "kit_type": 0,
+            "mobile_no": "9046398305",
+            "patient_uuid": "20210118154002932bba4cb4-3b64-4050-8960-926c9e05af41",
+            "preferred_language": "0",
+            "ration_coupon_code": "2203160138",
+            "rationcycle": "2022-03-01",
+            "server_created_on": "2022-03-01T12:34:15.186209",
+            "server_updated_on": "2022-03-11T14:56:06.621103",
+            "syncStatus": 0
+        }
+    ],
+    "rationqualifier": [],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-03-11 17:06:21",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 111,
+        "versionName": "2.6.30"
+    },
+    "WHO_calorie": []
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:08:01hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/31a93a9f-ebd9-e5e1-7df5-87c49c75aaf0"
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:08:01hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-11T16:48:15.882192",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-08T15:03:09.790871",
+    "rationProvidedDate": "2022-03-11T17:07:52.657457",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 111,
+    "versionName": "2.6.30"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:19:45hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/407bd714-63b0-1171-e6ee-8daceb39576b"
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:19:45hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-03-11T15:03:34.037299",
+    "hospitalDate": "2016-01-01 00:00:00",
+    "programDataDate": "2022-03-10T14:43:34.337289",
+    "rationProvidedDate": "2022-03-09T13:46:01.740310",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:22:03hrs"https://admin.cuddlesfoundation.com/api/patientdata_pull/afedf1fd-c6a6-ea6f-4aae-b8c4358433ec"
+
+
+==================================================
+
+
+Log Date & Time : 03/11/2022, 17:22:03hrs{
+    "SupportCommentDate": "2016-01-01 00:00:00",
+    "datetime": "2022-01-11T15:12:01.624560",
+    "hospitalDate": "2022-03-11T15:42:13.211802",
+    "programDataDate": "2022-03-08T11:30:13.173354",
+    "rationProvidedDate": "2022-03-11T12:28:02.203131",
+    "rotate_ration": false,
+    "fs_days": 0,
+    "sf": 0,
+    "SupportTicketDate": "2016-01-01 00:00:00",
+    "versionCode": 118,
+    "versionName": "2.6.37"
+}

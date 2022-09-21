@@ -1,0 +1,482 @@
+
+
+
+==================================================
+
+
+Log Date & Time : 02/15/2022, 18:24:37hrs{
+    "anthro": [
+        {
+            "active": 2,
+            "adviced": "Protein",
+            "age_in_months": 136,
+            "bmi": "15.07",
+            "bmi_z_score": "-1",
+            "bmi_z_score_result": "Mild Thinness",
+            "click_log": "O:Anthro_2022-02-15 18:12:48;O:Bio_2022-02-15 18:13:26;O:Clinical_2022-02-15 18:13:44;O:WHO_2022-02-15 18:14:47;O:DRecall_2022-02-15 18:15:32;O:Side_Effect_2022-02-15 18:18:08;O:Route_2022-02-15 18:20:07;O:Diet_Plan_2022-02-15 18:20:08;O:Supplement_2022-02-15 18:22:45;O:Ration_Q_2022-02-15 18:22:53;O:Summary_2022-02-15 18:24:30",
+            "is_draft": true,
+            "counsel_enddate": "2022-02-15 18:24:30",
+            "counseller_id": 92,
+            "counseller_name": "Nikita Gaonkar",
+            "create_date_app_side": "2022-02-15 18:12:48",
+            "created_on": "2022-02-15 18:12:48",
+            "days_before_next_vist": 90,
+            "dosage": "4-5 no/daily",
+            "final_gom_label": "Severe Thinness",
+            "final_gom_type": "MUAC",
+            "height": "133.6",
+            "height_z_score": "-1",
+            "height_z_score_result": "Mild Stunting",
+            "mode": 1,
+            "muac": "18.2",
+            "muac_reason": "",
+            "muac_z_score": "0",
+            "muac_z_score_result": "Severe Thinness",
+            "no_height_reason": -1,
+            "no_height_remarks": "Select..",
+            "nutritionist_comment": "Hygiene practices informed",
+            "patient_type": 2,
+            "patient_uuid": "20220215181248528688a50b-b022-4f7b-9bb1-cad09116e620",
+            "product": "Nuts",
+            "treatment_phase": 5,
+            "tsf": "0",
+            "tsf_z_score": "0",
+            "uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "weight": "26.9",
+            "weight_z_score": "0"
+        }
+    ],
+    "bio_chemical_assesment": [],
+    "clinical": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "clinicalassessment": 31,
+            "synced_by": ""
+        }
+    ],
+    "devicedata": {
+        "device_code": "",
+        "device_id": "4a21045c2ad2daf5",
+        "name": "Lenovo TB-X505X"
+    },
+    "diet_assesment": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "bowelmovement": "",
+            "comments": "",
+            "consumed24cal": 1410.0,
+            "consumed24calper": 78.56029,
+            "consumed24cho": 183.0,
+            "consumed24fat": 45.0,
+            "consumed24fluid": 0.0,
+            "consumed24pro": 67.0,
+            "consumed24proper": 0.0,
+            "consumed3cal": 0.0,
+            "consumed3calper": 0.0,
+            "consumed3cho": 0.0,
+            "consumed3fat": 0.0,
+            "consumed3fluids": 0.0,
+            "consumed3pro": 0.0,
+            "consumed3proper": 0.0,
+            "create_date_app_side": "2022-02-15 18:18:08",
+            "last24hours": [
+                {
+                    "carbohydrates": "22",
+                    "calorie": "150",
+                    "cupQuantity": "2",
+                    "dateTime": "09:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": "3",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.8",
+                    "dateTime": "09:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1.2",
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "13:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.8",
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                },
+                {
+                    "carbohydrates": "0",
+                    "calorie": "81",
+                    "cupQuantity": "2",
+                    "dateTime": "16:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": "7.92",
+                    "total_fat": "1.38"
+                },
+                {
+                    "carbohydrates": "0.05",
+                    "calorie": "0.730000019073486",
+                    "cupQuantity": "200",
+                    "dateTime": "18:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": "0.03",
+                    "total_fat": "0.05"
+                },
+                {
+                    "carbohydrates": "23.4",
+                    "calorie": "102",
+                    "cupQuantity": "1",
+                    "dateTime": "21:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": "2",
+                    "total_fat": "0"
+                },
+                {
+                    "carbohydrates": "17",
+                    "calorie": "146",
+                    "cupQuantity": "1",
+                    "dateTime": "21:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": "7",
+                    "total_fat": "5.5"
+                },
+                {
+                    "carbohydrates": "21",
+                    "calorie": "136",
+                    "cupQuantity": "0.5",
+                    "dateTime": "21:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": "1.8",
+                    "total_fat": "5"
+                }
+            ],
+            "last3days": [],
+            "likes_or_dislikes": "",
+            "notby_mouth": false,
+            "nutritionist_note": "",
+            "req_cho_per": 50.0,
+            "reqCal": 1794.8,
+            "req_fat_per": 36.0,
+            "reqPro": 67.25,
+            "req_pro_per": 14.0,
+            "req_cho": 224.0,
+            "req_fat": 71.0,
+            "req_fluid": 1.6,
+            "server_created_on": "",
+            "server_updated_on": ""
+        }
+    ],
+    "diet_plan": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "diet_plan": [
+                {
+                    "carbohydrates": 22.0,
+                    "calorie": 150.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "09:00",
+                    "food": "Chapati (Numbers)",
+                    "id": 871,
+                    "protein": 3.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 0.8,
+                    "dateTime": "09:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "09:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 0.15,
+                    "calorie": 2.0,
+                    "cupQuantity": 15.0,
+                    "dateTime": "11:00",
+                    "food": "Roasted Chana (grams)",
+                    "id": 1033,
+                    "protein": 0.03,
+                    "total_fat": 0.08
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.2,
+                    "dateTime": "13:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 0.8,
+                    "dateTime": "13:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 45.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "13:00",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": 0.0,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 81.0,
+                    "cupQuantity": 2.0,
+                    "dateTime": "16:00",
+                    "food": "Egg whole (Numbers)",
+                    "id": 875,
+                    "protein": 7.92,
+                    "total_fat": 1.38
+                },
+                {
+                    "carbohydrates": 0.05,
+                    "calorie": 0.730000019073486,
+                    "cupQuantity": 200.0,
+                    "dateTime": "18:00",
+                    "food": "Milk Cow (ml)",
+                    "id": 778,
+                    "protein": 0.03,
+                    "total_fat": 0.05
+                },
+                {
+                    "carbohydrates": 24.0,
+                    "calorie": 212.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "19:00",
+                    "food": "Besan ladoo (Numbers)",
+                    "id": 868,
+                    "protein": 4.5,
+                    "total_fat": 11.0
+                },
+                {
+                    "carbohydrates": 23.4,
+                    "calorie": 102.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "21:00",
+                    "food": "Rice (Cup)",
+                    "id": 657,
+                    "protein": 2.0,
+                    "total_fat": 0.0
+                },
+                {
+                    "carbohydrates": 17.0,
+                    "calorie": 146.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "21:00",
+                    "food": "Dal (thick) (Cup)",
+                    "id": 634,
+                    "protein": 7.0,
+                    "total_fat": 5.5
+                },
+                {
+                    "carbohydrates": 21.0,
+                    "calorie": 136.0,
+                    "cupQuantity": 0.5,
+                    "dateTime": "21:00",
+                    "food": "Mix vegetable (Cup)",
+                    "id": 646,
+                    "protein": 1.8,
+                    "total_fat": 5.0
+                },
+                {
+                    "carbohydrates": 0.0,
+                    "calorie": 45.0,
+                    "cupQuantity": 1.0,
+                    "dateTime": "21:00",
+                    "food": "Ghee (Cow) Ghee (tsp)",
+                    "id": 986,
+                    "protein": 0.0,
+                    "total_fat": 5.0
+                }
+            ],
+            "plannedCal": 1888.0,
+            "plannedPer": 0.0,
+            "plannedPro": 61.0,
+            "plannedcalper": 105.0,
+            "plannedcho": 219.8,
+            "plannedfat": 77.5,
+            "plannedfluid": 0.0,
+            "plannedproper": 0.0
+        }
+    ],
+    "feeding": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "create_date_app_side": "2022-02-15 18:20:08",
+            "feeding_type": 1,
+            "nutritionist_comments": "",
+            "selection_reason": ""
+        }
+    ],
+    "guardian": [
+        {
+            "consent_status": 1,
+            "consent_status_timestamp": "2022-02-15 18:12:48",
+            "create_date_app_side": "2022-02-15 18:06:45",
+            "first_name": "Mohammad  Kayamuddin",
+            "gender": 0,
+            "has_a_smartphone": 0,
+            "has_whatsapp": false,
+            "last_name": "",
+            "opt_notification": 1,
+            "patient_uuid": "20220215181248528688a50b-b022-4f7b-9bb1-cad09116e620",
+            "phone_number": "6900445537",
+            "preferred_language": 2,
+            "profile_pic": "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",
+            "relationship_with_patient": "Mother",
+            "spouse_name": "",
+            "synced_by": "Nikita Gaonkar"
+        }
+    ],
+    "hospital_hospital": [],
+    "medical": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "create_date_app_side": "2022-02-15 18:20:07",
+            "side_effects": [
+                14
+            ],
+            "synced_by": "Nikita Gaonkar"
+        }
+    ],
+    "infection": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "create_date_app_side": "2022-02-15 18:20:07",
+            "side_effects": [
+                20
+            ]
+        }
+    ],
+    "patient": [
+        {
+            "active": 2,
+            "cancer_type": 3,
+            "chemothropy_startdate": "",
+            "city": "Assam",
+            "create_date_app_side": "2022-02-15 18:12:48",
+            "device": "4a21045c2ad2daf5",
+            "device_ip": "FE80::7864:F1FF:FE12:7086",
+            "diagnosis_list": 12,
+            "diagnosis_relapse": "1",
+            "diagnosis_stage": 6,
+            "dob": "2010-10-21",
+            "gender": 1,
+            "hospital": 46,
+            "mother_name": "Jahana Begum",
+            "name": "Mohammad Irfan Kayamuddin",
+            "other_condition": "post ASCT 2 years 1month",
+            "patient_unique_id": "CTC-NG-0331",
+            "regn_date_hospital": "2018-10-15 00:00:00",
+            "synced_by": "Nikita Gaonkar",
+            "treatment_phase": 5,
+            "uuid": "20220215181248528688a50b-b022-4f7b-9bb1-cad09116e620"
+        }
+    ],
+    "program_data": [],
+    "rationprovided": [],
+    "rationqualifier": [
+        {
+            "cooking_facility": 0,
+            "counsel_discretion": 0,
+            "date_of_qualifier": "2022-02-15",
+            "dr_discretion": 0,
+            "patient_uuid": "20220215181248528688a50b-b022-4f7b-9bb1-cad09116e620",
+            "single_parent": 0
+        }
+    ],
+    "supplement": [],
+    "support_comment": [],
+    "support_ticket": [],
+    "userdata": {
+        "datetime": "2022-02-15 18:24:36",
+        "rotate_ration": false,
+        "fs_days": 0,
+        "sf": 0,
+        "versionCode": 88,
+        "versionName": "2.6.7"
+    },
+    "WHO_calorie": [
+        {
+            "anthro_uuid": "2022021518124888718210ce-b76d-4bde-98dd-5964aa788467",
+            "create_date_app_side": "2022-02-15 18:15:32",
+            "fifth_step_fever": 98,
+            "fifth_step_post_operative": 0,
+            "fifth_step_stress": 25,
+            "fourth_step_growth": 25,
+            "second_step": 3,
+            "third_step": 3
+        }
+    ]
+}
+
+
+==================================================
+
+
+Log Date & Time : 02/15/2022, 18:41:14hrs{
+    "data": "{\"monitorUCID\":\"97229306046575210\",\"UUI\":\"\",\"Did\":\"918047485618\",\"CampaignName\":\"Inbound_918047485618\",\"Location\":\"Mumbai\",\"CallerID\":\"9125870210\",\"PhoneName\":\"\",\"Skill\":\"General\",\"StartTime\":\"2022-02-15 18:40:18\",\"EndTime\":\"2022-02-15 18:41:14\",\"TimeToAnswer\":\"\",\"CallDuration\":\"00:00:56\",\"Duration\":\"00:00:00\",\"FallBackRule\":\"Queue\",\"DialedNumber\":\"\",\"Type\":\"InBound\",\"AgentID\":\"\",\"AgentPhoneNumber\":\"\",\"AgentUniqueID\":\"\",\"AgentName\":\"\",\"Disposition\":\"\",\"HangupBy\":\"UserHangup\",\"Status\":\"NotAnswered\",\"AudioFile\":\"\",\"TransferType\":\"No Transfers\",\"TransferredTo\":\"\",\"Comments\":\"\",\"DialStatus\":\"\",\"Apikey\":\"KK0875e2c86d95208c0ed9cea3392e24bb\",\"AgentStatus\":\"\",\"CustomerStatus\":\"\",\"UserName\":\"cuddles\",\"CallerConfAudioFile\":\"\",\"ConfDuration\":\"00:00:00\",\"CampaignStatus\":\"ONLINE\",\"DataUniqueId\":\"\",\"WrapUpDuration\":\"00:00:00\"}\n"
+}
